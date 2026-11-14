@@ -1,0 +1,26 @@
+[
+  {
+    "vehiculo": "V1",
+    "chofer": "Rita",
+    "capacidad_kg": 320,
+    "capacidad_m3": 1.5,
+    "desde": "08:00:00",
+    "hasta": "12:30:00"
+  },
+  {
+    "vehiculo": "V2",
+    "chofer": "Tomi",
+    "capacidad_kg": 320,
+    "capacidad_m3": 1.6,
+    "desde": "08:10:00",
+    "hasta": "12:30:00"
+  },
+  {
+    "vehiculo": "V3",
+    "chofer": "Lara",
+    "capacidad_kg": 600,
+    "capacidad_m3": 3.0,
+    "desde": "08:20:00",
+    "hasta": "12:15:00"
+  }
+]

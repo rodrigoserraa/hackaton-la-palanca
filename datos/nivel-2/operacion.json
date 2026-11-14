@@ -1,0 +1,15 @@
+{
+  "fecha": "2026-11-14",
+  "deposito": 1026,
+  "velocidades_kmh": {
+    "residential": 24,
+    "tertiary": 32,
+    "service": 15
+  },
+  "franjas": "La descarga completa debe quedar dentro de la franja del cliente.",
+  "viajes": "Una salida por vehículo y vuelta al depósito; sin recarga ni pedidos divididos.",
+  "recorrido": "Menor distancia dirigida; empate por menor tiempo. access=no no es transitable.",
+  "tiempo_arista": "ceil(distancia_m * 3.6 / velocidad_kmh); sumar segundos enteros por arista.",
+  "espera": "Se puede esperar antes de iniciar una descarga. No se superponen descargas.",
+  "precision": "Horas HH:MM:SS; cantidades con hasta dos decimales; kg y m3 incluyen envases."
+}

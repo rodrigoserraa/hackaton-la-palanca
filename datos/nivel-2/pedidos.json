@@ -1,0 +1,1814 @@
+[
+  {
+    "pedido": "P2-001",
+    "cliente": "C201",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Celandria",
+      "altura": 5010,
+      "nodo": 1450
+    },
+    "franja": {
+      "desde": "10:43:44",
+      "hasta": "11:16:44"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-002",
+    "cliente": "C202",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Brantoria",
+      "altura": 710,
+      "nodo": 1357
+    },
+    "franja": {
+      "desde": "09:00:27",
+      "hasta": "09:41:27"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-003",
+    "cliente": "C203",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Quiranda",
+      "altura": 2310,
+      "nodo": 823
+    },
+    "franja": {
+      "desde": "08:00:00",
+      "hasta": "08:39:51"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-004",
+    "cliente": "C204",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Keraluma",
+      "altura": 1710,
+      "nodo": 517
+    },
+    "franja": {
+      "desde": "10:28:22",
+      "hasta": "11:00:22"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-005",
+    "cliente": "C205",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Umbralia",
+      "altura": 810,
+      "nodo": 1008
+    },
+    "franja": {
+      "desde": "09:09:01",
+      "hasta": "09:50:01"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-006",
+    "cliente": "C206",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 5
+      }
+    ],
+    "direccion": {
+      "calle": "Cuarveta",
+      "altura": 3910,
+      "nodo": 139
+    },
+    "franja": {
+      "desde": "09:11:41",
+      "hasta": "09:57:41"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-007",
+    "cliente": "C207",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Celandria",
+      "altura": 1910,
+      "nodo": 1419
+    },
+    "franja": {
+      "desde": "08:56:28",
+      "hasta": "09:30:28"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-008",
+    "cliente": "C208",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 5
+      }
+    ],
+    "direccion": {
+      "calle": "Quiranda",
+      "altura": 4910,
+      "nodo": 849
+    },
+    "franja": {
+      "desde": "10:06:41",
+      "hasta": "10:47:41"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-009",
+    "cliente": "C209",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 3
+      }
+    ],
+    "direccion": {
+      "calle": "Norquenda",
+      "altura": 3910,
+      "nodo": 1989
+    },
+    "franja": {
+      "desde": "11:15:08",
+      "hasta": "11:49:08"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-010",
+    "cliente": "C210",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 5
+      }
+    ],
+    "direccion": {
+      "calle": "Orvencia",
+      "altura": 4210,
+      "nodo": 742
+    },
+    "franja": {
+      "desde": "08:29:05",
+      "hasta": "09:09:05"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-011",
+    "cliente": "C211",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Fisalia",
+      "altura": 810,
+      "nodo": 1558
+    },
+    "franja": {
+      "desde": "08:28:24",
+      "hasta": "09:11:24"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-012",
+    "cliente": "C212",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Dalmora",
+      "altura": 3210,
+      "nodo": 1482
+    },
+    "franja": {
+      "desde": "09:11:33",
+      "hasta": "09:54:33"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-013",
+    "cliente": "C213",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Valdoria",
+      "altura": 2110,
+      "nodo": 1071
+    },
+    "franja": {
+      "desde": "08:25:37",
+      "hasta": "09:09:37"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-014",
+    "cliente": "C214",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 5
+      }
+    ],
+    "direccion": {
+      "calle": "Zafralia",
+      "altura": 4510,
+      "nodo": 1295
+    },
+    "franja": {
+      "desde": "10:23:52",
+      "hasta": "10:58:52"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-015",
+    "cliente": "C215",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Pandelia",
+      "altura": 210,
+      "nodo": 752
+    },
+    "franja": {
+      "desde": "10:02:34",
+      "hasta": "10:41:34"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-016",
+    "cliente": "C216",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Orvencia",
+      "altura": 810,
+      "nodo": 708
+    },
+    "franja": {
+      "desde": "09:46:07",
+      "hasta": "10:32:07"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-017",
+    "cliente": "C217",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 3
+      }
+    ],
+    "direccion": {
+      "calle": "Nublalia",
+      "altura": 4910,
+      "nodo": 699
+    },
+    "franja": {
+      "desde": "09:54:05",
+      "hasta": "10:36:05"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-018",
+    "cliente": "C218",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Orvencia",
+      "altura": 110,
+      "nodo": 701
+    },
+    "franja": {
+      "desde": "09:59:08",
+      "hasta": "10:36:08"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-019",
+    "cliente": "C219",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Celandria",
+      "altura": 210,
+      "nodo": 1402
+    },
+    "franja": {
+      "desde": "08:49:53",
+      "hasta": "09:30:53"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-020",
+    "cliente": "C220",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Espiruna",
+      "altura": 3510,
+      "nodo": 235
+    },
+    "franja": {
+      "desde": "10:29:57",
+      "hasta": "11:03:57"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-021",
+    "cliente": "C221",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 3
+      }
+    ],
+    "direccion": {
+      "calle": "Aleruma",
+      "altura": 4510,
+      "nodo": 45
+    },
+    "franja": {
+      "desde": "09:27:27",
+      "hasta": "10:10:27"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-022",
+    "cliente": "C222",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Dalmora",
+      "altura": 1410,
+      "nodo": 1464
+    },
+    "franja": {
+      "desde": "08:15:46",
+      "hasta": "08:58:46"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-023",
+    "cliente": "C223",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Brantoria",
+      "altura": 3910,
+      "nodo": 1389
+    },
+    "franja": {
+      "desde": "11:06:35",
+      "hasta": "11:39:35"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-024",
+    "cliente": "C224",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Juncavia",
+      "altura": 4010,
+      "nodo": 490
+    },
+    "franja": {
+      "desde": "08:47:16",
+      "hasta": "09:26:16"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-025",
+    "cliente": "C225",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Xiloria",
+      "altura": 1710,
+      "nodo": 1167
+    },
+    "franja": {
+      "desde": "08:00:00",
+      "hasta": "08:22:51"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-026",
+    "cliente": "C226",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Quiranda",
+      "altura": 3610,
+      "nodo": 836
+    },
+    "franja": {
+      "desde": "10:07:39",
+      "hasta": "10:52:39"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-027",
+    "cliente": "C227",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Almunela",
+      "altura": 2310,
+      "nodo": 1323
+    },
+    "franja": {
+      "desde": "08:42:04",
+      "hasta": "09:14:04"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-028",
+    "cliente": "C228",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Wendarpa",
+      "altura": 2010,
+      "nodo": 1120
+    },
+    "franja": {
+      "desde": "08:32:05",
+      "hasta": "09:12:05"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-029",
+    "cliente": "C229",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Galdoria",
+      "altura": 3610,
+      "nodo": 1636
+    },
+    "franja": {
+      "desde": "09:53:06",
+      "hasta": "10:35:06"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-030",
+    "cliente": "C230",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Serralvia",
+      "altura": 2410,
+      "nodo": 924
+    },
+    "franja": {
+      "desde": "08:00:00",
+      "hasta": "08:35:59"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-031",
+    "cliente": "C231",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Hojalvia",
+      "altura": 510,
+      "nodo": 355
+    },
+    "franja": {
+      "desde": "10:08:49",
+      "hasta": "10:48:49"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-032",
+    "cliente": "C232",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Mendarpa",
+      "altura": 4410,
+      "nodo": 644
+    },
+    "franja": {
+      "desde": "08:35:36",
+      "hasta": "09:19:36"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-033",
+    "cliente": "C233",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Zafralia",
+      "altura": 710,
+      "nodo": 1257
+    },
+    "franja": {
+      "desde": "08:54:51",
+      "hasta": "09:37:51"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-034",
+    "cliente": "C234",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Ferluma",
+      "altura": 4110,
+      "nodo": 291
+    },
+    "franja": {
+      "desde": "09:07:22",
+      "hasta": "09:48:22"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-035",
+    "cliente": "C235",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Galdoria",
+      "altura": 3710,
+      "nodo": 1637
+    },
+    "franja": {
+      "desde": "10:58:21",
+      "hasta": "11:34:21"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-036",
+    "cliente": "C236",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Mirlavia",
+      "altura": 3010,
+      "nodo": 1930
+    },
+    "franja": {
+      "desde": "09:40:20",
+      "hasta": "10:24:20"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-037",
+    "cliente": "C237",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Brisalia",
+      "altura": 3710,
+      "nodo": 87
+    },
+    "franja": {
+      "desde": "09:20:58",
+      "hasta": "10:02:58"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-038",
+    "cliente": "C238",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Aleruma",
+      "altura": 2510,
+      "nodo": 25
+    },
+    "franja": {
+      "desde": "10:42:35",
+      "hasta": "11:18:35"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-039",
+    "cliente": "C239",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Lendoria",
+      "altura": 2910,
+      "nodo": 1879
+    },
+    "franja": {
+      "desde": "09:37:49",
+      "hasta": "10:17:49"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-040",
+    "cliente": "C240",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Quiranda",
+      "altura": 610,
+      "nodo": 806
+    },
+    "franja": {
+      "desde": "09:45:02",
+      "hasta": "10:21:02"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-041",
+    "cliente": "C241",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Iramonte",
+      "altura": 3710,
+      "nodo": 437
+    },
+    "franja": {
+      "desde": "08:59:24",
+      "hasta": "09:41:24"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-042",
+    "cliente": "C242",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Dorsavia",
+      "altura": 2410,
+      "nodo": 174
+    },
+    "franja": {
+      "desde": "10:55:17",
+      "hasta": "11:28:17"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-043",
+    "cliente": "C243",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Valdoria",
+      "altura": 3210,
+      "nodo": 1082
+    },
+    "franja": {
+      "desde": "10:03:12",
+      "hasta": "10:43:12"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-044",
+    "cliente": "C244",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Fisalia",
+      "altura": 2910,
+      "nodo": 1579
+    },
+    "franja": {
+      "desde": "09:10:16",
+      "hasta": "09:44:16"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-045",
+    "cliente": "C245",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Serralvia",
+      "altura": 1910,
+      "nodo": 919
+    },
+    "franja": {
+      "desde": "08:09:30",
+      "hasta": "08:52:30"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-046",
+    "cliente": "C246",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Dorsavia",
+      "altura": 2310,
+      "nodo": 173
+    },
+    "franja": {
+      "desde": "10:49:59",
+      "hasta": "11:22:59"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-047",
+    "cliente": "C247",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Orvencia",
+      "altura": 4310,
+      "nodo": 743
+    },
+    "franja": {
+      "desde": "08:33:32",
+      "hasta": "09:12:32"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-048",
+    "cliente": "C248",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Serralvia",
+      "altura": 3910,
+      "nodo": 939
+    },
+    "franja": {
+      "desde": "08:26:37",
+      "hasta": "08:58:37"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-049",
+    "cliente": "C249",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Yerralma",
+      "altura": 4410,
+      "nodo": 1244
+    },
+    "franja": {
+      "desde": "10:19:16",
+      "hasta": "10:53:16"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-050",
+    "cliente": "C250",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Fisalia",
+      "altura": 4810,
+      "nodo": 1598
+    },
+    "franja": {
+      "desde": "10:49:03",
+      "hasta": "11:27:03"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-051",
+    "cliente": "C251",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Ferluma",
+      "altura": 5010,
+      "nodo": 300
+    },
+    "franja": {
+      "desde": "09:52:01",
+      "hasta": "10:23:01"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-052",
+    "cliente": "C252",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Wendarpa",
+      "altura": 910,
+      "nodo": 1109
+    },
+    "franja": {
+      "desde": "09:22:52",
+      "hasta": "09:59:52"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-053",
+    "cliente": "C253",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Torvanta",
+      "altura": 1110,
+      "nodo": 961
+    },
+    "franja": {
+      "desde": "10:42:49",
+      "hasta": "11:23:49"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-054",
+    "cliente": "C254",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Celandria",
+      "altura": 2810,
+      "nodo": 1428
+    },
+    "franja": {
+      "desde": "09:16:12",
+      "hasta": "09:59:12"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-055",
+    "cliente": "C255",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Fisalia",
+      "altura": 1210,
+      "nodo": 1562
+    },
+    "franja": {
+      "desde": "08:26:16",
+      "hasta": "09:00:16"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-056",
+    "cliente": "C256",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Norquenda",
+      "altura": 2110,
+      "nodo": 1971
+    },
+    "franja": {
+      "desde": "11:17:36",
+      "hasta": "12:01:36"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-057",
+    "cliente": "C257",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Umbralia",
+      "altura": 3710,
+      "nodo": 1037
+    },
+    "franja": {
+      "desde": "08:08:16",
+      "hasta": "08:39:16"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-058",
+    "cliente": "C258",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Yerralma",
+      "altura": 1410,
+      "nodo": 1214
+    },
+    "franja": {
+      "desde": "08:00:00",
+      "hasta": "08:26:54"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-059",
+    "cliente": "C259",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Aleruma",
+      "altura": 1610,
+      "nodo": 16
+    },
+    "franja": {
+      "desde": "10:34:48",
+      "hasta": "11:07:48"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-060",
+    "cliente": "C260",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Norquenda",
+      "altura": 610,
+      "nodo": 1956
+    },
+    "franja": {
+      "desde": "11:17:41",
+      "hasta": "12:02:41"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-061",
+    "cliente": "C261",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 3
+      }
+    ],
+    "direccion": {
+      "calle": "Torvanta",
+      "altura": 4210,
+      "nodo": 992
+    },
+    "franja": {
+      "desde": "08:06:33",
+      "hasta": "08:51:33"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-062",
+    "cliente": "C262",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Umbralia",
+      "altura": 910,
+      "nodo": 1009
+    },
+    "franja": {
+      "desde": "09:18:14",
+      "hasta": "09:52:14"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-063",
+    "cliente": "C263",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Dorsavia",
+      "altura": 4510,
+      "nodo": 195
+    },
+    "franja": {
+      "desde": "09:35:21",
+      "hasta": "10:12:21"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-064",
+    "cliente": "C264",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Umbralia",
+      "altura": 1710,
+      "nodo": 1017
+    },
+    "franja": {
+      "desde": "08:15:36",
+      "hasta": "08:56:36"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-065",
+    "cliente": "C265",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Galdoria",
+      "altura": 1810,
+      "nodo": 1618
+    },
+    "franja": {
+      "desde": "08:59:58",
+      "hasta": "09:38:58"
+    },
+    "descarga_segundos": 180
+  },
+  {
+    "pedido": "P2-066",
+    "cliente": "C266",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Dalmora",
+      "altura": 410,
+      "nodo": 1454
+    },
+    "franja": {
+      "desde": "08:33:03",
+      "hasta": "09:19:03"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-067",
+    "cliente": "C267",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Zafralia",
+      "altura": 1210,
+      "nodo": 1262
+    },
+    "franja": {
+      "desde": "08:07:41",
+      "hasta": "08:41:41"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-068",
+    "cliente": "C268",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Serralvia",
+      "altura": 710,
+      "nodo": 907
+    },
+    "franja": {
+      "desde": "09:38:19",
+      "hasta": "10:16:19"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-069",
+    "cliente": "C269",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Iramonte",
+      "altura": 2310,
+      "nodo": 423
+    },
+    "franja": {
+      "desde": "11:02:27",
+      "hasta": "11:35:27"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-070",
+    "cliente": "C270",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "RUC-AT",
+        "cantidad": 4
+      }
+    ],
+    "direccion": {
+      "calle": "Orvencia",
+      "altura": 4710,
+      "nodo": 747
+    },
+    "franja": {
+      "desde": "10:05:14",
+      "hasta": "10:37:14"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-071",
+    "cliente": "C271",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-D12",
+        "cantidad": 0.5
+      }
+    ],
+    "direccion": {
+      "calle": "Dorsavia",
+      "altura": 3210,
+      "nodo": 182
+    },
+    "franja": {
+      "desde": "10:35:03",
+      "hasta": "11:12:03"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-072",
+    "cliente": "C272",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Mirlavia",
+      "altura": 1510,
+      "nodo": 1915
+    },
+    "franja": {
+      "desde": "11:03:26",
+      "hasta": "11:36:26"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-073",
+    "cliente": "C273",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Korlanta",
+      "altura": 1110,
+      "nodo": 1811
+    },
+    "franja": {
+      "desde": "10:51:36",
+      "hasta": "11:33:36"
+    },
+    "descarga_segundos": 360
+  },
+  {
+    "pedido": "P2-074",
+    "cliente": "C274",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Keraluma",
+      "altura": 4410,
+      "nodo": 544
+    },
+    "franja": {
+      "desde": "08:42:11",
+      "hasta": "09:22:11"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-075",
+    "cliente": "C275",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Valdoria",
+      "altura": 1810,
+      "nodo": 1068
+    },
+    "franja": {
+      "desde": "08:25:18",
+      "hasta": "08:58:18"
+    },
+    "descarga_segundos": 300
+  },
+  {
+    "pedido": "P2-076",
+    "cliente": "C276",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Dalmora",
+      "altura": 4810,
+      "nodo": 1498
+    },
+    "franja": {
+      "desde": "10:38:38",
+      "hasta": "11:10:38"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-077",
+    "cliente": "C277",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Jasmoria",
+      "altura": 3310,
+      "nodo": 1783
+    },
+    "franja": {
+      "desde": "09:51:49",
+      "hasta": "10:23:49"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-078",
+    "cliente": "C278",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Dalmora",
+      "altura": 2710,
+      "nodo": 1477
+    },
+    "franja": {
+      "desde": "09:25:53",
+      "hasta": "09:57:53"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-079",
+    "cliente": "C279",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 1
+      }
+    ],
+    "direccion": {
+      "calle": "Mirlavia",
+      "altura": 510,
+      "nodo": 1905
+    },
+    "franja": {
+      "desde": "11:05:08",
+      "hasta": "11:49:08"
+    },
+    "descarga_segundos": 240
+  },
+  {
+    "pedido": "P2-080",
+    "cliente": "C280",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 2
+      }
+    ],
+    "direccion": {
+      "calle": "Brantoria",
+      "altura": 1210,
+      "nodo": 1362
+    },
+    "franja": {
+      "desde": "08:12:36",
+      "hasta": "08:50:36"
+    },
+    "descarga_segundos": 360
+  }
+]
