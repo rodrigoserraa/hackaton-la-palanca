@@ -1,0 +1,26 @@
+[
+  {
+    "referencia": "Local frente a Plaza del Carretel, sobre Dorsavia",
+    "direccion": {
+      "calle": "Dorsavia",
+      "altura": 1410,
+      "nodo": 164
+    }
+  },
+  {
+    "referencia": "Galpón al lado del tanque de Las Poleas",
+    "direccion": {
+      "calle": "Wendarpa",
+      "altura": 1010,
+      "nodo": 1110
+    }
+  },
+  {
+    "referencia": "Entrada del club Ribera del Riel",
+    "direccion": {
+      "calle": "Irundela",
+      "altura": 810,
+      "nodo": 1708
+    }
+  }
+]

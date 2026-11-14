@@ -1,0 +1,4001 @@
+calle,altura,nodo,barrio
+Aleruma,110,1,Carretel
+Trama Alvireo,110,1,Carretel
+Aleruma,210,2,Carretel
+Trama Brumiel,110,2,Carretel
+Aleruma,310,3,Carretel
+Trama Celdaro,110,3,Carretel
+Aleruma,410,4,Carretel
+Trama Dunaria,110,4,Carretel
+Aleruma,510,5,Carretel
+Trama Esvante,110,5,Carretel
+Aleruma,610,6,Carretel
+Trama Fornelia,110,6,Carretel
+Aleruma,710,7,Carretel
+Trama Grivanto,110,7,Carretel
+Aleruma,810,8,Carretel
+Trama Hondelia,110,8,Carretel
+Aleruma,910,9,Carretel
+Trama Isvario,110,9,Carretel
+Aleruma,1010,10,Carretel
+Trama Jundela,110,10,Carretel
+Aleruma,1110,11,Carretel
+Ronda Alvireo,110,11,Carretel
+Aleruma,1210,12,Carretel
+Ronda Brumiel,110,12,Carretel
+Aleruma,1310,13,Carretel
+Ronda Celdaro,110,13,Carretel
+Aleruma,1410,14,Carretel
+Ronda Dunaria,110,14,Carretel
+Aleruma,1510,15,Carretel
+Ronda Esvante,110,15,Carretel
+Aleruma,1610,16,Carretel
+Ronda Fornelia,110,16,Carretel
+Aleruma,1710,17,Carretel
+Ronda Grivanto,110,17,Carretel
+Aleruma,1810,18,Muelle de Cobre
+Ronda Hondelia,110,18,Muelle de Cobre
+Aleruma,1910,19,Muelle de Cobre
+Ronda Isvario,110,19,Muelle de Cobre
+Aleruma,2010,20,Muelle de Cobre
+Ronda Jundela,110,20,Muelle de Cobre
+Aleruma,2110,21,Muelle de Cobre
+Vuelta Alvireo,110,21,Muelle de Cobre
+Aleruma,2210,22,Muelle de Cobre
+Vuelta Brumiel,110,22,Muelle de Cobre
+Aleruma,2310,23,Muelle de Cobre
+Vuelta Celdaro,110,23,Muelle de Cobre
+Aleruma,2410,24,Muelle de Cobre
+Vuelta Dunaria,110,24,Muelle de Cobre
+Aleruma,2510,25,Muelle de Cobre
+Vuelta Esvante,110,25,Muelle de Cobre
+Aleruma,2610,26,Muelle de Cobre
+Vuelta Fornelia,110,26,Muelle de Cobre
+Aleruma,2710,27,Muelle de Cobre
+Vuelta Grivanto,110,27,Muelle de Cobre
+Aleruma,2810,28,Muelle de Cobre
+Vuelta Hondelia,110,28,Muelle de Cobre
+Aleruma,2910,29,Muelle de Cobre
+Vuelta Isvario,110,29,Muelle de Cobre
+Aleruma,3010,30,Muelle de Cobre
+Vuelta Jundela,110,30,Muelle de Cobre
+Aleruma,3110,31,Muelle de Cobre
+Senda Alvireo,110,31,Muelle de Cobre
+Aleruma,3210,32,Muelle de Cobre
+Senda Brumiel,110,32,Muelle de Cobre
+Aleruma,3310,33,Muelle de Cobre
+Senda Celdaro,110,33,Muelle de Cobre
+Aleruma,3410,34,Muelle de Cobre
+Senda Dunaria,110,34,Muelle de Cobre
+Aleruma,3510,35,Huerta del Viento
+Senda Esvante,110,35,Huerta del Viento
+Aleruma,3610,36,Huerta del Viento
+Senda Fornelia,110,36,Huerta del Viento
+Aleruma,3710,37,Huerta del Viento
+Senda Grivanto,110,37,Huerta del Viento
+Aleruma,3810,38,Huerta del Viento
+Senda Hondelia,110,38,Huerta del Viento
+Aleruma,3910,39,Huerta del Viento
+Senda Isvario,110,39,Huerta del Viento
+Aleruma,4010,40,Huerta del Viento
+Senda Jundela,110,40,Huerta del Viento
+Aleruma,4110,41,Huerta del Viento
+Paso Alvireo,110,41,Huerta del Viento
+Aleruma,4210,42,Huerta del Viento
+Paso Brumiel,110,42,Huerta del Viento
+Aleruma,4310,43,Huerta del Viento
+Paso Celdaro,110,43,Huerta del Viento
+Aleruma,4410,44,Huerta del Viento
+Paso Dunaria,110,44,Huerta del Viento
+Aleruma,4510,45,Huerta del Viento
+Paso Esvante,110,45,Huerta del Viento
+Aleruma,4610,46,Huerta del Viento
+Paso Fornelia,110,46,Huerta del Viento
+Aleruma,4710,47,Huerta del Viento
+Paso Grivanto,110,47,Huerta del Viento
+Aleruma,4810,48,Huerta del Viento
+Paso Hondelia,110,48,Huerta del Viento
+Aleruma,4910,49,Huerta del Viento
+Paso Isvario,110,49,Huerta del Viento
+Aleruma,5010,50,Huerta del Viento
+Paso Jundela,110,50,Huerta del Viento
+Brisalia,110,51,Carretel
+Trama Alvireo,210,51,Carretel
+Brisalia,210,52,Carretel
+Trama Brumiel,210,52,Carretel
+Brisalia,310,53,Carretel
+Trama Celdaro,210,53,Carretel
+Brisalia,410,54,Carretel
+Trama Dunaria,210,54,Carretel
+Brisalia,510,55,Carretel
+Trama Esvante,210,55,Carretel
+Brisalia,610,56,Carretel
+Trama Fornelia,210,56,Carretel
+Brisalia,710,57,Carretel
+Trama Grivanto,210,57,Carretel
+Brisalia,810,58,Carretel
+Trama Hondelia,210,58,Carretel
+Brisalia,910,59,Carretel
+Trama Isvario,210,59,Carretel
+Brisalia,1010,60,Carretel
+Trama Jundela,210,60,Carretel
+Brisalia,1110,61,Carretel
+Ronda Alvireo,210,61,Carretel
+Brisalia,1210,62,Carretel
+Ronda Brumiel,210,62,Carretel
+Brisalia,1310,63,Carretel
+Ronda Celdaro,210,63,Carretel
+Brisalia,1410,64,Carretel
+Ronda Dunaria,210,64,Carretel
+Brisalia,1510,65,Carretel
+Ronda Esvante,210,65,Carretel
+Brisalia,1610,66,Carretel
+Ronda Fornelia,210,66,Carretel
+Brisalia,1710,67,Carretel
+Ronda Grivanto,210,67,Carretel
+Brisalia,1810,68,Muelle de Cobre
+Ronda Hondelia,210,68,Muelle de Cobre
+Brisalia,1910,69,Muelle de Cobre
+Ronda Isvario,210,69,Muelle de Cobre
+Brisalia,2010,70,Muelle de Cobre
+Ronda Jundela,210,70,Muelle de Cobre
+Brisalia,2110,71,Muelle de Cobre
+Vuelta Alvireo,210,71,Muelle de Cobre
+Brisalia,2210,72,Muelle de Cobre
+Vuelta Brumiel,210,72,Muelle de Cobre
+Brisalia,2310,73,Muelle de Cobre
+Vuelta Celdaro,210,73,Muelle de Cobre
+Brisalia,2410,74,Muelle de Cobre
+Vuelta Dunaria,210,74,Muelle de Cobre
+Brisalia,2510,75,Muelle de Cobre
+Vuelta Esvante,210,75,Muelle de Cobre
+Brisalia,2610,76,Muelle de Cobre
+Vuelta Fornelia,210,76,Muelle de Cobre
+Brisalia,2710,77,Muelle de Cobre
+Vuelta Grivanto,210,77,Muelle de Cobre
+Brisalia,2810,78,Muelle de Cobre
+Vuelta Hondelia,210,78,Muelle de Cobre
+Brisalia,2910,79,Muelle de Cobre
+Vuelta Isvario,210,79,Muelle de Cobre
+Brisalia,3010,80,Muelle de Cobre
+Vuelta Jundela,210,80,Muelle de Cobre
+Brisalia,3110,81,Muelle de Cobre
+Senda Alvireo,210,81,Muelle de Cobre
+Brisalia,3210,82,Muelle de Cobre
+Senda Brumiel,210,82,Muelle de Cobre
+Brisalia,3310,83,Muelle de Cobre
+Senda Celdaro,210,83,Muelle de Cobre
+Brisalia,3410,84,Muelle de Cobre
+Senda Dunaria,210,84,Muelle de Cobre
+Brisalia,3510,85,Huerta del Viento
+Senda Esvante,210,85,Huerta del Viento
+Brisalia,3610,86,Huerta del Viento
+Senda Fornelia,210,86,Huerta del Viento
+Brisalia,3710,87,Huerta del Viento
+Senda Grivanto,210,87,Huerta del Viento
+Brisalia,3810,88,Huerta del Viento
+Senda Hondelia,210,88,Huerta del Viento
+Brisalia,3910,89,Huerta del Viento
+Senda Isvario,210,89,Huerta del Viento
+Brisalia,4010,90,Huerta del Viento
+Senda Jundela,210,90,Huerta del Viento
+Brisalia,4110,91,Huerta del Viento
+Paso Alvireo,210,91,Huerta del Viento
+Brisalia,4210,92,Huerta del Viento
+Paso Brumiel,210,92,Huerta del Viento
+Brisalia,4310,93,Huerta del Viento
+Paso Celdaro,210,93,Huerta del Viento
+Brisalia,4410,94,Huerta del Viento
+Paso Dunaria,210,94,Huerta del Viento
+Brisalia,4510,95,Huerta del Viento
+Paso Esvante,210,95,Huerta del Viento
+Brisalia,4610,96,Huerta del Viento
+Paso Fornelia,210,96,Huerta del Viento
+Brisalia,4710,97,Huerta del Viento
+Paso Grivanto,210,97,Huerta del Viento
+Brisalia,4810,98,Huerta del Viento
+Paso Hondelia,210,98,Huerta del Viento
+Brisalia,4910,99,Huerta del Viento
+Paso Isvario,210,99,Huerta del Viento
+Brisalia,5010,100,Huerta del Viento
+Paso Jundela,210,100,Huerta del Viento
+Cuarveta,110,101,Carretel
+Trama Alvireo,310,101,Carretel
+Cuarveta,210,102,Carretel
+Trama Brumiel,310,102,Carretel
+Cuarveta,310,103,Carretel
+Trama Celdaro,310,103,Carretel
+Cuarveta,410,104,Carretel
+Trama Dunaria,310,104,Carretel
+Cuarveta,510,105,Carretel
+Trama Esvante,310,105,Carretel
+Cuarveta,610,106,Carretel
+Trama Fornelia,310,106,Carretel
+Cuarveta,710,107,Carretel
+Trama Grivanto,310,107,Carretel
+Cuarveta,810,108,Carretel
+Trama Hondelia,310,108,Carretel
+Cuarveta,910,109,Carretel
+Trama Isvario,310,109,Carretel
+Cuarveta,1010,110,Carretel
+Trama Jundela,310,110,Carretel
+Cuarveta,1110,111,Carretel
+Ronda Alvireo,310,111,Carretel
+Cuarveta,1210,112,Carretel
+Ronda Brumiel,310,112,Carretel
+Cuarveta,1310,113,Carretel
+Ronda Celdaro,310,113,Carretel
+Cuarveta,1410,114,Carretel
+Ronda Dunaria,310,114,Carretel
+Cuarveta,1510,115,Carretel
+Ronda Esvante,310,115,Carretel
+Cuarveta,1610,116,Carretel
+Ronda Fornelia,310,116,Carretel
+Cuarveta,1710,117,Carretel
+Ronda Grivanto,310,117,Carretel
+Cuarveta,1810,118,Muelle de Cobre
+Ronda Hondelia,310,118,Muelle de Cobre
+Cuarveta,1910,119,Muelle de Cobre
+Ronda Isvario,310,119,Muelle de Cobre
+Cuarveta,2010,120,Muelle de Cobre
+Ronda Jundela,310,120,Muelle de Cobre
+Cuarveta,2110,121,Muelle de Cobre
+Vuelta Alvireo,310,121,Muelle de Cobre
+Cuarveta,2210,122,Muelle de Cobre
+Vuelta Brumiel,310,122,Muelle de Cobre
+Cuarveta,2310,123,Muelle de Cobre
+Vuelta Celdaro,310,123,Muelle de Cobre
+Cuarveta,2410,124,Muelle de Cobre
+Vuelta Dunaria,310,124,Muelle de Cobre
+Cuarveta,2510,125,Muelle de Cobre
+Vuelta Esvante,310,125,Muelle de Cobre
+Cuarveta,2610,126,Muelle de Cobre
+Vuelta Fornelia,310,126,Muelle de Cobre
+Cuarveta,2710,127,Muelle de Cobre
+Vuelta Grivanto,310,127,Muelle de Cobre
+Cuarveta,2810,128,Muelle de Cobre
+Vuelta Hondelia,310,128,Muelle de Cobre
+Cuarveta,2910,129,Muelle de Cobre
+Vuelta Isvario,310,129,Muelle de Cobre
+Cuarveta,3010,130,Muelle de Cobre
+Vuelta Jundela,310,130,Muelle de Cobre
+Cuarveta,3110,131,Muelle de Cobre
+Senda Alvireo,310,131,Muelle de Cobre
+Cuarveta,3210,132,Muelle de Cobre
+Senda Brumiel,310,132,Muelle de Cobre
+Cuarveta,3310,133,Muelle de Cobre
+Senda Celdaro,310,133,Muelle de Cobre
+Cuarveta,3410,134,Muelle de Cobre
+Senda Dunaria,310,134,Muelle de Cobre
+Cuarveta,3510,135,Huerta del Viento
+Senda Esvante,310,135,Huerta del Viento
+Cuarveta,3610,136,Huerta del Viento
+Senda Fornelia,310,136,Huerta del Viento
+Cuarveta,3710,137,Huerta del Viento
+Senda Grivanto,310,137,Huerta del Viento
+Cuarveta,3810,138,Huerta del Viento
+Senda Hondelia,310,138,Huerta del Viento
+Cuarveta,3910,139,Huerta del Viento
+Senda Isvario,310,139,Huerta del Viento
+Cuarveta,4010,140,Huerta del Viento
+Senda Jundela,310,140,Huerta del Viento
+Cuarveta,4110,141,Huerta del Viento
+Paso Alvireo,310,141,Huerta del Viento
+Cuarveta,4210,142,Huerta del Viento
+Paso Brumiel,310,142,Huerta del Viento
+Cuarveta,4310,143,Huerta del Viento
+Paso Celdaro,310,143,Huerta del Viento
+Cuarveta,4410,144,Huerta del Viento
+Paso Dunaria,310,144,Huerta del Viento
+Cuarveta,4510,145,Huerta del Viento
+Paso Esvante,310,145,Huerta del Viento
+Cuarveta,4610,146,Huerta del Viento
+Paso Fornelia,310,146,Huerta del Viento
+Cuarveta,4710,147,Huerta del Viento
+Paso Grivanto,310,147,Huerta del Viento
+Cuarveta,4810,148,Huerta del Viento
+Paso Hondelia,310,148,Huerta del Viento
+Cuarveta,4910,149,Huerta del Viento
+Paso Isvario,310,149,Huerta del Viento
+Cuarveta,5010,150,Huerta del Viento
+Paso Jundela,310,150,Huerta del Viento
+Dorsavia,110,151,Carretel
+Trama Alvireo,410,151,Carretel
+Dorsavia,210,152,Carretel
+Trama Brumiel,410,152,Carretel
+Dorsavia,310,153,Carretel
+Trama Celdaro,410,153,Carretel
+Dorsavia,410,154,Carretel
+Trama Dunaria,410,154,Carretel
+Dorsavia,510,155,Carretel
+Trama Esvante,410,155,Carretel
+Dorsavia,610,156,Carretel
+Trama Fornelia,410,156,Carretel
+Dorsavia,710,157,Carretel
+Trama Grivanto,410,157,Carretel
+Dorsavia,810,158,Carretel
+Trama Hondelia,410,158,Carretel
+Dorsavia,910,159,Carretel
+Trama Isvario,410,159,Carretel
+Dorsavia,1010,160,Carretel
+Trama Jundela,410,160,Carretel
+Dorsavia,1110,161,Carretel
+Ronda Alvireo,410,161,Carretel
+Dorsavia,1210,162,Carretel
+Ronda Brumiel,410,162,Carretel
+Dorsavia,1310,163,Carretel
+Ronda Celdaro,410,163,Carretel
+Dorsavia,1410,164,Carretel
+Ronda Dunaria,410,164,Carretel
+Dorsavia,1510,165,Carretel
+Ronda Esvante,410,165,Carretel
+Dorsavia,1610,166,Carretel
+Ronda Fornelia,410,166,Carretel
+Dorsavia,1710,167,Carretel
+Ronda Grivanto,410,167,Carretel
+Dorsavia,1810,168,Muelle de Cobre
+Ronda Hondelia,410,168,Muelle de Cobre
+Dorsavia,1910,169,Muelle de Cobre
+Ronda Isvario,410,169,Muelle de Cobre
+Dorsavia,2010,170,Muelle de Cobre
+Ronda Jundela,410,170,Muelle de Cobre
+Dorsavia,2110,171,Muelle de Cobre
+Vuelta Alvireo,410,171,Muelle de Cobre
+Dorsavia,2210,172,Muelle de Cobre
+Vuelta Brumiel,410,172,Muelle de Cobre
+Dorsavia,2310,173,Muelle de Cobre
+Vuelta Celdaro,410,173,Muelle de Cobre
+Dorsavia,2410,174,Muelle de Cobre
+Vuelta Dunaria,410,174,Muelle de Cobre
+Dorsavia,2510,175,Muelle de Cobre
+Vuelta Esvante,410,175,Muelle de Cobre
+Dorsavia,2610,176,Muelle de Cobre
+Vuelta Fornelia,410,176,Muelle de Cobre
+Dorsavia,2710,177,Muelle de Cobre
+Vuelta Grivanto,410,177,Muelle de Cobre
+Dorsavia,2810,178,Muelle de Cobre
+Vuelta Hondelia,410,178,Muelle de Cobre
+Dorsavia,2910,179,Muelle de Cobre
+Vuelta Isvario,410,179,Muelle de Cobre
+Dorsavia,3010,180,Muelle de Cobre
+Vuelta Jundela,410,180,Muelle de Cobre
+Dorsavia,3110,181,Muelle de Cobre
+Senda Alvireo,410,181,Muelle de Cobre
+Dorsavia,3210,182,Muelle de Cobre
+Senda Brumiel,410,182,Muelle de Cobre
+Dorsavia,3310,183,Muelle de Cobre
+Senda Celdaro,410,183,Muelle de Cobre
+Dorsavia,3410,184,Muelle de Cobre
+Senda Dunaria,410,184,Muelle de Cobre
+Dorsavia,3510,185,Huerta del Viento
+Senda Esvante,410,185,Huerta del Viento
+Dorsavia,3610,186,Huerta del Viento
+Senda Fornelia,410,186,Huerta del Viento
+Dorsavia,3710,187,Huerta del Viento
+Senda Grivanto,410,187,Huerta del Viento
+Dorsavia,3810,188,Huerta del Viento
+Senda Hondelia,410,188,Huerta del Viento
+Dorsavia,3910,189,Huerta del Viento
+Senda Isvario,410,189,Huerta del Viento
+Dorsavia,4010,190,Huerta del Viento
+Senda Jundela,410,190,Huerta del Viento
+Dorsavia,4110,191,Huerta del Viento
+Paso Alvireo,410,191,Huerta del Viento
+Dorsavia,4210,192,Huerta del Viento
+Paso Brumiel,410,192,Huerta del Viento
+Dorsavia,4310,193,Huerta del Viento
+Paso Celdaro,410,193,Huerta del Viento
+Dorsavia,4410,194,Huerta del Viento
+Paso Dunaria,410,194,Huerta del Viento
+Dorsavia,4510,195,Huerta del Viento
+Paso Esvante,410,195,Huerta del Viento
+Dorsavia,4610,196,Huerta del Viento
+Paso Fornelia,410,196,Huerta del Viento
+Dorsavia,4710,197,Huerta del Viento
+Paso Grivanto,410,197,Huerta del Viento
+Dorsavia,4810,198,Huerta del Viento
+Paso Hondelia,410,198,Huerta del Viento
+Dorsavia,4910,199,Huerta del Viento
+Paso Isvario,410,199,Huerta del Viento
+Dorsavia,5010,200,Huerta del Viento
+Paso Jundela,410,200,Huerta del Viento
+Espiruna,110,201,Carretel
+Trama Alvireo,510,201,Carretel
+Espiruna,210,202,Carretel
+Trama Brumiel,510,202,Carretel
+Espiruna,310,203,Carretel
+Trama Celdaro,510,203,Carretel
+Espiruna,410,204,Carretel
+Trama Dunaria,510,204,Carretel
+Espiruna,510,205,Carretel
+Trama Esvante,510,205,Carretel
+Espiruna,610,206,Carretel
+Trama Fornelia,510,206,Carretel
+Espiruna,710,207,Carretel
+Trama Grivanto,510,207,Carretel
+Espiruna,810,208,Carretel
+Trama Hondelia,510,208,Carretel
+Espiruna,910,209,Carretel
+Trama Isvario,510,209,Carretel
+Espiruna,1010,210,Carretel
+Trama Jundela,510,210,Carretel
+Espiruna,1110,211,Carretel
+Ronda Alvireo,510,211,Carretel
+Espiruna,1210,212,Carretel
+Ronda Brumiel,510,212,Carretel
+Espiruna,1310,213,Carretel
+Ronda Celdaro,510,213,Carretel
+Espiruna,1410,214,Carretel
+Ronda Dunaria,510,214,Carretel
+Espiruna,1510,215,Carretel
+Ronda Esvante,510,215,Carretel
+Espiruna,1610,216,Carretel
+Ronda Fornelia,510,216,Carretel
+Espiruna,1710,217,Carretel
+Ronda Grivanto,510,217,Carretel
+Espiruna,1810,218,Muelle de Cobre
+Ronda Hondelia,510,218,Muelle de Cobre
+Espiruna,1910,219,Muelle de Cobre
+Ronda Isvario,510,219,Muelle de Cobre
+Espiruna,2010,220,Muelle de Cobre
+Ronda Jundela,510,220,Muelle de Cobre
+Espiruna,2110,221,Muelle de Cobre
+Vuelta Alvireo,510,221,Muelle de Cobre
+Espiruna,2210,222,Muelle de Cobre
+Vuelta Brumiel,510,222,Muelle de Cobre
+Espiruna,2310,223,Muelle de Cobre
+Vuelta Celdaro,510,223,Muelle de Cobre
+Espiruna,2410,224,Muelle de Cobre
+Vuelta Dunaria,510,224,Muelle de Cobre
+Espiruna,2510,225,Muelle de Cobre
+Vuelta Esvante,510,225,Muelle de Cobre
+Espiruna,2610,226,Muelle de Cobre
+Vuelta Fornelia,510,226,Muelle de Cobre
+Espiruna,2710,227,Muelle de Cobre
+Vuelta Grivanto,510,227,Muelle de Cobre
+Espiruna,2810,228,Muelle de Cobre
+Vuelta Hondelia,510,228,Muelle de Cobre
+Espiruna,2910,229,Muelle de Cobre
+Vuelta Isvario,510,229,Muelle de Cobre
+Espiruna,3010,230,Muelle de Cobre
+Vuelta Jundela,510,230,Muelle de Cobre
+Espiruna,3110,231,Muelle de Cobre
+Senda Alvireo,510,231,Muelle de Cobre
+Espiruna,3210,232,Muelle de Cobre
+Senda Brumiel,510,232,Muelle de Cobre
+Espiruna,3310,233,Muelle de Cobre
+Senda Celdaro,510,233,Muelle de Cobre
+Espiruna,3410,234,Muelle de Cobre
+Senda Dunaria,510,234,Muelle de Cobre
+Espiruna,3510,235,Huerta del Viento
+Senda Esvante,510,235,Huerta del Viento
+Espiruna,3610,236,Huerta del Viento
+Senda Fornelia,510,236,Huerta del Viento
+Espiruna,3710,237,Huerta del Viento
+Senda Grivanto,510,237,Huerta del Viento
+Espiruna,3810,238,Huerta del Viento
+Senda Hondelia,510,238,Huerta del Viento
+Espiruna,3910,239,Huerta del Viento
+Senda Isvario,510,239,Huerta del Viento
+Espiruna,4010,240,Huerta del Viento
+Senda Jundela,510,240,Huerta del Viento
+Espiruna,4110,241,Huerta del Viento
+Paso Alvireo,510,241,Huerta del Viento
+Espiruna,4210,242,Huerta del Viento
+Paso Brumiel,510,242,Huerta del Viento
+Espiruna,4310,243,Huerta del Viento
+Paso Celdaro,510,243,Huerta del Viento
+Espiruna,4410,244,Huerta del Viento
+Paso Dunaria,510,244,Huerta del Viento
+Espiruna,4510,245,Huerta del Viento
+Paso Esvante,510,245,Huerta del Viento
+Espiruna,4610,246,Huerta del Viento
+Paso Fornelia,510,246,Huerta del Viento
+Espiruna,4710,247,Huerta del Viento
+Paso Grivanto,510,247,Huerta del Viento
+Espiruna,4810,248,Huerta del Viento
+Paso Hondelia,510,248,Huerta del Viento
+Espiruna,4910,249,Huerta del Viento
+Paso Isvario,510,249,Huerta del Viento
+Espiruna,5010,250,Huerta del Viento
+Paso Jundela,510,250,Huerta del Viento
+Ferluma,110,251,Carretel
+Trama Alvireo,610,251,Carretel
+Ferluma,210,252,Carretel
+Trama Brumiel,610,252,Carretel
+Ferluma,310,253,Carretel
+Trama Celdaro,610,253,Carretel
+Ferluma,410,254,Carretel
+Trama Dunaria,610,254,Carretel
+Ferluma,510,255,Carretel
+Trama Esvante,610,255,Carretel
+Ferluma,610,256,Carretel
+Trama Fornelia,610,256,Carretel
+Ferluma,710,257,Carretel
+Trama Grivanto,610,257,Carretel
+Ferluma,810,258,Carretel
+Trama Hondelia,610,258,Carretel
+Ferluma,910,259,Carretel
+Trama Isvario,610,259,Carretel
+Ferluma,1010,260,Carretel
+Trama Jundela,610,260,Carretel
+Ferluma,1110,261,Carretel
+Ronda Alvireo,610,261,Carretel
+Ferluma,1210,262,Carretel
+Ronda Brumiel,610,262,Carretel
+Ferluma,1310,263,Carretel
+Ronda Celdaro,610,263,Carretel
+Ferluma,1410,264,Carretel
+Ronda Dunaria,610,264,Carretel
+Ferluma,1510,265,Carretel
+Ronda Esvante,610,265,Carretel
+Ferluma,1610,266,Carretel
+Ronda Fornelia,610,266,Carretel
+Ferluma,1710,267,Carretel
+Ronda Grivanto,610,267,Carretel
+Ferluma,1810,268,Muelle de Cobre
+Ronda Hondelia,610,268,Muelle de Cobre
+Ferluma,1910,269,Muelle de Cobre
+Ronda Isvario,610,269,Muelle de Cobre
+Ferluma,2010,270,Muelle de Cobre
+Ronda Jundela,610,270,Muelle de Cobre
+Ferluma,2110,271,Muelle de Cobre
+Vuelta Alvireo,610,271,Muelle de Cobre
+Ferluma,2210,272,Muelle de Cobre
+Vuelta Brumiel,610,272,Muelle de Cobre
+Ferluma,2310,273,Muelle de Cobre
+Vuelta Celdaro,610,273,Muelle de Cobre
+Ferluma,2410,274,Muelle de Cobre
+Vuelta Dunaria,610,274,Muelle de Cobre
+Ferluma,2510,275,Muelle de Cobre
+Vuelta Esvante,610,275,Muelle de Cobre
+Ferluma,2610,276,Muelle de Cobre
+Vuelta Fornelia,610,276,Muelle de Cobre
+Ferluma,2710,277,Muelle de Cobre
+Vuelta Grivanto,610,277,Muelle de Cobre
+Ferluma,2810,278,Muelle de Cobre
+Vuelta Hondelia,610,278,Muelle de Cobre
+Ferluma,2910,279,Muelle de Cobre
+Vuelta Isvario,610,279,Muelle de Cobre
+Ferluma,3010,280,Muelle de Cobre
+Vuelta Jundela,610,280,Muelle de Cobre
+Ferluma,3110,281,Muelle de Cobre
+Senda Alvireo,610,281,Muelle de Cobre
+Ferluma,3210,282,Muelle de Cobre
+Senda Brumiel,610,282,Muelle de Cobre
+Ferluma,3310,283,Muelle de Cobre
+Senda Celdaro,610,283,Muelle de Cobre
+Ferluma,3410,284,Muelle de Cobre
+Senda Dunaria,610,284,Muelle de Cobre
+Ferluma,3510,285,Huerta del Viento
+Senda Esvante,610,285,Huerta del Viento
+Ferluma,3610,286,Huerta del Viento
+Senda Fornelia,610,286,Huerta del Viento
+Ferluma,3710,287,Huerta del Viento
+Senda Grivanto,610,287,Huerta del Viento
+Ferluma,3810,288,Huerta del Viento
+Senda Hondelia,610,288,Huerta del Viento
+Ferluma,3910,289,Huerta del Viento
+Senda Isvario,610,289,Huerta del Viento
+Ferluma,4010,290,Huerta del Viento
+Senda Jundela,610,290,Huerta del Viento
+Ferluma,4110,291,Huerta del Viento
+Paso Alvireo,610,291,Huerta del Viento
+Ferluma,4210,292,Huerta del Viento
+Paso Brumiel,610,292,Huerta del Viento
+Ferluma,4310,293,Huerta del Viento
+Paso Celdaro,610,293,Huerta del Viento
+Ferluma,4410,294,Huerta del Viento
+Paso Dunaria,610,294,Huerta del Viento
+Ferluma,4510,295,Huerta del Viento
+Paso Esvante,610,295,Huerta del Viento
+Ferluma,4610,296,Huerta del Viento
+Paso Fornelia,610,296,Huerta del Viento
+Ferluma,4710,297,Huerta del Viento
+Paso Grivanto,610,297,Huerta del Viento
+Ferluma,4810,298,Huerta del Viento
+Paso Hondelia,610,298,Huerta del Viento
+Ferluma,4910,299,Huerta del Viento
+Paso Isvario,610,299,Huerta del Viento
+Ferluma,5010,300,Huerta del Viento
+Paso Jundela,610,300,Huerta del Viento
+Girandia,110,301,Carretel
+Trama Alvireo,710,301,Carretel
+Girandia,210,302,Carretel
+Trama Brumiel,710,302,Carretel
+Girandia,310,303,Carretel
+Trama Celdaro,710,303,Carretel
+Girandia,410,304,Carretel
+Trama Dunaria,710,304,Carretel
+Girandia,510,305,Carretel
+Trama Esvante,710,305,Carretel
+Girandia,610,306,Carretel
+Trama Fornelia,710,306,Carretel
+Girandia,710,307,Carretel
+Trama Grivanto,710,307,Carretel
+Girandia,810,308,Carretel
+Trama Hondelia,710,308,Carretel
+Girandia,910,309,Carretel
+Trama Isvario,710,309,Carretel
+Girandia,1010,310,Carretel
+Trama Jundela,710,310,Carretel
+Girandia,1110,311,Carretel
+Ronda Alvireo,710,311,Carretel
+Girandia,1210,312,Carretel
+Ronda Brumiel,710,312,Carretel
+Girandia,1310,313,Carretel
+Ronda Celdaro,710,313,Carretel
+Girandia,1410,314,Carretel
+Ronda Dunaria,710,314,Carretel
+Girandia,1510,315,Carretel
+Ronda Esvante,710,315,Carretel
+Girandia,1610,316,Carretel
+Ronda Fornelia,710,316,Carretel
+Girandia,1710,317,Carretel
+Ronda Grivanto,710,317,Carretel
+Girandia,1810,318,Muelle de Cobre
+Ronda Hondelia,710,318,Muelle de Cobre
+Girandia,1910,319,Muelle de Cobre
+Ronda Isvario,710,319,Muelle de Cobre
+Girandia,2010,320,Muelle de Cobre
+Ronda Jundela,710,320,Muelle de Cobre
+Girandia,2110,321,Muelle de Cobre
+Vuelta Alvireo,710,321,Muelle de Cobre
+Girandia,2210,322,Muelle de Cobre
+Vuelta Brumiel,710,322,Muelle de Cobre
+Girandia,2310,323,Muelle de Cobre
+Vuelta Celdaro,710,323,Muelle de Cobre
+Girandia,2410,324,Muelle de Cobre
+Vuelta Dunaria,710,324,Muelle de Cobre
+Girandia,2510,325,Muelle de Cobre
+Vuelta Esvante,710,325,Muelle de Cobre
+Girandia,2610,326,Muelle de Cobre
+Vuelta Fornelia,710,326,Muelle de Cobre
+Girandia,2710,327,Muelle de Cobre
+Vuelta Grivanto,710,327,Muelle de Cobre
+Girandia,2810,328,Muelle de Cobre
+Vuelta Hondelia,710,328,Muelle de Cobre
+Girandia,2910,329,Muelle de Cobre
+Vuelta Isvario,710,329,Muelle de Cobre
+Girandia,3010,330,Muelle de Cobre
+Vuelta Jundela,710,330,Muelle de Cobre
+Girandia,3110,331,Muelle de Cobre
+Senda Alvireo,710,331,Muelle de Cobre
+Girandia,3210,332,Muelle de Cobre
+Senda Brumiel,710,332,Muelle de Cobre
+Girandia,3310,333,Muelle de Cobre
+Senda Celdaro,710,333,Muelle de Cobre
+Girandia,3410,334,Muelle de Cobre
+Senda Dunaria,710,334,Muelle de Cobre
+Girandia,3510,335,Huerta del Viento
+Senda Esvante,710,335,Huerta del Viento
+Girandia,3610,336,Huerta del Viento
+Senda Fornelia,710,336,Huerta del Viento
+Girandia,3710,337,Huerta del Viento
+Senda Grivanto,710,337,Huerta del Viento
+Girandia,3810,338,Huerta del Viento
+Senda Hondelia,710,338,Huerta del Viento
+Girandia,3910,339,Huerta del Viento
+Senda Isvario,710,339,Huerta del Viento
+Girandia,4010,340,Huerta del Viento
+Senda Jundela,710,340,Huerta del Viento
+Girandia,4110,341,Huerta del Viento
+Paso Alvireo,710,341,Huerta del Viento
+Girandia,4210,342,Huerta del Viento
+Paso Brumiel,710,342,Huerta del Viento
+Girandia,4310,343,Huerta del Viento
+Paso Celdaro,710,343,Huerta del Viento
+Girandia,4410,344,Huerta del Viento
+Paso Dunaria,710,344,Huerta del Viento
+Girandia,4510,345,Huerta del Viento
+Paso Esvante,710,345,Huerta del Viento
+Girandia,4610,346,Huerta del Viento
+Paso Fornelia,710,346,Huerta del Viento
+Girandia,4710,347,Huerta del Viento
+Paso Grivanto,710,347,Huerta del Viento
+Girandia,4810,348,Huerta del Viento
+Paso Hondelia,710,348,Huerta del Viento
+Girandia,4910,349,Huerta del Viento
+Paso Isvario,710,349,Huerta del Viento
+Girandia,5010,350,Huerta del Viento
+Paso Jundela,710,350,Huerta del Viento
+Hojalvia,110,351,Carretel
+Trama Alvireo,810,351,Carretel
+Hojalvia,210,352,Carretel
+Trama Brumiel,810,352,Carretel
+Hojalvia,310,353,Carretel
+Trama Celdaro,810,353,Carretel
+Hojalvia,410,354,Carretel
+Trama Dunaria,810,354,Carretel
+Hojalvia,510,355,Carretel
+Trama Esvante,810,355,Carretel
+Hojalvia,610,356,Carretel
+Trama Fornelia,810,356,Carretel
+Hojalvia,710,357,Carretel
+Trama Grivanto,810,357,Carretel
+Hojalvia,810,358,Carretel
+Trama Hondelia,810,358,Carretel
+Hojalvia,910,359,Carretel
+Trama Isvario,810,359,Carretel
+Hojalvia,1010,360,Carretel
+Trama Jundela,810,360,Carretel
+Hojalvia,1110,361,Carretel
+Ronda Alvireo,810,361,Carretel
+Hojalvia,1210,362,Carretel
+Ronda Brumiel,810,362,Carretel
+Hojalvia,1310,363,Carretel
+Ronda Celdaro,810,363,Carretel
+Hojalvia,1410,364,Carretel
+Ronda Dunaria,810,364,Carretel
+Hojalvia,1510,365,Carretel
+Ronda Esvante,810,365,Carretel
+Hojalvia,1610,366,Carretel
+Ronda Fornelia,810,366,Carretel
+Hojalvia,1710,367,Carretel
+Ronda Grivanto,810,367,Carretel
+Hojalvia,1810,368,Muelle de Cobre
+Ronda Hondelia,810,368,Muelle de Cobre
+Hojalvia,1910,369,Muelle de Cobre
+Ronda Isvario,810,369,Muelle de Cobre
+Hojalvia,2010,370,Muelle de Cobre
+Ronda Jundela,810,370,Muelle de Cobre
+Hojalvia,2110,371,Muelle de Cobre
+Vuelta Alvireo,810,371,Muelle de Cobre
+Hojalvia,2210,372,Muelle de Cobre
+Vuelta Brumiel,810,372,Muelle de Cobre
+Hojalvia,2310,373,Muelle de Cobre
+Vuelta Celdaro,810,373,Muelle de Cobre
+Hojalvia,2410,374,Muelle de Cobre
+Vuelta Dunaria,810,374,Muelle de Cobre
+Hojalvia,2510,375,Muelle de Cobre
+Vuelta Esvante,810,375,Muelle de Cobre
+Hojalvia,2610,376,Muelle de Cobre
+Vuelta Fornelia,810,376,Muelle de Cobre
+Hojalvia,2710,377,Muelle de Cobre
+Vuelta Grivanto,810,377,Muelle de Cobre
+Hojalvia,2810,378,Muelle de Cobre
+Vuelta Hondelia,810,378,Muelle de Cobre
+Hojalvia,2910,379,Muelle de Cobre
+Vuelta Isvario,810,379,Muelle de Cobre
+Hojalvia,3010,380,Muelle de Cobre
+Vuelta Jundela,810,380,Muelle de Cobre
+Hojalvia,3110,381,Muelle de Cobre
+Senda Alvireo,810,381,Muelle de Cobre
+Hojalvia,3210,382,Muelle de Cobre
+Senda Brumiel,810,382,Muelle de Cobre
+Hojalvia,3310,383,Muelle de Cobre
+Senda Celdaro,810,383,Muelle de Cobre
+Hojalvia,3410,384,Muelle de Cobre
+Senda Dunaria,810,384,Muelle de Cobre
+Hojalvia,3510,385,Huerta del Viento
+Senda Esvante,810,385,Huerta del Viento
+Hojalvia,3610,386,Huerta del Viento
+Senda Fornelia,810,386,Huerta del Viento
+Hojalvia,3710,387,Huerta del Viento
+Senda Grivanto,810,387,Huerta del Viento
+Hojalvia,3810,388,Huerta del Viento
+Senda Hondelia,810,388,Huerta del Viento
+Hojalvia,3910,389,Huerta del Viento
+Senda Isvario,810,389,Huerta del Viento
+Hojalvia,4010,390,Huerta del Viento
+Senda Jundela,810,390,Huerta del Viento
+Hojalvia,4110,391,Huerta del Viento
+Paso Alvireo,810,391,Huerta del Viento
+Hojalvia,4210,392,Huerta del Viento
+Paso Brumiel,810,392,Huerta del Viento
+Hojalvia,4310,393,Huerta del Viento
+Paso Celdaro,810,393,Huerta del Viento
+Hojalvia,4410,394,Huerta del Viento
+Paso Dunaria,810,394,Huerta del Viento
+Hojalvia,4510,395,Huerta del Viento
+Paso Esvante,810,395,Huerta del Viento
+Hojalvia,4610,396,Huerta del Viento
+Paso Fornelia,810,396,Huerta del Viento
+Hojalvia,4710,397,Huerta del Viento
+Paso Grivanto,810,397,Huerta del Viento
+Hojalvia,4810,398,Huerta del Viento
+Paso Hondelia,810,398,Huerta del Viento
+Hojalvia,4910,399,Huerta del Viento
+Paso Isvario,810,399,Huerta del Viento
+Hojalvia,5010,400,Huerta del Viento
+Paso Jundela,810,400,Huerta del Viento
+Iramonte,110,401,Carretel
+Trama Alvireo,910,401,Carretel
+Iramonte,210,402,Carretel
+Trama Brumiel,910,402,Carretel
+Iramonte,310,403,Carretel
+Trama Celdaro,910,403,Carretel
+Iramonte,410,404,Carretel
+Trama Dunaria,910,404,Carretel
+Iramonte,510,405,Carretel
+Trama Esvante,910,405,Carretel
+Iramonte,610,406,Carretel
+Trama Fornelia,910,406,Carretel
+Iramonte,710,407,Carretel
+Trama Grivanto,910,407,Carretel
+Iramonte,810,408,Carretel
+Trama Hondelia,910,408,Carretel
+Iramonte,910,409,Carretel
+Trama Isvario,910,409,Carretel
+Iramonte,1010,410,Carretel
+Trama Jundela,910,410,Carretel
+Iramonte,1110,411,Carretel
+Ronda Alvireo,910,411,Carretel
+Iramonte,1210,412,Carretel
+Ronda Brumiel,910,412,Carretel
+Iramonte,1310,413,Carretel
+Ronda Celdaro,910,413,Carretel
+Iramonte,1410,414,Carretel
+Ronda Dunaria,910,414,Carretel
+Iramonte,1510,415,Carretel
+Ronda Esvante,910,415,Carretel
+Iramonte,1610,416,Carretel
+Ronda Fornelia,910,416,Carretel
+Iramonte,1710,417,Carretel
+Ronda Grivanto,910,417,Carretel
+Iramonte,1810,418,Muelle de Cobre
+Ronda Hondelia,910,418,Muelle de Cobre
+Iramonte,1910,419,Muelle de Cobre
+Ronda Isvario,910,419,Muelle de Cobre
+Iramonte,2010,420,Muelle de Cobre
+Ronda Jundela,910,420,Muelle de Cobre
+Iramonte,2110,421,Muelle de Cobre
+Vuelta Alvireo,910,421,Muelle de Cobre
+Iramonte,2210,422,Muelle de Cobre
+Vuelta Brumiel,910,422,Muelle de Cobre
+Iramonte,2310,423,Muelle de Cobre
+Vuelta Celdaro,910,423,Muelle de Cobre
+Iramonte,2410,424,Muelle de Cobre
+Vuelta Dunaria,910,424,Muelle de Cobre
+Iramonte,2510,425,Muelle de Cobre
+Vuelta Esvante,910,425,Muelle de Cobre
+Iramonte,2610,426,Muelle de Cobre
+Vuelta Fornelia,910,426,Muelle de Cobre
+Iramonte,2710,427,Muelle de Cobre
+Vuelta Grivanto,910,427,Muelle de Cobre
+Iramonte,2810,428,Muelle de Cobre
+Vuelta Hondelia,910,428,Muelle de Cobre
+Iramonte,2910,429,Muelle de Cobre
+Vuelta Isvario,910,429,Muelle de Cobre
+Iramonte,3010,430,Muelle de Cobre
+Vuelta Jundela,910,430,Muelle de Cobre
+Iramonte,3110,431,Muelle de Cobre
+Senda Alvireo,910,431,Muelle de Cobre
+Iramonte,3210,432,Muelle de Cobre
+Senda Brumiel,910,432,Muelle de Cobre
+Iramonte,3310,433,Muelle de Cobre
+Senda Celdaro,910,433,Muelle de Cobre
+Iramonte,3410,434,Muelle de Cobre
+Senda Dunaria,910,434,Muelle de Cobre
+Iramonte,3510,435,Huerta del Viento
+Senda Esvante,910,435,Huerta del Viento
+Iramonte,3610,436,Huerta del Viento
+Senda Fornelia,910,436,Huerta del Viento
+Iramonte,3710,437,Huerta del Viento
+Senda Grivanto,910,437,Huerta del Viento
+Iramonte,3810,438,Huerta del Viento
+Senda Hondelia,910,438,Huerta del Viento
+Iramonte,3910,439,Huerta del Viento
+Senda Isvario,910,439,Huerta del Viento
+Iramonte,4010,440,Huerta del Viento
+Senda Jundela,910,440,Huerta del Viento
+Iramonte,4110,441,Huerta del Viento
+Paso Alvireo,910,441,Huerta del Viento
+Iramonte,4210,442,Huerta del Viento
+Paso Brumiel,910,442,Huerta del Viento
+Iramonte,4310,443,Huerta del Viento
+Paso Celdaro,910,443,Huerta del Viento
+Iramonte,4410,444,Huerta del Viento
+Paso Dunaria,910,444,Huerta del Viento
+Iramonte,4510,445,Huerta del Viento
+Paso Esvante,910,445,Huerta del Viento
+Iramonte,4610,446,Huerta del Viento
+Paso Fornelia,910,446,Huerta del Viento
+Iramonte,4710,447,Huerta del Viento
+Paso Grivanto,910,447,Huerta del Viento
+Iramonte,4810,448,Huerta del Viento
+Paso Hondelia,910,448,Huerta del Viento
+Iramonte,4910,449,Huerta del Viento
+Paso Isvario,910,449,Huerta del Viento
+Iramonte,5010,450,Huerta del Viento
+Paso Jundela,910,450,Huerta del Viento
+Juncavia,110,451,Carretel
+Trama Alvireo,1010,451,Carretel
+Juncavia,210,452,Carretel
+Trama Brumiel,1010,452,Carretel
+Juncavia,310,453,Carretel
+Trama Celdaro,1010,453,Carretel
+Juncavia,410,454,Carretel
+Trama Dunaria,1010,454,Carretel
+Juncavia,510,455,Carretel
+Trama Esvante,1010,455,Carretel
+Juncavia,610,456,Carretel
+Trama Fornelia,1010,456,Carretel
+Juncavia,710,457,Carretel
+Trama Grivanto,1010,457,Carretel
+Juncavia,810,458,Carretel
+Trama Hondelia,1010,458,Carretel
+Juncavia,910,459,Carretel
+Trama Isvario,1010,459,Carretel
+Juncavia,1010,460,Carretel
+Trama Jundela,1010,460,Carretel
+Juncavia,1110,461,Carretel
+Ronda Alvireo,1010,461,Carretel
+Juncavia,1210,462,Carretel
+Ronda Brumiel,1010,462,Carretel
+Juncavia,1310,463,Carretel
+Ronda Celdaro,1010,463,Carretel
+Juncavia,1410,464,Carretel
+Ronda Dunaria,1010,464,Carretel
+Juncavia,1510,465,Carretel
+Ronda Esvante,1010,465,Carretel
+Juncavia,1610,466,Carretel
+Ronda Fornelia,1010,466,Carretel
+Juncavia,1710,467,Carretel
+Ronda Grivanto,1010,467,Carretel
+Juncavia,1810,468,Muelle de Cobre
+Ronda Hondelia,1010,468,Muelle de Cobre
+Juncavia,1910,469,Muelle de Cobre
+Ronda Isvario,1010,469,Muelle de Cobre
+Juncavia,2010,470,Muelle de Cobre
+Ronda Jundela,1010,470,Muelle de Cobre
+Juncavia,2110,471,Muelle de Cobre
+Vuelta Alvireo,1010,471,Muelle de Cobre
+Juncavia,2210,472,Muelle de Cobre
+Vuelta Brumiel,1010,472,Muelle de Cobre
+Juncavia,2310,473,Muelle de Cobre
+Vuelta Celdaro,1010,473,Muelle de Cobre
+Juncavia,2410,474,Muelle de Cobre
+Vuelta Dunaria,1010,474,Muelle de Cobre
+Juncavia,2510,475,Muelle de Cobre
+Vuelta Esvante,1010,475,Muelle de Cobre
+Juncavia,2610,476,Muelle de Cobre
+Vuelta Fornelia,1010,476,Muelle de Cobre
+Juncavia,2710,477,Muelle de Cobre
+Vuelta Grivanto,1010,477,Muelle de Cobre
+Juncavia,2810,478,Muelle de Cobre
+Vuelta Hondelia,1010,478,Muelle de Cobre
+Juncavia,2910,479,Muelle de Cobre
+Vuelta Isvario,1010,479,Muelle de Cobre
+Juncavia,3010,480,Muelle de Cobre
+Vuelta Jundela,1010,480,Muelle de Cobre
+Juncavia,3110,481,Muelle de Cobre
+Senda Alvireo,1010,481,Muelle de Cobre
+Juncavia,3210,482,Muelle de Cobre
+Senda Brumiel,1010,482,Muelle de Cobre
+Juncavia,3310,483,Muelle de Cobre
+Senda Celdaro,1010,483,Muelle de Cobre
+Juncavia,3410,484,Muelle de Cobre
+Senda Dunaria,1010,484,Muelle de Cobre
+Juncavia,3510,485,Huerta del Viento
+Senda Esvante,1010,485,Huerta del Viento
+Juncavia,3610,486,Huerta del Viento
+Senda Fornelia,1010,486,Huerta del Viento
+Juncavia,3710,487,Huerta del Viento
+Senda Grivanto,1010,487,Huerta del Viento
+Juncavia,3810,488,Huerta del Viento
+Senda Hondelia,1010,488,Huerta del Viento
+Juncavia,3910,489,Huerta del Viento
+Senda Isvario,1010,489,Huerta del Viento
+Juncavia,4010,490,Huerta del Viento
+Senda Jundela,1010,490,Huerta del Viento
+Juncavia,4110,491,Huerta del Viento
+Paso Alvireo,1010,491,Huerta del Viento
+Juncavia,4210,492,Huerta del Viento
+Paso Brumiel,1010,492,Huerta del Viento
+Juncavia,4310,493,Huerta del Viento
+Paso Celdaro,1010,493,Huerta del Viento
+Juncavia,4410,494,Huerta del Viento
+Paso Dunaria,1010,494,Huerta del Viento
+Juncavia,4510,495,Huerta del Viento
+Paso Esvante,1010,495,Huerta del Viento
+Juncavia,4610,496,Huerta del Viento
+Paso Fornelia,1010,496,Huerta del Viento
+Juncavia,4710,497,Huerta del Viento
+Paso Grivanto,1010,497,Huerta del Viento
+Juncavia,4810,498,Huerta del Viento
+Paso Hondelia,1010,498,Huerta del Viento
+Juncavia,4910,499,Huerta del Viento
+Paso Isvario,1010,499,Huerta del Viento
+Juncavia,5010,500,Huerta del Viento
+Paso Jundela,1010,500,Huerta del Viento
+Keraluma,110,501,Carretel
+Trama Alvireo,1110,501,Carretel
+Keraluma,210,502,Carretel
+Trama Brumiel,1110,502,Carretel
+Keraluma,310,503,Carretel
+Trama Celdaro,1110,503,Carretel
+Keraluma,410,504,Carretel
+Trama Dunaria,1110,504,Carretel
+Keraluma,510,505,Carretel
+Trama Esvante,1110,505,Carretel
+Keraluma,610,506,Carretel
+Trama Fornelia,1110,506,Carretel
+Keraluma,710,507,Carretel
+Trama Grivanto,1110,507,Carretel
+Keraluma,810,508,Carretel
+Trama Hondelia,1110,508,Carretel
+Keraluma,910,509,Carretel
+Trama Isvario,1110,509,Carretel
+Keraluma,1010,510,Carretel
+Trama Jundela,1110,510,Carretel
+Keraluma,1110,511,Carretel
+Ronda Alvireo,1110,511,Carretel
+Keraluma,1210,512,Carretel
+Ronda Brumiel,1110,512,Carretel
+Keraluma,1310,513,Carretel
+Ronda Celdaro,1110,513,Carretel
+Keraluma,1410,514,Carretel
+Ronda Dunaria,1110,514,Carretel
+Keraluma,1510,515,Carretel
+Ronda Esvante,1110,515,Carretel
+Keraluma,1610,516,Carretel
+Ronda Fornelia,1110,516,Carretel
+Keraluma,1710,517,Carretel
+Ronda Grivanto,1110,517,Carretel
+Keraluma,1810,518,Muelle de Cobre
+Ronda Hondelia,1110,518,Muelle de Cobre
+Keraluma,1910,519,Muelle de Cobre
+Ronda Isvario,1110,519,Muelle de Cobre
+Keraluma,2010,520,Muelle de Cobre
+Ronda Jundela,1110,520,Muelle de Cobre
+Keraluma,2110,521,Muelle de Cobre
+Vuelta Alvireo,1110,521,Muelle de Cobre
+Keraluma,2210,522,Muelle de Cobre
+Vuelta Brumiel,1110,522,Muelle de Cobre
+Keraluma,2310,523,Muelle de Cobre
+Vuelta Celdaro,1110,523,Muelle de Cobre
+Keraluma,2410,524,Muelle de Cobre
+Vuelta Dunaria,1110,524,Muelle de Cobre
+Keraluma,2510,525,Muelle de Cobre
+Vuelta Esvante,1110,525,Muelle de Cobre
+Keraluma,2610,526,Muelle de Cobre
+Vuelta Fornelia,1110,526,Muelle de Cobre
+Keraluma,2710,527,Muelle de Cobre
+Vuelta Grivanto,1110,527,Muelle de Cobre
+Keraluma,2810,528,Muelle de Cobre
+Vuelta Hondelia,1110,528,Muelle de Cobre
+Keraluma,2910,529,Muelle de Cobre
+Vuelta Isvario,1110,529,Muelle de Cobre
+Keraluma,3010,530,Muelle de Cobre
+Vuelta Jundela,1110,530,Muelle de Cobre
+Keraluma,3110,531,Muelle de Cobre
+Senda Alvireo,1110,531,Muelle de Cobre
+Keraluma,3210,532,Muelle de Cobre
+Senda Brumiel,1110,532,Muelle de Cobre
+Keraluma,3310,533,Muelle de Cobre
+Senda Celdaro,1110,533,Muelle de Cobre
+Keraluma,3410,534,Muelle de Cobre
+Senda Dunaria,1110,534,Muelle de Cobre
+Keraluma,3510,535,Huerta del Viento
+Senda Esvante,1110,535,Huerta del Viento
+Keraluma,3610,536,Huerta del Viento
+Senda Fornelia,1110,536,Huerta del Viento
+Keraluma,3710,537,Huerta del Viento
+Senda Grivanto,1110,537,Huerta del Viento
+Keraluma,3810,538,Huerta del Viento
+Senda Hondelia,1110,538,Huerta del Viento
+Keraluma,3910,539,Huerta del Viento
+Senda Isvario,1110,539,Huerta del Viento
+Keraluma,4010,540,Huerta del Viento
+Senda Jundela,1110,540,Huerta del Viento
+Keraluma,4110,541,Huerta del Viento
+Paso Alvireo,1110,541,Huerta del Viento
+Keraluma,4210,542,Huerta del Viento
+Paso Brumiel,1110,542,Huerta del Viento
+Keraluma,4310,543,Huerta del Viento
+Paso Celdaro,1110,543,Huerta del Viento
+Keraluma,4410,544,Huerta del Viento
+Paso Dunaria,1110,544,Huerta del Viento
+Keraluma,4510,545,Huerta del Viento
+Paso Esvante,1110,545,Huerta del Viento
+Keraluma,4610,546,Huerta del Viento
+Paso Fornelia,1110,546,Huerta del Viento
+Keraluma,4710,547,Huerta del Viento
+Paso Grivanto,1110,547,Huerta del Viento
+Keraluma,4810,548,Huerta del Viento
+Paso Hondelia,1110,548,Huerta del Viento
+Keraluma,4910,549,Huerta del Viento
+Paso Isvario,1110,549,Huerta del Viento
+Keraluma,5010,550,Huerta del Viento
+Paso Jundela,1110,550,Huerta del Viento
+Lumbravia,110,551,Carretel
+Trama Alvireo,1210,551,Carretel
+Lumbravia,210,552,Carretel
+Trama Brumiel,1210,552,Carretel
+Lumbravia,310,553,Carretel
+Trama Celdaro,1210,553,Carretel
+Lumbravia,410,554,Carretel
+Trama Dunaria,1210,554,Carretel
+Lumbravia,510,555,Carretel
+Trama Esvante,1210,555,Carretel
+Lumbravia,610,556,Carretel
+Trama Fornelia,1210,556,Carretel
+Lumbravia,710,557,Carretel
+Trama Grivanto,1210,557,Carretel
+Lumbravia,810,558,Carretel
+Trama Hondelia,1210,558,Carretel
+Lumbravia,910,559,Carretel
+Trama Isvario,1210,559,Carretel
+Lumbravia,1010,560,Carretel
+Trama Jundela,1210,560,Carretel
+Lumbravia,1110,561,Carretel
+Ronda Alvireo,1210,561,Carretel
+Lumbravia,1210,562,Carretel
+Ronda Brumiel,1210,562,Carretel
+Lumbravia,1310,563,Carretel
+Ronda Celdaro,1210,563,Carretel
+Lumbravia,1410,564,Carretel
+Ronda Dunaria,1210,564,Carretel
+Lumbravia,1510,565,Carretel
+Ronda Esvante,1210,565,Carretel
+Lumbravia,1610,566,Carretel
+Ronda Fornelia,1210,566,Carretel
+Lumbravia,1710,567,Carretel
+Ronda Grivanto,1210,567,Carretel
+Lumbravia,1810,568,Muelle de Cobre
+Ronda Hondelia,1210,568,Muelle de Cobre
+Lumbravia,1910,569,Muelle de Cobre
+Ronda Isvario,1210,569,Muelle de Cobre
+Lumbravia,2010,570,Muelle de Cobre
+Ronda Jundela,1210,570,Muelle de Cobre
+Lumbravia,2110,571,Muelle de Cobre
+Vuelta Alvireo,1210,571,Muelle de Cobre
+Lumbravia,2210,572,Muelle de Cobre
+Vuelta Brumiel,1210,572,Muelle de Cobre
+Lumbravia,2310,573,Muelle de Cobre
+Vuelta Celdaro,1210,573,Muelle de Cobre
+Lumbravia,2410,574,Muelle de Cobre
+Vuelta Dunaria,1210,574,Muelle de Cobre
+Lumbravia,2510,575,Muelle de Cobre
+Vuelta Esvante,1210,575,Muelle de Cobre
+Lumbravia,2610,576,Muelle de Cobre
+Vuelta Fornelia,1210,576,Muelle de Cobre
+Lumbravia,2710,577,Muelle de Cobre
+Vuelta Grivanto,1210,577,Muelle de Cobre
+Lumbravia,2810,578,Muelle de Cobre
+Vuelta Hondelia,1210,578,Muelle de Cobre
+Lumbravia,2910,579,Muelle de Cobre
+Vuelta Isvario,1210,579,Muelle de Cobre
+Lumbravia,3010,580,Muelle de Cobre
+Vuelta Jundela,1210,580,Muelle de Cobre
+Lumbravia,3110,581,Muelle de Cobre
+Senda Alvireo,1210,581,Muelle de Cobre
+Lumbravia,3210,582,Muelle de Cobre
+Senda Brumiel,1210,582,Muelle de Cobre
+Lumbravia,3310,583,Muelle de Cobre
+Senda Celdaro,1210,583,Muelle de Cobre
+Lumbravia,3410,584,Muelle de Cobre
+Senda Dunaria,1210,584,Muelle de Cobre
+Lumbravia,3510,585,Huerta del Viento
+Senda Esvante,1210,585,Huerta del Viento
+Lumbravia,3610,586,Huerta del Viento
+Senda Fornelia,1210,586,Huerta del Viento
+Lumbravia,3710,587,Huerta del Viento
+Senda Grivanto,1210,587,Huerta del Viento
+Lumbravia,3810,588,Huerta del Viento
+Senda Hondelia,1210,588,Huerta del Viento
+Lumbravia,3910,589,Huerta del Viento
+Senda Isvario,1210,589,Huerta del Viento
+Lumbravia,4010,590,Huerta del Viento
+Senda Jundela,1210,590,Huerta del Viento
+Lumbravia,4110,591,Huerta del Viento
+Paso Alvireo,1210,591,Huerta del Viento
+Lumbravia,4210,592,Huerta del Viento
+Paso Brumiel,1210,592,Huerta del Viento
+Lumbravia,4310,593,Huerta del Viento
+Paso Celdaro,1210,593,Huerta del Viento
+Lumbravia,4410,594,Huerta del Viento
+Paso Dunaria,1210,594,Huerta del Viento
+Lumbravia,4510,595,Huerta del Viento
+Paso Esvante,1210,595,Huerta del Viento
+Lumbravia,4610,596,Huerta del Viento
+Paso Fornelia,1210,596,Huerta del Viento
+Lumbravia,4710,597,Huerta del Viento
+Paso Grivanto,1210,597,Huerta del Viento
+Lumbravia,4810,598,Huerta del Viento
+Paso Hondelia,1210,598,Huerta del Viento
+Lumbravia,4910,599,Huerta del Viento
+Paso Isvario,1210,599,Huerta del Viento
+Lumbravia,5010,600,Huerta del Viento
+Paso Jundela,1210,600,Huerta del Viento
+Mendarpa,110,601,Carretel
+Trama Alvireo,1310,601,Carretel
+Mendarpa,210,602,Carretel
+Trama Brumiel,1310,602,Carretel
+Mendarpa,310,603,Carretel
+Trama Celdaro,1310,603,Carretel
+Mendarpa,410,604,Carretel
+Trama Dunaria,1310,604,Carretel
+Mendarpa,510,605,Carretel
+Trama Esvante,1310,605,Carretel
+Mendarpa,610,606,Carretel
+Trama Fornelia,1310,606,Carretel
+Mendarpa,710,607,Carretel
+Trama Grivanto,1310,607,Carretel
+Mendarpa,810,608,Carretel
+Trama Hondelia,1310,608,Carretel
+Mendarpa,910,609,Carretel
+Trama Isvario,1310,609,Carretel
+Mendarpa,1010,610,Carretel
+Trama Jundela,1310,610,Carretel
+Mendarpa,1110,611,Carretel
+Ronda Alvireo,1310,611,Carretel
+Mendarpa,1210,612,Carretel
+Ronda Brumiel,1310,612,Carretel
+Mendarpa,1310,613,Carretel
+Ronda Celdaro,1310,613,Carretel
+Mendarpa,1410,614,Carretel
+Ronda Dunaria,1310,614,Carretel
+Mendarpa,1510,615,Carretel
+Ronda Esvante,1310,615,Carretel
+Mendarpa,1610,616,Carretel
+Ronda Fornelia,1310,616,Carretel
+Mendarpa,1710,617,Carretel
+Ronda Grivanto,1310,617,Carretel
+Mendarpa,1810,618,Muelle de Cobre
+Ronda Hondelia,1310,618,Muelle de Cobre
+Mendarpa,1910,619,Muelle de Cobre
+Ronda Isvario,1310,619,Muelle de Cobre
+Mendarpa,2010,620,Muelle de Cobre
+Ronda Jundela,1310,620,Muelle de Cobre
+Mendarpa,2110,621,Muelle de Cobre
+Vuelta Alvireo,1310,621,Muelle de Cobre
+Mendarpa,2210,622,Muelle de Cobre
+Vuelta Brumiel,1310,622,Muelle de Cobre
+Mendarpa,2310,623,Muelle de Cobre
+Vuelta Celdaro,1310,623,Muelle de Cobre
+Mendarpa,2410,624,Muelle de Cobre
+Vuelta Dunaria,1310,624,Muelle de Cobre
+Mendarpa,2510,625,Muelle de Cobre
+Vuelta Esvante,1310,625,Muelle de Cobre
+Mendarpa,2610,626,Muelle de Cobre
+Vuelta Fornelia,1310,626,Muelle de Cobre
+Mendarpa,2710,627,Muelle de Cobre
+Vuelta Grivanto,1310,627,Muelle de Cobre
+Mendarpa,2810,628,Muelle de Cobre
+Vuelta Hondelia,1310,628,Muelle de Cobre
+Mendarpa,2910,629,Muelle de Cobre
+Vuelta Isvario,1310,629,Muelle de Cobre
+Mendarpa,3010,630,Muelle de Cobre
+Vuelta Jundela,1310,630,Muelle de Cobre
+Mendarpa,3110,631,Muelle de Cobre
+Senda Alvireo,1310,631,Muelle de Cobre
+Mendarpa,3210,632,Muelle de Cobre
+Senda Brumiel,1310,632,Muelle de Cobre
+Mendarpa,3310,633,Muelle de Cobre
+Senda Celdaro,1310,633,Muelle de Cobre
+Mendarpa,3410,634,Muelle de Cobre
+Senda Dunaria,1310,634,Muelle de Cobre
+Mendarpa,3510,635,Huerta del Viento
+Senda Esvante,1310,635,Huerta del Viento
+Mendarpa,3610,636,Huerta del Viento
+Senda Fornelia,1310,636,Huerta del Viento
+Mendarpa,3710,637,Huerta del Viento
+Senda Grivanto,1310,637,Huerta del Viento
+Mendarpa,3810,638,Huerta del Viento
+Senda Hondelia,1310,638,Huerta del Viento
+Mendarpa,3910,639,Huerta del Viento
+Senda Isvario,1310,639,Huerta del Viento
+Mendarpa,4010,640,Huerta del Viento
+Senda Jundela,1310,640,Huerta del Viento
+Mendarpa,4110,641,Huerta del Viento
+Paso Alvireo,1310,641,Huerta del Viento
+Mendarpa,4210,642,Huerta del Viento
+Paso Brumiel,1310,642,Huerta del Viento
+Mendarpa,4310,643,Huerta del Viento
+Paso Celdaro,1310,643,Huerta del Viento
+Mendarpa,4410,644,Huerta del Viento
+Paso Dunaria,1310,644,Huerta del Viento
+Mendarpa,4510,645,Huerta del Viento
+Paso Esvante,1310,645,Huerta del Viento
+Mendarpa,4610,646,Huerta del Viento
+Paso Fornelia,1310,646,Huerta del Viento
+Mendarpa,4710,647,Huerta del Viento
+Paso Grivanto,1310,647,Huerta del Viento
+Mendarpa,4810,648,Huerta del Viento
+Paso Hondelia,1310,648,Huerta del Viento
+Mendarpa,4910,649,Huerta del Viento
+Paso Isvario,1310,649,Huerta del Viento
+Mendarpa,5010,650,Huerta del Viento
+Paso Jundela,1310,650,Huerta del Viento
+Nublalia,110,651,Carretel
+Trama Alvireo,1410,651,Carretel
+Nublalia,210,652,Carretel
+Trama Brumiel,1410,652,Carretel
+Nublalia,310,653,Carretel
+Trama Celdaro,1410,653,Carretel
+Nublalia,410,654,Carretel
+Trama Dunaria,1410,654,Carretel
+Nublalia,510,655,Carretel
+Trama Esvante,1410,655,Carretel
+Nublalia,610,656,Carretel
+Trama Fornelia,1410,656,Carretel
+Nublalia,710,657,Carretel
+Trama Grivanto,1410,657,Carretel
+Nublalia,810,658,Carretel
+Trama Hondelia,1410,658,Carretel
+Nublalia,910,659,Carretel
+Trama Isvario,1410,659,Carretel
+Nublalia,1010,660,Carretel
+Trama Jundela,1410,660,Carretel
+Nublalia,1110,661,Carretel
+Ronda Alvireo,1410,661,Carretel
+Nublalia,1210,662,Carretel
+Ronda Brumiel,1410,662,Carretel
+Nublalia,1310,663,Carretel
+Ronda Celdaro,1410,663,Carretel
+Nublalia,1410,664,Carretel
+Ronda Dunaria,1410,664,Carretel
+Nublalia,1510,665,Carretel
+Ronda Esvante,1410,665,Carretel
+Nublalia,1610,666,Carretel
+Ronda Fornelia,1410,666,Carretel
+Nublalia,1710,667,Carretel
+Ronda Grivanto,1410,667,Carretel
+Nublalia,1810,668,Muelle de Cobre
+Ronda Hondelia,1410,668,Muelle de Cobre
+Nublalia,1910,669,Muelle de Cobre
+Ronda Isvario,1410,669,Muelle de Cobre
+Nublalia,2010,670,Muelle de Cobre
+Ronda Jundela,1410,670,Muelle de Cobre
+Nublalia,2110,671,Muelle de Cobre
+Vuelta Alvireo,1410,671,Muelle de Cobre
+Nublalia,2210,672,Muelle de Cobre
+Vuelta Brumiel,1410,672,Muelle de Cobre
+Nublalia,2310,673,Muelle de Cobre
+Vuelta Celdaro,1410,673,Muelle de Cobre
+Nublalia,2410,674,Muelle de Cobre
+Vuelta Dunaria,1410,674,Muelle de Cobre
+Nublalia,2510,675,Muelle de Cobre
+Vuelta Esvante,1410,675,Muelle de Cobre
+Nublalia,2610,676,Muelle de Cobre
+Vuelta Fornelia,1410,676,Muelle de Cobre
+Nublalia,2710,677,Muelle de Cobre
+Vuelta Grivanto,1410,677,Muelle de Cobre
+Nublalia,2810,678,Muelle de Cobre
+Vuelta Hondelia,1410,678,Muelle de Cobre
+Nublalia,2910,679,Muelle de Cobre
+Vuelta Isvario,1410,679,Muelle de Cobre
+Nublalia,3010,680,Muelle de Cobre
+Vuelta Jundela,1410,680,Muelle de Cobre
+Nublalia,3110,681,Muelle de Cobre
+Senda Alvireo,1410,681,Muelle de Cobre
+Nublalia,3210,682,Muelle de Cobre
+Senda Brumiel,1410,682,Muelle de Cobre
+Nublalia,3310,683,Muelle de Cobre
+Senda Celdaro,1410,683,Muelle de Cobre
+Nublalia,3410,684,Muelle de Cobre
+Senda Dunaria,1410,684,Muelle de Cobre
+Nublalia,3510,685,Huerta del Viento
+Senda Esvante,1410,685,Huerta del Viento
+Nublalia,3610,686,Huerta del Viento
+Senda Fornelia,1410,686,Huerta del Viento
+Nublalia,3710,687,Huerta del Viento
+Senda Grivanto,1410,687,Huerta del Viento
+Nublalia,3810,688,Huerta del Viento
+Senda Hondelia,1410,688,Huerta del Viento
+Nublalia,3910,689,Huerta del Viento
+Senda Isvario,1410,689,Huerta del Viento
+Nublalia,4010,690,Huerta del Viento
+Senda Jundela,1410,690,Huerta del Viento
+Nublalia,4110,691,Huerta del Viento
+Paso Alvireo,1410,691,Huerta del Viento
+Nublalia,4210,692,Huerta del Viento
+Paso Brumiel,1410,692,Huerta del Viento
+Nublalia,4310,693,Huerta del Viento
+Paso Celdaro,1410,693,Huerta del Viento
+Nublalia,4410,694,Huerta del Viento
+Paso Dunaria,1410,694,Huerta del Viento
+Nublalia,4510,695,Huerta del Viento
+Paso Esvante,1410,695,Huerta del Viento
+Nublalia,4610,696,Huerta del Viento
+Paso Fornelia,1410,696,Huerta del Viento
+Nublalia,4710,697,Huerta del Viento
+Paso Grivanto,1410,697,Huerta del Viento
+Nublalia,4810,698,Huerta del Viento
+Paso Hondelia,1410,698,Huerta del Viento
+Nublalia,4910,699,Huerta del Viento
+Paso Isvario,1410,699,Huerta del Viento
+Nublalia,5010,700,Huerta del Viento
+Paso Jundela,1410,700,Huerta del Viento
+Orvencia,110,701,Carretel
+Trama Alvireo,1510,701,Carretel
+Orvencia,210,702,Carretel
+Trama Brumiel,1510,702,Carretel
+Orvencia,310,703,Carretel
+Trama Celdaro,1510,703,Carretel
+Orvencia,410,704,Carretel
+Trama Dunaria,1510,704,Carretel
+Orvencia,510,705,Carretel
+Trama Esvante,1510,705,Carretel
+Orvencia,610,706,Carretel
+Trama Fornelia,1510,706,Carretel
+Orvencia,710,707,Carretel
+Trama Grivanto,1510,707,Carretel
+Orvencia,810,708,Carretel
+Trama Hondelia,1510,708,Carretel
+Orvencia,910,709,Carretel
+Trama Isvario,1510,709,Carretel
+Orvencia,1010,710,Carretel
+Trama Jundela,1510,710,Carretel
+Orvencia,1110,711,Carretel
+Ronda Alvireo,1510,711,Carretel
+Orvencia,1210,712,Carretel
+Ronda Brumiel,1510,712,Carretel
+Orvencia,1310,713,Carretel
+Ronda Celdaro,1510,713,Carretel
+Orvencia,1410,714,Carretel
+Ronda Dunaria,1510,714,Carretel
+Orvencia,1510,715,Carretel
+Ronda Esvante,1510,715,Carretel
+Orvencia,1610,716,Carretel
+Ronda Fornelia,1510,716,Carretel
+Orvencia,1710,717,Carretel
+Ronda Grivanto,1510,717,Carretel
+Orvencia,1810,718,Muelle de Cobre
+Ronda Hondelia,1510,718,Muelle de Cobre
+Orvencia,1910,719,Muelle de Cobre
+Ronda Isvario,1510,719,Muelle de Cobre
+Orvencia,2010,720,Muelle de Cobre
+Ronda Jundela,1510,720,Muelle de Cobre
+Orvencia,2110,721,Muelle de Cobre
+Vuelta Alvireo,1510,721,Muelle de Cobre
+Orvencia,2210,722,Muelle de Cobre
+Vuelta Brumiel,1510,722,Muelle de Cobre
+Orvencia,2310,723,Muelle de Cobre
+Vuelta Celdaro,1510,723,Muelle de Cobre
+Orvencia,2410,724,Muelle de Cobre
+Vuelta Dunaria,1510,724,Muelle de Cobre
+Orvencia,2510,725,Muelle de Cobre
+Vuelta Esvante,1510,725,Muelle de Cobre
+Orvencia,2610,726,Muelle de Cobre
+Vuelta Fornelia,1510,726,Muelle de Cobre
+Orvencia,2710,727,Muelle de Cobre
+Vuelta Grivanto,1510,727,Muelle de Cobre
+Orvencia,2810,728,Muelle de Cobre
+Vuelta Hondelia,1510,728,Muelle de Cobre
+Orvencia,2910,729,Muelle de Cobre
+Vuelta Isvario,1510,729,Muelle de Cobre
+Orvencia,3010,730,Muelle de Cobre
+Vuelta Jundela,1510,730,Muelle de Cobre
+Orvencia,3110,731,Muelle de Cobre
+Senda Alvireo,1510,731,Muelle de Cobre
+Orvencia,3210,732,Muelle de Cobre
+Senda Brumiel,1510,732,Muelle de Cobre
+Orvencia,3310,733,Muelle de Cobre
+Senda Celdaro,1510,733,Muelle de Cobre
+Orvencia,3410,734,Muelle de Cobre
+Senda Dunaria,1510,734,Muelle de Cobre
+Orvencia,3510,735,Huerta del Viento
+Senda Esvante,1510,735,Huerta del Viento
+Orvencia,3610,736,Huerta del Viento
+Senda Fornelia,1510,736,Huerta del Viento
+Orvencia,3710,737,Huerta del Viento
+Senda Grivanto,1510,737,Huerta del Viento
+Orvencia,3810,738,Huerta del Viento
+Senda Hondelia,1510,738,Huerta del Viento
+Orvencia,3910,739,Huerta del Viento
+Senda Isvario,1510,739,Huerta del Viento
+Orvencia,4010,740,Huerta del Viento
+Senda Jundela,1510,740,Huerta del Viento
+Orvencia,4110,741,Huerta del Viento
+Paso Alvireo,1510,741,Huerta del Viento
+Orvencia,4210,742,Huerta del Viento
+Paso Brumiel,1510,742,Huerta del Viento
+Orvencia,4310,743,Huerta del Viento
+Paso Celdaro,1510,743,Huerta del Viento
+Orvencia,4410,744,Huerta del Viento
+Paso Dunaria,1510,744,Huerta del Viento
+Orvencia,4510,745,Huerta del Viento
+Paso Esvante,1510,745,Huerta del Viento
+Orvencia,4610,746,Huerta del Viento
+Paso Fornelia,1510,746,Huerta del Viento
+Orvencia,4710,747,Huerta del Viento
+Paso Grivanto,1510,747,Huerta del Viento
+Orvencia,4810,748,Huerta del Viento
+Paso Hondelia,1510,748,Huerta del Viento
+Orvencia,4910,749,Huerta del Viento
+Paso Isvario,1510,749,Huerta del Viento
+Orvencia,5010,750,Huerta del Viento
+Paso Jundela,1510,750,Huerta del Viento
+Pandelia,110,751,Carretel
+Trama Alvireo,1610,751,Carretel
+Pandelia,210,752,Carretel
+Trama Brumiel,1610,752,Carretel
+Pandelia,310,753,Carretel
+Trama Celdaro,1610,753,Carretel
+Pandelia,410,754,Carretel
+Trama Dunaria,1610,754,Carretel
+Pandelia,510,755,Carretel
+Trama Esvante,1610,755,Carretel
+Pandelia,610,756,Carretel
+Trama Fornelia,1610,756,Carretel
+Pandelia,710,757,Carretel
+Trama Grivanto,1610,757,Carretel
+Pandelia,810,758,Carretel
+Trama Hondelia,1610,758,Carretel
+Pandelia,910,759,Carretel
+Trama Isvario,1610,759,Carretel
+Pandelia,1010,760,Carretel
+Trama Jundela,1610,760,Carretel
+Pandelia,1110,761,Carretel
+Ronda Alvireo,1610,761,Carretel
+Pandelia,1210,762,Carretel
+Ronda Brumiel,1610,762,Carretel
+Pandelia,1310,763,Carretel
+Ronda Celdaro,1610,763,Carretel
+Pandelia,1410,764,Carretel
+Ronda Dunaria,1610,764,Carretel
+Pandelia,1510,765,Carretel
+Ronda Esvante,1610,765,Carretel
+Pandelia,1610,766,Carretel
+Ronda Fornelia,1610,766,Carretel
+Pandelia,1710,767,Carretel
+Ronda Grivanto,1610,767,Carretel
+Pandelia,1810,768,Muelle de Cobre
+Ronda Hondelia,1610,768,Muelle de Cobre
+Pandelia,1910,769,Muelle de Cobre
+Ronda Isvario,1610,769,Muelle de Cobre
+Pandelia,2010,770,Muelle de Cobre
+Ronda Jundela,1610,770,Muelle de Cobre
+Pandelia,2110,771,Muelle de Cobre
+Vuelta Alvireo,1610,771,Muelle de Cobre
+Pandelia,2210,772,Muelle de Cobre
+Vuelta Brumiel,1610,772,Muelle de Cobre
+Pandelia,2310,773,Muelle de Cobre
+Vuelta Celdaro,1610,773,Muelle de Cobre
+Pandelia,2410,774,Muelle de Cobre
+Vuelta Dunaria,1610,774,Muelle de Cobre
+Pandelia,2510,775,Muelle de Cobre
+Vuelta Esvante,1610,775,Muelle de Cobre
+Pandelia,2610,776,Muelle de Cobre
+Vuelta Fornelia,1610,776,Muelle de Cobre
+Pandelia,2710,777,Muelle de Cobre
+Vuelta Grivanto,1610,777,Muelle de Cobre
+Pandelia,2810,778,Muelle de Cobre
+Vuelta Hondelia,1610,778,Muelle de Cobre
+Pandelia,2910,779,Muelle de Cobre
+Vuelta Isvario,1610,779,Muelle de Cobre
+Pandelia,3010,780,Muelle de Cobre
+Vuelta Jundela,1610,780,Muelle de Cobre
+Pandelia,3110,781,Muelle de Cobre
+Senda Alvireo,1610,781,Muelle de Cobre
+Pandelia,3210,782,Muelle de Cobre
+Senda Brumiel,1610,782,Muelle de Cobre
+Pandelia,3310,783,Muelle de Cobre
+Senda Celdaro,1610,783,Muelle de Cobre
+Pandelia,3410,784,Muelle de Cobre
+Senda Dunaria,1610,784,Muelle de Cobre
+Pandelia,3510,785,Huerta del Viento
+Senda Esvante,1610,785,Huerta del Viento
+Pandelia,3610,786,Huerta del Viento
+Senda Fornelia,1610,786,Huerta del Viento
+Pandelia,3710,787,Huerta del Viento
+Senda Grivanto,1610,787,Huerta del Viento
+Pandelia,3810,788,Huerta del Viento
+Senda Hondelia,1610,788,Huerta del Viento
+Pandelia,3910,789,Huerta del Viento
+Senda Isvario,1610,789,Huerta del Viento
+Pandelia,4010,790,Huerta del Viento
+Senda Jundela,1610,790,Huerta del Viento
+Pandelia,4110,791,Huerta del Viento
+Paso Alvireo,1610,791,Huerta del Viento
+Pandelia,4210,792,Huerta del Viento
+Paso Brumiel,1610,792,Huerta del Viento
+Pandelia,4310,793,Huerta del Viento
+Paso Celdaro,1610,793,Huerta del Viento
+Pandelia,4410,794,Huerta del Viento
+Paso Dunaria,1610,794,Huerta del Viento
+Pandelia,4510,795,Huerta del Viento
+Paso Esvante,1610,795,Huerta del Viento
+Pandelia,4610,796,Huerta del Viento
+Paso Fornelia,1610,796,Huerta del Viento
+Pandelia,4710,797,Huerta del Viento
+Paso Grivanto,1610,797,Huerta del Viento
+Pandelia,4810,798,Huerta del Viento
+Paso Hondelia,1610,798,Huerta del Viento
+Pandelia,4910,799,Huerta del Viento
+Paso Isvario,1610,799,Huerta del Viento
+Pandelia,5010,800,Huerta del Viento
+Paso Jundela,1610,800,Huerta del Viento
+Quiranda,110,801,Carretel
+Trama Alvireo,1710,801,Carretel
+Quiranda,210,802,Carretel
+Trama Brumiel,1710,802,Carretel
+Quiranda,310,803,Carretel
+Trama Celdaro,1710,803,Carretel
+Quiranda,410,804,Carretel
+Trama Dunaria,1710,804,Carretel
+Quiranda,510,805,Carretel
+Trama Esvante,1710,805,Carretel
+Quiranda,610,806,Carretel
+Trama Fornelia,1710,806,Carretel
+Quiranda,710,807,Carretel
+Trama Grivanto,1710,807,Carretel
+Quiranda,810,808,Carretel
+Trama Hondelia,1710,808,Carretel
+Quiranda,910,809,Carretel
+Trama Isvario,1710,809,Carretel
+Quiranda,1010,810,Carretel
+Trama Jundela,1710,810,Carretel
+Quiranda,1110,811,Carretel
+Ronda Alvireo,1710,811,Carretel
+Quiranda,1210,812,Carretel
+Ronda Brumiel,1710,812,Carretel
+Quiranda,1310,813,Carretel
+Ronda Celdaro,1710,813,Carretel
+Quiranda,1410,814,Carretel
+Ronda Dunaria,1710,814,Carretel
+Quiranda,1510,815,Carretel
+Ronda Esvante,1710,815,Carretel
+Quiranda,1610,816,Carretel
+Ronda Fornelia,1710,816,Carretel
+Quiranda,1710,817,Carretel
+Ronda Grivanto,1710,817,Carretel
+Quiranda,1810,818,Muelle de Cobre
+Ronda Hondelia,1710,818,Muelle de Cobre
+Quiranda,1910,819,Muelle de Cobre
+Ronda Isvario,1710,819,Muelle de Cobre
+Quiranda,2010,820,Muelle de Cobre
+Ronda Jundela,1710,820,Muelle de Cobre
+Quiranda,2110,821,Muelle de Cobre
+Vuelta Alvireo,1710,821,Muelle de Cobre
+Quiranda,2210,822,Muelle de Cobre
+Vuelta Brumiel,1710,822,Muelle de Cobre
+Quiranda,2310,823,Muelle de Cobre
+Vuelta Celdaro,1710,823,Muelle de Cobre
+Quiranda,2410,824,Muelle de Cobre
+Vuelta Dunaria,1710,824,Muelle de Cobre
+Quiranda,2510,825,Muelle de Cobre
+Vuelta Esvante,1710,825,Muelle de Cobre
+Quiranda,2610,826,Muelle de Cobre
+Vuelta Fornelia,1710,826,Muelle de Cobre
+Quiranda,2710,827,Muelle de Cobre
+Vuelta Grivanto,1710,827,Muelle de Cobre
+Quiranda,2810,828,Muelle de Cobre
+Vuelta Hondelia,1710,828,Muelle de Cobre
+Quiranda,2910,829,Muelle de Cobre
+Vuelta Isvario,1710,829,Muelle de Cobre
+Quiranda,3010,830,Muelle de Cobre
+Vuelta Jundela,1710,830,Muelle de Cobre
+Quiranda,3110,831,Muelle de Cobre
+Senda Alvireo,1710,831,Muelle de Cobre
+Quiranda,3210,832,Muelle de Cobre
+Senda Brumiel,1710,832,Muelle de Cobre
+Quiranda,3310,833,Muelle de Cobre
+Senda Celdaro,1710,833,Muelle de Cobre
+Quiranda,3410,834,Muelle de Cobre
+Senda Dunaria,1710,834,Muelle de Cobre
+Quiranda,3510,835,Huerta del Viento
+Senda Esvante,1710,835,Huerta del Viento
+Quiranda,3610,836,Huerta del Viento
+Senda Fornelia,1710,836,Huerta del Viento
+Quiranda,3710,837,Huerta del Viento
+Senda Grivanto,1710,837,Huerta del Viento
+Quiranda,3810,838,Huerta del Viento
+Senda Hondelia,1710,838,Huerta del Viento
+Quiranda,3910,839,Huerta del Viento
+Senda Isvario,1710,839,Huerta del Viento
+Quiranda,4010,840,Huerta del Viento
+Senda Jundela,1710,840,Huerta del Viento
+Quiranda,4110,841,Huerta del Viento
+Paso Alvireo,1710,841,Huerta del Viento
+Quiranda,4210,842,Huerta del Viento
+Paso Brumiel,1710,842,Huerta del Viento
+Quiranda,4310,843,Huerta del Viento
+Paso Celdaro,1710,843,Huerta del Viento
+Quiranda,4410,844,Huerta del Viento
+Paso Dunaria,1710,844,Huerta del Viento
+Quiranda,4510,845,Huerta del Viento
+Paso Esvante,1710,845,Huerta del Viento
+Quiranda,4610,846,Huerta del Viento
+Paso Fornelia,1710,846,Huerta del Viento
+Quiranda,4710,847,Huerta del Viento
+Paso Grivanto,1710,847,Huerta del Viento
+Quiranda,4810,848,Huerta del Viento
+Paso Hondelia,1710,848,Huerta del Viento
+Quiranda,4910,849,Huerta del Viento
+Paso Isvario,1710,849,Huerta del Viento
+Quiranda,5010,850,Huerta del Viento
+Paso Jundela,1710,850,Huerta del Viento
+Rieluma,110,851,Carretel
+Trama Alvireo,1810,851,Carretel
+Rieluma,210,852,Carretel
+Trama Brumiel,1810,852,Carretel
+Rieluma,310,853,Carretel
+Trama Celdaro,1810,853,Carretel
+Rieluma,410,854,Carretel
+Trama Dunaria,1810,854,Carretel
+Rieluma,510,855,Carretel
+Trama Esvante,1810,855,Carretel
+Rieluma,610,856,Carretel
+Trama Fornelia,1810,856,Carretel
+Rieluma,710,857,Carretel
+Trama Grivanto,1810,857,Carretel
+Rieluma,810,858,Carretel
+Trama Hondelia,1810,858,Carretel
+Rieluma,910,859,Carretel
+Trama Isvario,1810,859,Carretel
+Rieluma,1010,860,Carretel
+Trama Jundela,1810,860,Carretel
+Rieluma,1110,861,Carretel
+Ronda Alvireo,1810,861,Carretel
+Rieluma,1210,862,Carretel
+Ronda Brumiel,1810,862,Carretel
+Rieluma,1310,863,Carretel
+Ronda Celdaro,1810,863,Carretel
+Rieluma,1410,864,Carretel
+Ronda Dunaria,1810,864,Carretel
+Rieluma,1510,865,Carretel
+Ronda Esvante,1810,865,Carretel
+Rieluma,1610,866,Carretel
+Ronda Fornelia,1810,866,Carretel
+Rieluma,1710,867,Carretel
+Ronda Grivanto,1810,867,Carretel
+Rieluma,1810,868,Muelle de Cobre
+Ronda Hondelia,1810,868,Muelle de Cobre
+Rieluma,1910,869,Muelle de Cobre
+Ronda Isvario,1810,869,Muelle de Cobre
+Rieluma,2010,870,Muelle de Cobre
+Ronda Jundela,1810,870,Muelle de Cobre
+Rieluma,2110,871,Muelle de Cobre
+Vuelta Alvireo,1810,871,Muelle de Cobre
+Rieluma,2210,872,Muelle de Cobre
+Vuelta Brumiel,1810,872,Muelle de Cobre
+Rieluma,2310,873,Muelle de Cobre
+Vuelta Celdaro,1810,873,Muelle de Cobre
+Rieluma,2410,874,Muelle de Cobre
+Vuelta Dunaria,1810,874,Muelle de Cobre
+Rieluma,2510,875,Muelle de Cobre
+Vuelta Esvante,1810,875,Muelle de Cobre
+Rieluma,2610,876,Muelle de Cobre
+Vuelta Fornelia,1810,876,Muelle de Cobre
+Rieluma,2710,877,Muelle de Cobre
+Vuelta Grivanto,1810,877,Muelle de Cobre
+Rieluma,2810,878,Muelle de Cobre
+Vuelta Hondelia,1810,878,Muelle de Cobre
+Rieluma,2910,879,Muelle de Cobre
+Vuelta Isvario,1810,879,Muelle de Cobre
+Rieluma,3010,880,Muelle de Cobre
+Vuelta Jundela,1810,880,Muelle de Cobre
+Rieluma,3110,881,Muelle de Cobre
+Senda Alvireo,1810,881,Muelle de Cobre
+Rieluma,3210,882,Muelle de Cobre
+Senda Brumiel,1810,882,Muelle de Cobre
+Rieluma,3310,883,Muelle de Cobre
+Senda Celdaro,1810,883,Muelle de Cobre
+Rieluma,3410,884,Muelle de Cobre
+Senda Dunaria,1810,884,Muelle de Cobre
+Rieluma,3510,885,Huerta del Viento
+Senda Esvante,1810,885,Huerta del Viento
+Rieluma,3610,886,Huerta del Viento
+Senda Fornelia,1810,886,Huerta del Viento
+Rieluma,3710,887,Huerta del Viento
+Senda Grivanto,1810,887,Huerta del Viento
+Rieluma,3810,888,Huerta del Viento
+Senda Hondelia,1810,888,Huerta del Viento
+Rieluma,3910,889,Huerta del Viento
+Senda Isvario,1810,889,Huerta del Viento
+Rieluma,4010,890,Huerta del Viento
+Senda Jundela,1810,890,Huerta del Viento
+Rieluma,4110,891,Huerta del Viento
+Paso Alvireo,1810,891,Huerta del Viento
+Rieluma,4210,892,Huerta del Viento
+Paso Brumiel,1810,892,Huerta del Viento
+Rieluma,4310,893,Huerta del Viento
+Paso Celdaro,1810,893,Huerta del Viento
+Rieluma,4410,894,Huerta del Viento
+Paso Dunaria,1810,894,Huerta del Viento
+Rieluma,4510,895,Huerta del Viento
+Paso Esvante,1810,895,Huerta del Viento
+Rieluma,4610,896,Huerta del Viento
+Paso Fornelia,1810,896,Huerta del Viento
+Rieluma,4710,897,Huerta del Viento
+Paso Grivanto,1810,897,Huerta del Viento
+Rieluma,4810,898,Huerta del Viento
+Paso Hondelia,1810,898,Huerta del Viento
+Rieluma,4910,899,Huerta del Viento
+Paso Isvario,1810,899,Huerta del Viento
+Rieluma,5010,900,Huerta del Viento
+Paso Jundela,1810,900,Huerta del Viento
+Serralvia,110,901,Carretel
+Trama Alvireo,1910,901,Carretel
+Serralvia,210,902,Carretel
+Trama Brumiel,1910,902,Carretel
+Serralvia,310,903,Carretel
+Trama Celdaro,1910,903,Carretel
+Serralvia,410,904,Carretel
+Trama Dunaria,1910,904,Carretel
+Serralvia,510,905,Carretel
+Trama Esvante,1910,905,Carretel
+Serralvia,610,906,Carretel
+Trama Fornelia,1910,906,Carretel
+Serralvia,710,907,Carretel
+Trama Grivanto,1910,907,Carretel
+Serralvia,810,908,Carretel
+Trama Hondelia,1910,908,Carretel
+Serralvia,910,909,Carretel
+Trama Isvario,1910,909,Carretel
+Serralvia,1010,910,Carretel
+Trama Jundela,1910,910,Carretel
+Serralvia,1110,911,Carretel
+Ronda Alvireo,1910,911,Carretel
+Serralvia,1210,912,Carretel
+Ronda Brumiel,1910,912,Carretel
+Serralvia,1310,913,Carretel
+Ronda Celdaro,1910,913,Carretel
+Serralvia,1410,914,Carretel
+Ronda Dunaria,1910,914,Carretel
+Serralvia,1510,915,Carretel
+Ronda Esvante,1910,915,Carretel
+Serralvia,1610,916,Carretel
+Ronda Fornelia,1910,916,Carretel
+Serralvia,1710,917,Carretel
+Ronda Grivanto,1910,917,Carretel
+Serralvia,1810,918,Muelle de Cobre
+Ronda Hondelia,1910,918,Muelle de Cobre
+Serralvia,1910,919,Muelle de Cobre
+Ronda Isvario,1910,919,Muelle de Cobre
+Serralvia,2010,920,Muelle de Cobre
+Ronda Jundela,1910,920,Muelle de Cobre
+Serralvia,2110,921,Muelle de Cobre
+Vuelta Alvireo,1910,921,Muelle de Cobre
+Serralvia,2210,922,Muelle de Cobre
+Vuelta Brumiel,1910,922,Muelle de Cobre
+Serralvia,2310,923,Muelle de Cobre
+Vuelta Celdaro,1910,923,Muelle de Cobre
+Serralvia,2410,924,Muelle de Cobre
+Vuelta Dunaria,1910,924,Muelle de Cobre
+Serralvia,2510,925,Muelle de Cobre
+Vuelta Esvante,1910,925,Muelle de Cobre
+Serralvia,2610,926,Muelle de Cobre
+Vuelta Fornelia,1910,926,Muelle de Cobre
+Serralvia,2710,927,Muelle de Cobre
+Vuelta Grivanto,1910,927,Muelle de Cobre
+Serralvia,2810,928,Muelle de Cobre
+Vuelta Hondelia,1910,928,Muelle de Cobre
+Serralvia,2910,929,Muelle de Cobre
+Vuelta Isvario,1910,929,Muelle de Cobre
+Serralvia,3010,930,Muelle de Cobre
+Vuelta Jundela,1910,930,Muelle de Cobre
+Serralvia,3110,931,Muelle de Cobre
+Senda Alvireo,1910,931,Muelle de Cobre
+Serralvia,3210,932,Muelle de Cobre
+Senda Brumiel,1910,932,Muelle de Cobre
+Serralvia,3310,933,Muelle de Cobre
+Senda Celdaro,1910,933,Muelle de Cobre
+Serralvia,3410,934,Muelle de Cobre
+Senda Dunaria,1910,934,Muelle de Cobre
+Serralvia,3510,935,Huerta del Viento
+Senda Esvante,1910,935,Huerta del Viento
+Serralvia,3610,936,Huerta del Viento
+Senda Fornelia,1910,936,Huerta del Viento
+Serralvia,3710,937,Huerta del Viento
+Senda Grivanto,1910,937,Huerta del Viento
+Serralvia,3810,938,Huerta del Viento
+Senda Hondelia,1910,938,Huerta del Viento
+Serralvia,3910,939,Huerta del Viento
+Senda Isvario,1910,939,Huerta del Viento
+Serralvia,4010,940,Huerta del Viento
+Senda Jundela,1910,940,Huerta del Viento
+Serralvia,4110,941,Huerta del Viento
+Paso Alvireo,1910,941,Huerta del Viento
+Serralvia,4210,942,Huerta del Viento
+Paso Brumiel,1910,942,Huerta del Viento
+Serralvia,4310,943,Huerta del Viento
+Paso Celdaro,1910,943,Huerta del Viento
+Serralvia,4410,944,Huerta del Viento
+Paso Dunaria,1910,944,Huerta del Viento
+Serralvia,4510,945,Huerta del Viento
+Paso Esvante,1910,945,Huerta del Viento
+Serralvia,4610,946,Huerta del Viento
+Paso Fornelia,1910,946,Huerta del Viento
+Serralvia,4710,947,Huerta del Viento
+Paso Grivanto,1910,947,Huerta del Viento
+Serralvia,4810,948,Huerta del Viento
+Paso Hondelia,1910,948,Huerta del Viento
+Serralvia,4910,949,Huerta del Viento
+Paso Isvario,1910,949,Huerta del Viento
+Serralvia,5010,950,Huerta del Viento
+Paso Jundela,1910,950,Huerta del Viento
+Torvanta,110,951,Carretel
+Trama Alvireo,2010,951,Carretel
+Torvanta,210,952,Carretel
+Trama Brumiel,2010,952,Carretel
+Torvanta,310,953,Carretel
+Trama Celdaro,2010,953,Carretel
+Torvanta,410,954,Carretel
+Trama Dunaria,2010,954,Carretel
+Torvanta,510,955,Carretel
+Trama Esvante,2010,955,Carretel
+Torvanta,610,956,Carretel
+Trama Fornelia,2010,956,Carretel
+Torvanta,710,957,Carretel
+Trama Grivanto,2010,957,Carretel
+Torvanta,810,958,Carretel
+Trama Hondelia,2010,958,Carretel
+Torvanta,910,959,Carretel
+Trama Isvario,2010,959,Carretel
+Torvanta,1010,960,Carretel
+Trama Jundela,2010,960,Carretel
+Torvanta,1110,961,Carretel
+Ronda Alvireo,2010,961,Carretel
+Torvanta,1210,962,Carretel
+Ronda Brumiel,2010,962,Carretel
+Torvanta,1310,963,Carretel
+Ronda Celdaro,2010,963,Carretel
+Torvanta,1410,964,Carretel
+Ronda Dunaria,2010,964,Carretel
+Torvanta,1510,965,Carretel
+Ronda Esvante,2010,965,Carretel
+Torvanta,1610,966,Carretel
+Ronda Fornelia,2010,966,Carretel
+Torvanta,1710,967,Carretel
+Ronda Grivanto,2010,967,Carretel
+Torvanta,1810,968,Muelle de Cobre
+Ronda Hondelia,2010,968,Muelle de Cobre
+Torvanta,1910,969,Muelle de Cobre
+Ronda Isvario,2010,969,Muelle de Cobre
+Torvanta,2010,970,Muelle de Cobre
+Ronda Jundela,2010,970,Muelle de Cobre
+Torvanta,2110,971,Muelle de Cobre
+Vuelta Alvireo,2010,971,Muelle de Cobre
+Torvanta,2210,972,Muelle de Cobre
+Vuelta Brumiel,2010,972,Muelle de Cobre
+Torvanta,2310,973,Muelle de Cobre
+Vuelta Celdaro,2010,973,Muelle de Cobre
+Torvanta,2410,974,Muelle de Cobre
+Vuelta Dunaria,2010,974,Muelle de Cobre
+Torvanta,2510,975,Muelle de Cobre
+Vuelta Esvante,2010,975,Muelle de Cobre
+Torvanta,2610,976,Muelle de Cobre
+Vuelta Fornelia,2010,976,Muelle de Cobre
+Torvanta,2710,977,Muelle de Cobre
+Vuelta Grivanto,2010,977,Muelle de Cobre
+Torvanta,2810,978,Muelle de Cobre
+Vuelta Hondelia,2010,978,Muelle de Cobre
+Torvanta,2910,979,Muelle de Cobre
+Vuelta Isvario,2010,979,Muelle de Cobre
+Torvanta,3010,980,Muelle de Cobre
+Vuelta Jundela,2010,980,Muelle de Cobre
+Torvanta,3110,981,Muelle de Cobre
+Senda Alvireo,2010,981,Muelle de Cobre
+Torvanta,3210,982,Muelle de Cobre
+Senda Brumiel,2010,982,Muelle de Cobre
+Torvanta,3310,983,Muelle de Cobre
+Senda Celdaro,2010,983,Muelle de Cobre
+Torvanta,3410,984,Muelle de Cobre
+Senda Dunaria,2010,984,Muelle de Cobre
+Torvanta,3510,985,Huerta del Viento
+Senda Esvante,2010,985,Huerta del Viento
+Torvanta,3610,986,Huerta del Viento
+Senda Fornelia,2010,986,Huerta del Viento
+Torvanta,3710,987,Huerta del Viento
+Senda Grivanto,2010,987,Huerta del Viento
+Torvanta,3810,988,Huerta del Viento
+Senda Hondelia,2010,988,Huerta del Viento
+Torvanta,3910,989,Huerta del Viento
+Senda Isvario,2010,989,Huerta del Viento
+Torvanta,4010,990,Huerta del Viento
+Senda Jundela,2010,990,Huerta del Viento
+Torvanta,4110,991,Huerta del Viento
+Paso Alvireo,2010,991,Huerta del Viento
+Torvanta,4210,992,Huerta del Viento
+Paso Brumiel,2010,992,Huerta del Viento
+Torvanta,4310,993,Huerta del Viento
+Paso Celdaro,2010,993,Huerta del Viento
+Torvanta,4410,994,Huerta del Viento
+Paso Dunaria,2010,994,Huerta del Viento
+Torvanta,4510,995,Huerta del Viento
+Paso Esvante,2010,995,Huerta del Viento
+Torvanta,4610,996,Huerta del Viento
+Paso Fornelia,2010,996,Huerta del Viento
+Torvanta,4710,997,Huerta del Viento
+Paso Grivanto,2010,997,Huerta del Viento
+Torvanta,4810,998,Huerta del Viento
+Paso Hondelia,2010,998,Huerta del Viento
+Torvanta,4910,999,Huerta del Viento
+Paso Isvario,2010,999,Huerta del Viento
+Torvanta,5010,1000,Huerta del Viento
+Paso Jundela,2010,1000,Huerta del Viento
+Umbralia,110,1001,Las Poleas
+Trama Alvireo,2110,1001,Las Poleas
+Umbralia,210,1002,Las Poleas
+Trama Brumiel,2110,1002,Las Poleas
+Umbralia,310,1003,Las Poleas
+Trama Celdaro,2110,1003,Las Poleas
+Umbralia,410,1004,Las Poleas
+Trama Dunaria,2110,1004,Las Poleas
+Umbralia,510,1005,Las Poleas
+Trama Esvante,2110,1005,Las Poleas
+Umbralia,610,1006,Las Poleas
+Trama Fornelia,2110,1006,Las Poleas
+Umbralia,710,1007,Las Poleas
+Trama Grivanto,2110,1007,Las Poleas
+Umbralia,810,1008,Las Poleas
+Trama Hondelia,2110,1008,Las Poleas
+Umbralia,910,1009,Las Poleas
+Trama Isvario,2110,1009,Las Poleas
+Umbralia,1010,1010,Las Poleas
+Trama Jundela,2110,1010,Las Poleas
+Umbralia,1110,1011,Las Poleas
+Ronda Alvireo,2110,1011,Las Poleas
+Umbralia,1210,1012,Las Poleas
+Ronda Brumiel,2110,1012,Las Poleas
+Umbralia,1310,1013,Las Poleas
+Ronda Celdaro,2110,1013,Las Poleas
+Umbralia,1410,1014,Las Poleas
+Ronda Dunaria,2110,1014,Las Poleas
+Umbralia,1510,1015,Las Poleas
+Ronda Esvante,2110,1015,Las Poleas
+Umbralia,1610,1016,Las Poleas
+Ronda Fornelia,2110,1016,Las Poleas
+Umbralia,1710,1017,Las Poleas
+Ronda Grivanto,2110,1017,Las Poleas
+Umbralia,1810,1018,Loma de Junco
+Ronda Hondelia,2110,1018,Loma de Junco
+Umbralia,1910,1019,Loma de Junco
+Ronda Isvario,2110,1019,Loma de Junco
+Umbralia,2010,1020,Loma de Junco
+Ronda Jundela,2110,1020,Loma de Junco
+Umbralia,2110,1021,Loma de Junco
+Vuelta Alvireo,2110,1021,Loma de Junco
+Umbralia,2210,1022,Loma de Junco
+Vuelta Brumiel,2110,1022,Loma de Junco
+Umbralia,2310,1023,Loma de Junco
+Vuelta Celdaro,2110,1023,Loma de Junco
+Umbralia,2410,1024,Loma de Junco
+Vuelta Dunaria,2110,1024,Loma de Junco
+Umbralia,2510,1025,Loma de Junco
+Vuelta Esvante,2110,1025,Loma de Junco
+Umbralia,2610,1026,Loma de Junco
+Vuelta Fornelia,2110,1026,Loma de Junco
+Umbralia,2710,1027,Loma de Junco
+Vuelta Grivanto,2110,1027,Loma de Junco
+Umbralia,2810,1028,Loma de Junco
+Vuelta Hondelia,2110,1028,Loma de Junco
+Umbralia,2910,1029,Loma de Junco
+Vuelta Isvario,2110,1029,Loma de Junco
+Umbralia,3010,1030,Loma de Junco
+Vuelta Jundela,2110,1030,Loma de Junco
+Umbralia,3110,1031,Loma de Junco
+Senda Alvireo,2110,1031,Loma de Junco
+Umbralia,3210,1032,Loma de Junco
+Senda Brumiel,2110,1032,Loma de Junco
+Umbralia,3310,1033,Loma de Junco
+Senda Celdaro,2110,1033,Loma de Junco
+Umbralia,3410,1034,Loma de Junco
+Senda Dunaria,2110,1034,Loma de Junco
+Umbralia,3510,1035,Ribera del Riel
+Senda Esvante,2110,1035,Ribera del Riel
+Umbralia,3610,1036,Ribera del Riel
+Senda Fornelia,2110,1036,Ribera del Riel
+Umbralia,3710,1037,Ribera del Riel
+Senda Grivanto,2110,1037,Ribera del Riel
+Umbralia,3810,1038,Ribera del Riel
+Senda Hondelia,2110,1038,Ribera del Riel
+Umbralia,3910,1039,Ribera del Riel
+Senda Isvario,2110,1039,Ribera del Riel
+Umbralia,4010,1040,Ribera del Riel
+Senda Jundela,2110,1040,Ribera del Riel
+Umbralia,4110,1041,Ribera del Riel
+Paso Alvireo,2110,1041,Ribera del Riel
+Umbralia,4210,1042,Ribera del Riel
+Paso Brumiel,2110,1042,Ribera del Riel
+Umbralia,4310,1043,Ribera del Riel
+Paso Celdaro,2110,1043,Ribera del Riel
+Umbralia,4410,1044,Ribera del Riel
+Paso Dunaria,2110,1044,Ribera del Riel
+Umbralia,4510,1045,Ribera del Riel
+Paso Esvante,2110,1045,Ribera del Riel
+Umbralia,4610,1046,Ribera del Riel
+Paso Fornelia,2110,1046,Ribera del Riel
+Umbralia,4710,1047,Ribera del Riel
+Paso Grivanto,2110,1047,Ribera del Riel
+Umbralia,4810,1048,Ribera del Riel
+Paso Hondelia,2110,1048,Ribera del Riel
+Umbralia,4910,1049,Ribera del Riel
+Paso Isvario,2110,1049,Ribera del Riel
+Umbralia,5010,1050,Ribera del Riel
+Paso Jundela,2110,1050,Ribera del Riel
+Valdoria,110,1051,Las Poleas
+Trama Alvireo,2210,1051,Las Poleas
+Valdoria,210,1052,Las Poleas
+Trama Brumiel,2210,1052,Las Poleas
+Valdoria,310,1053,Las Poleas
+Trama Celdaro,2210,1053,Las Poleas
+Valdoria,410,1054,Las Poleas
+Trama Dunaria,2210,1054,Las Poleas
+Valdoria,510,1055,Las Poleas
+Trama Esvante,2210,1055,Las Poleas
+Valdoria,610,1056,Las Poleas
+Trama Fornelia,2210,1056,Las Poleas
+Valdoria,710,1057,Las Poleas
+Trama Grivanto,2210,1057,Las Poleas
+Valdoria,810,1058,Las Poleas
+Trama Hondelia,2210,1058,Las Poleas
+Valdoria,910,1059,Las Poleas
+Trama Isvario,2210,1059,Las Poleas
+Valdoria,1010,1060,Las Poleas
+Trama Jundela,2210,1060,Las Poleas
+Valdoria,1110,1061,Las Poleas
+Ronda Alvireo,2210,1061,Las Poleas
+Valdoria,1210,1062,Las Poleas
+Ronda Brumiel,2210,1062,Las Poleas
+Valdoria,1310,1063,Las Poleas
+Ronda Celdaro,2210,1063,Las Poleas
+Valdoria,1410,1064,Las Poleas
+Ronda Dunaria,2210,1064,Las Poleas
+Valdoria,1510,1065,Las Poleas
+Ronda Esvante,2210,1065,Las Poleas
+Valdoria,1610,1066,Las Poleas
+Ronda Fornelia,2210,1066,Las Poleas
+Valdoria,1710,1067,Las Poleas
+Ronda Grivanto,2210,1067,Las Poleas
+Valdoria,1810,1068,Loma de Junco
+Ronda Hondelia,2210,1068,Loma de Junco
+Valdoria,1910,1069,Loma de Junco
+Ronda Isvario,2210,1069,Loma de Junco
+Valdoria,2010,1070,Loma de Junco
+Ronda Jundela,2210,1070,Loma de Junco
+Valdoria,2110,1071,Loma de Junco
+Vuelta Alvireo,2210,1071,Loma de Junco
+Valdoria,2210,1072,Loma de Junco
+Vuelta Brumiel,2210,1072,Loma de Junco
+Valdoria,2310,1073,Loma de Junco
+Vuelta Celdaro,2210,1073,Loma de Junco
+Valdoria,2410,1074,Loma de Junco
+Vuelta Dunaria,2210,1074,Loma de Junco
+Valdoria,2510,1075,Loma de Junco
+Vuelta Esvante,2210,1075,Loma de Junco
+Valdoria,2610,1076,Loma de Junco
+Vuelta Fornelia,2210,1076,Loma de Junco
+Valdoria,2710,1077,Loma de Junco
+Vuelta Grivanto,2210,1077,Loma de Junco
+Valdoria,2810,1078,Loma de Junco
+Vuelta Hondelia,2210,1078,Loma de Junco
+Valdoria,2910,1079,Loma de Junco
+Vuelta Isvario,2210,1079,Loma de Junco
+Valdoria,3010,1080,Loma de Junco
+Vuelta Jundela,2210,1080,Loma de Junco
+Valdoria,3110,1081,Loma de Junco
+Senda Alvireo,2210,1081,Loma de Junco
+Valdoria,3210,1082,Loma de Junco
+Senda Brumiel,2210,1082,Loma de Junco
+Valdoria,3310,1083,Loma de Junco
+Senda Celdaro,2210,1083,Loma de Junco
+Valdoria,3410,1084,Loma de Junco
+Senda Dunaria,2210,1084,Loma de Junco
+Valdoria,3510,1085,Ribera del Riel
+Senda Esvante,2210,1085,Ribera del Riel
+Valdoria,3610,1086,Ribera del Riel
+Senda Fornelia,2210,1086,Ribera del Riel
+Valdoria,3710,1087,Ribera del Riel
+Senda Grivanto,2210,1087,Ribera del Riel
+Valdoria,3810,1088,Ribera del Riel
+Senda Hondelia,2210,1088,Ribera del Riel
+Valdoria,3910,1089,Ribera del Riel
+Senda Isvario,2210,1089,Ribera del Riel
+Valdoria,4010,1090,Ribera del Riel
+Senda Jundela,2210,1090,Ribera del Riel
+Valdoria,4110,1091,Ribera del Riel
+Paso Alvireo,2210,1091,Ribera del Riel
+Valdoria,4210,1092,Ribera del Riel
+Paso Brumiel,2210,1092,Ribera del Riel
+Valdoria,4310,1093,Ribera del Riel
+Paso Celdaro,2210,1093,Ribera del Riel
+Valdoria,4410,1094,Ribera del Riel
+Paso Dunaria,2210,1094,Ribera del Riel
+Valdoria,4510,1095,Ribera del Riel
+Paso Esvante,2210,1095,Ribera del Riel
+Valdoria,4610,1096,Ribera del Riel
+Paso Fornelia,2210,1096,Ribera del Riel
+Valdoria,4710,1097,Ribera del Riel
+Paso Grivanto,2210,1097,Ribera del Riel
+Valdoria,4810,1098,Ribera del Riel
+Paso Hondelia,2210,1098,Ribera del Riel
+Valdoria,4910,1099,Ribera del Riel
+Paso Isvario,2210,1099,Ribera del Riel
+Valdoria,5010,1100,Ribera del Riel
+Paso Jundela,2210,1100,Ribera del Riel
+Wendarpa,110,1101,Las Poleas
+Trama Alvireo,2310,1101,Las Poleas
+Wendarpa,210,1102,Las Poleas
+Trama Brumiel,2310,1102,Las Poleas
+Wendarpa,310,1103,Las Poleas
+Trama Celdaro,2310,1103,Las Poleas
+Wendarpa,410,1104,Las Poleas
+Trama Dunaria,2310,1104,Las Poleas
+Wendarpa,510,1105,Las Poleas
+Trama Esvante,2310,1105,Las Poleas
+Wendarpa,610,1106,Las Poleas
+Trama Fornelia,2310,1106,Las Poleas
+Wendarpa,710,1107,Las Poleas
+Trama Grivanto,2310,1107,Las Poleas
+Wendarpa,810,1108,Las Poleas
+Trama Hondelia,2310,1108,Las Poleas
+Wendarpa,910,1109,Las Poleas
+Trama Isvario,2310,1109,Las Poleas
+Wendarpa,1010,1110,Las Poleas
+Trama Jundela,2310,1110,Las Poleas
+Wendarpa,1110,1111,Las Poleas
+Ronda Alvireo,2310,1111,Las Poleas
+Wendarpa,1210,1112,Las Poleas
+Ronda Brumiel,2310,1112,Las Poleas
+Wendarpa,1310,1113,Las Poleas
+Ronda Celdaro,2310,1113,Las Poleas
+Wendarpa,1410,1114,Las Poleas
+Ronda Dunaria,2310,1114,Las Poleas
+Wendarpa,1510,1115,Las Poleas
+Ronda Esvante,2310,1115,Las Poleas
+Wendarpa,1610,1116,Las Poleas
+Ronda Fornelia,2310,1116,Las Poleas
+Wendarpa,1710,1117,Las Poleas
+Ronda Grivanto,2310,1117,Las Poleas
+Wendarpa,1810,1118,Loma de Junco
+Ronda Hondelia,2310,1118,Loma de Junco
+Wendarpa,1910,1119,Loma de Junco
+Ronda Isvario,2310,1119,Loma de Junco
+Wendarpa,2010,1120,Loma de Junco
+Ronda Jundela,2310,1120,Loma de Junco
+Wendarpa,2110,1121,Loma de Junco
+Vuelta Alvireo,2310,1121,Loma de Junco
+Wendarpa,2210,1122,Loma de Junco
+Vuelta Brumiel,2310,1122,Loma de Junco
+Wendarpa,2310,1123,Loma de Junco
+Vuelta Celdaro,2310,1123,Loma de Junco
+Wendarpa,2410,1124,Loma de Junco
+Vuelta Dunaria,2310,1124,Loma de Junco
+Wendarpa,2510,1125,Loma de Junco
+Vuelta Esvante,2310,1125,Loma de Junco
+Wendarpa,2610,1126,Loma de Junco
+Vuelta Fornelia,2310,1126,Loma de Junco
+Wendarpa,2710,1127,Loma de Junco
+Vuelta Grivanto,2310,1127,Loma de Junco
+Wendarpa,2810,1128,Loma de Junco
+Vuelta Hondelia,2310,1128,Loma de Junco
+Wendarpa,2910,1129,Loma de Junco
+Vuelta Isvario,2310,1129,Loma de Junco
+Wendarpa,3010,1130,Loma de Junco
+Vuelta Jundela,2310,1130,Loma de Junco
+Wendarpa,3110,1131,Loma de Junco
+Senda Alvireo,2310,1131,Loma de Junco
+Wendarpa,3210,1132,Loma de Junco
+Senda Brumiel,2310,1132,Loma de Junco
+Wendarpa,3310,1133,Loma de Junco
+Senda Celdaro,2310,1133,Loma de Junco
+Wendarpa,3410,1134,Loma de Junco
+Senda Dunaria,2310,1134,Loma de Junco
+Wendarpa,3510,1135,Ribera del Riel
+Senda Esvante,2310,1135,Ribera del Riel
+Wendarpa,3610,1136,Ribera del Riel
+Senda Fornelia,2310,1136,Ribera del Riel
+Wendarpa,3710,1137,Ribera del Riel
+Senda Grivanto,2310,1137,Ribera del Riel
+Wendarpa,3810,1138,Ribera del Riel
+Senda Hondelia,2310,1138,Ribera del Riel
+Wendarpa,3910,1139,Ribera del Riel
+Senda Isvario,2310,1139,Ribera del Riel
+Wendarpa,4010,1140,Ribera del Riel
+Senda Jundela,2310,1140,Ribera del Riel
+Wendarpa,4110,1141,Ribera del Riel
+Paso Alvireo,2310,1141,Ribera del Riel
+Wendarpa,4210,1142,Ribera del Riel
+Paso Brumiel,2310,1142,Ribera del Riel
+Wendarpa,4310,1143,Ribera del Riel
+Paso Celdaro,2310,1143,Ribera del Riel
+Wendarpa,4410,1144,Ribera del Riel
+Paso Dunaria,2310,1144,Ribera del Riel
+Wendarpa,4510,1145,Ribera del Riel
+Paso Esvante,2310,1145,Ribera del Riel
+Wendarpa,4610,1146,Ribera del Riel
+Paso Fornelia,2310,1146,Ribera del Riel
+Wendarpa,4710,1147,Ribera del Riel
+Paso Grivanto,2310,1147,Ribera del Riel
+Wendarpa,4810,1148,Ribera del Riel
+Paso Hondelia,2310,1148,Ribera del Riel
+Wendarpa,4910,1149,Ribera del Riel
+Paso Isvario,2310,1149,Ribera del Riel
+Wendarpa,5010,1150,Ribera del Riel
+Paso Jundela,2310,1150,Ribera del Riel
+Xiloria,110,1151,Las Poleas
+Trama Alvireo,2410,1151,Las Poleas
+Xiloria,210,1152,Las Poleas
+Trama Brumiel,2410,1152,Las Poleas
+Xiloria,310,1153,Las Poleas
+Trama Celdaro,2410,1153,Las Poleas
+Xiloria,410,1154,Las Poleas
+Trama Dunaria,2410,1154,Las Poleas
+Xiloria,510,1155,Las Poleas
+Trama Esvante,2410,1155,Las Poleas
+Xiloria,610,1156,Las Poleas
+Trama Fornelia,2410,1156,Las Poleas
+Xiloria,710,1157,Las Poleas
+Trama Grivanto,2410,1157,Las Poleas
+Xiloria,810,1158,Las Poleas
+Trama Hondelia,2410,1158,Las Poleas
+Xiloria,910,1159,Las Poleas
+Trama Isvario,2410,1159,Las Poleas
+Xiloria,1010,1160,Las Poleas
+Trama Jundela,2410,1160,Las Poleas
+Xiloria,1110,1161,Las Poleas
+Ronda Alvireo,2410,1161,Las Poleas
+Xiloria,1210,1162,Las Poleas
+Ronda Brumiel,2410,1162,Las Poleas
+Xiloria,1310,1163,Las Poleas
+Ronda Celdaro,2410,1163,Las Poleas
+Xiloria,1410,1164,Las Poleas
+Ronda Dunaria,2410,1164,Las Poleas
+Xiloria,1510,1165,Las Poleas
+Ronda Esvante,2410,1165,Las Poleas
+Xiloria,1610,1166,Las Poleas
+Ronda Fornelia,2410,1166,Las Poleas
+Xiloria,1710,1167,Las Poleas
+Ronda Grivanto,2410,1167,Las Poleas
+Xiloria,1810,1168,Loma de Junco
+Ronda Hondelia,2410,1168,Loma de Junco
+Xiloria,1910,1169,Loma de Junco
+Ronda Isvario,2410,1169,Loma de Junco
+Xiloria,2010,1170,Loma de Junco
+Ronda Jundela,2410,1170,Loma de Junco
+Xiloria,2110,1171,Loma de Junco
+Vuelta Alvireo,2410,1171,Loma de Junco
+Xiloria,2210,1172,Loma de Junco
+Vuelta Brumiel,2410,1172,Loma de Junco
+Xiloria,2310,1173,Loma de Junco
+Vuelta Celdaro,2410,1173,Loma de Junco
+Xiloria,2410,1174,Loma de Junco
+Vuelta Dunaria,2410,1174,Loma de Junco
+Xiloria,2510,1175,Loma de Junco
+Vuelta Esvante,2410,1175,Loma de Junco
+Xiloria,2610,1176,Loma de Junco
+Vuelta Fornelia,2410,1176,Loma de Junco
+Xiloria,2710,1177,Loma de Junco
+Vuelta Grivanto,2410,1177,Loma de Junco
+Xiloria,2810,1178,Loma de Junco
+Vuelta Hondelia,2410,1178,Loma de Junco
+Xiloria,2910,1179,Loma de Junco
+Vuelta Isvario,2410,1179,Loma de Junco
+Xiloria,3010,1180,Loma de Junco
+Vuelta Jundela,2410,1180,Loma de Junco
+Xiloria,3110,1181,Loma de Junco
+Senda Alvireo,2410,1181,Loma de Junco
+Xiloria,3210,1182,Loma de Junco
+Senda Brumiel,2410,1182,Loma de Junco
+Xiloria,3310,1183,Loma de Junco
+Senda Celdaro,2410,1183,Loma de Junco
+Xiloria,3410,1184,Loma de Junco
+Senda Dunaria,2410,1184,Loma de Junco
+Xiloria,3510,1185,Ribera del Riel
+Senda Esvante,2410,1185,Ribera del Riel
+Xiloria,3610,1186,Ribera del Riel
+Senda Fornelia,2410,1186,Ribera del Riel
+Xiloria,3710,1187,Ribera del Riel
+Senda Grivanto,2410,1187,Ribera del Riel
+Xiloria,3810,1188,Ribera del Riel
+Senda Hondelia,2410,1188,Ribera del Riel
+Xiloria,3910,1189,Ribera del Riel
+Senda Isvario,2410,1189,Ribera del Riel
+Xiloria,4010,1190,Ribera del Riel
+Senda Jundela,2410,1190,Ribera del Riel
+Xiloria,4110,1191,Ribera del Riel
+Paso Alvireo,2410,1191,Ribera del Riel
+Xiloria,4210,1192,Ribera del Riel
+Paso Brumiel,2410,1192,Ribera del Riel
+Xiloria,4310,1193,Ribera del Riel
+Paso Celdaro,2410,1193,Ribera del Riel
+Xiloria,4410,1194,Ribera del Riel
+Paso Dunaria,2410,1194,Ribera del Riel
+Xiloria,4510,1195,Ribera del Riel
+Paso Esvante,2410,1195,Ribera del Riel
+Xiloria,4610,1196,Ribera del Riel
+Paso Fornelia,2410,1196,Ribera del Riel
+Xiloria,4710,1197,Ribera del Riel
+Paso Grivanto,2410,1197,Ribera del Riel
+Xiloria,4810,1198,Ribera del Riel
+Paso Hondelia,2410,1198,Ribera del Riel
+Xiloria,4910,1199,Ribera del Riel
+Paso Isvario,2410,1199,Ribera del Riel
+Xiloria,5010,1200,Ribera del Riel
+Paso Jundela,2410,1200,Ribera del Riel
+Yerralma,110,1201,Las Poleas
+Trama Alvireo,2510,1201,Las Poleas
+Yerralma,210,1202,Las Poleas
+Trama Brumiel,2510,1202,Las Poleas
+Yerralma,310,1203,Las Poleas
+Trama Celdaro,2510,1203,Las Poleas
+Yerralma,410,1204,Las Poleas
+Trama Dunaria,2510,1204,Las Poleas
+Yerralma,510,1205,Las Poleas
+Trama Esvante,2510,1205,Las Poleas
+Yerralma,610,1206,Las Poleas
+Trama Fornelia,2510,1206,Las Poleas
+Yerralma,710,1207,Las Poleas
+Trama Grivanto,2510,1207,Las Poleas
+Yerralma,810,1208,Las Poleas
+Trama Hondelia,2510,1208,Las Poleas
+Yerralma,910,1209,Las Poleas
+Trama Isvario,2510,1209,Las Poleas
+Yerralma,1010,1210,Las Poleas
+Trama Jundela,2510,1210,Las Poleas
+Yerralma,1110,1211,Las Poleas
+Ronda Alvireo,2510,1211,Las Poleas
+Yerralma,1210,1212,Las Poleas
+Ronda Brumiel,2510,1212,Las Poleas
+Yerralma,1310,1213,Las Poleas
+Ronda Celdaro,2510,1213,Las Poleas
+Yerralma,1410,1214,Las Poleas
+Ronda Dunaria,2510,1214,Las Poleas
+Yerralma,1510,1215,Las Poleas
+Ronda Esvante,2510,1215,Las Poleas
+Yerralma,1610,1216,Las Poleas
+Ronda Fornelia,2510,1216,Las Poleas
+Yerralma,1710,1217,Las Poleas
+Ronda Grivanto,2510,1217,Las Poleas
+Yerralma,1810,1218,Loma de Junco
+Ronda Hondelia,2510,1218,Loma de Junco
+Yerralma,1910,1219,Loma de Junco
+Ronda Isvario,2510,1219,Loma de Junco
+Yerralma,2010,1220,Loma de Junco
+Ronda Jundela,2510,1220,Loma de Junco
+Yerralma,2110,1221,Loma de Junco
+Vuelta Alvireo,2510,1221,Loma de Junco
+Yerralma,2210,1222,Loma de Junco
+Vuelta Brumiel,2510,1222,Loma de Junco
+Yerralma,2310,1223,Loma de Junco
+Vuelta Celdaro,2510,1223,Loma de Junco
+Yerralma,2410,1224,Loma de Junco
+Vuelta Dunaria,2510,1224,Loma de Junco
+Yerralma,2510,1225,Loma de Junco
+Vuelta Esvante,2510,1225,Loma de Junco
+Yerralma,2610,1226,Loma de Junco
+Vuelta Fornelia,2510,1226,Loma de Junco
+Yerralma,2710,1227,Loma de Junco
+Vuelta Grivanto,2510,1227,Loma de Junco
+Yerralma,2810,1228,Loma de Junco
+Vuelta Hondelia,2510,1228,Loma de Junco
+Yerralma,2910,1229,Loma de Junco
+Vuelta Isvario,2510,1229,Loma de Junco
+Yerralma,3010,1230,Loma de Junco
+Vuelta Jundela,2510,1230,Loma de Junco
+Yerralma,3110,1231,Loma de Junco
+Senda Alvireo,2510,1231,Loma de Junco
+Yerralma,3210,1232,Loma de Junco
+Senda Brumiel,2510,1232,Loma de Junco
+Yerralma,3310,1233,Loma de Junco
+Senda Celdaro,2510,1233,Loma de Junco
+Yerralma,3410,1234,Loma de Junco
+Senda Dunaria,2510,1234,Loma de Junco
+Yerralma,3510,1235,Ribera del Riel
+Senda Esvante,2510,1235,Ribera del Riel
+Yerralma,3610,1236,Ribera del Riel
+Senda Fornelia,2510,1236,Ribera del Riel
+Yerralma,3710,1237,Ribera del Riel
+Senda Grivanto,2510,1237,Ribera del Riel
+Yerralma,3810,1238,Ribera del Riel
+Senda Hondelia,2510,1238,Ribera del Riel
+Yerralma,3910,1239,Ribera del Riel
+Senda Isvario,2510,1239,Ribera del Riel
+Yerralma,4010,1240,Ribera del Riel
+Senda Jundela,2510,1240,Ribera del Riel
+Yerralma,4110,1241,Ribera del Riel
+Paso Alvireo,2510,1241,Ribera del Riel
+Yerralma,4210,1242,Ribera del Riel
+Paso Brumiel,2510,1242,Ribera del Riel
+Yerralma,4310,1243,Ribera del Riel
+Paso Celdaro,2510,1243,Ribera del Riel
+Yerralma,4410,1244,Ribera del Riel
+Paso Dunaria,2510,1244,Ribera del Riel
+Yerralma,4510,1245,Ribera del Riel
+Paso Esvante,2510,1245,Ribera del Riel
+Yerralma,4610,1246,Ribera del Riel
+Paso Fornelia,2510,1246,Ribera del Riel
+Yerralma,4710,1247,Ribera del Riel
+Paso Grivanto,2510,1247,Ribera del Riel
+Yerralma,4810,1248,Ribera del Riel
+Paso Hondelia,2510,1248,Ribera del Riel
+Yerralma,4910,1249,Ribera del Riel
+Paso Isvario,2510,1249,Ribera del Riel
+Yerralma,5010,1250,Ribera del Riel
+Paso Jundela,2510,1250,Ribera del Riel
+Zafralia,110,1251,Las Poleas
+Trama Alvireo,2610,1251,Las Poleas
+Zafralia,210,1252,Las Poleas
+Trama Brumiel,2610,1252,Las Poleas
+Zafralia,310,1253,Las Poleas
+Trama Celdaro,2610,1253,Las Poleas
+Zafralia,410,1254,Las Poleas
+Trama Dunaria,2610,1254,Las Poleas
+Zafralia,510,1255,Las Poleas
+Trama Esvante,2610,1255,Las Poleas
+Zafralia,610,1256,Las Poleas
+Trama Fornelia,2610,1256,Las Poleas
+Zafralia,710,1257,Las Poleas
+Trama Grivanto,2610,1257,Las Poleas
+Zafralia,810,1258,Las Poleas
+Trama Hondelia,2610,1258,Las Poleas
+Zafralia,910,1259,Las Poleas
+Trama Isvario,2610,1259,Las Poleas
+Zafralia,1010,1260,Las Poleas
+Trama Jundela,2610,1260,Las Poleas
+Zafralia,1110,1261,Las Poleas
+Ronda Alvireo,2610,1261,Las Poleas
+Zafralia,1210,1262,Las Poleas
+Ronda Brumiel,2610,1262,Las Poleas
+Zafralia,1310,1263,Las Poleas
+Ronda Celdaro,2610,1263,Las Poleas
+Zafralia,1410,1264,Las Poleas
+Ronda Dunaria,2610,1264,Las Poleas
+Zafralia,1510,1265,Las Poleas
+Ronda Esvante,2610,1265,Las Poleas
+Zafralia,1610,1266,Las Poleas
+Ronda Fornelia,2610,1266,Las Poleas
+Zafralia,1710,1267,Las Poleas
+Ronda Grivanto,2610,1267,Las Poleas
+Zafralia,1810,1268,Loma de Junco
+Ronda Hondelia,2610,1268,Loma de Junco
+Zafralia,1910,1269,Loma de Junco
+Ronda Isvario,2610,1269,Loma de Junco
+Zafralia,2010,1270,Loma de Junco
+Ronda Jundela,2610,1270,Loma de Junco
+Zafralia,2110,1271,Loma de Junco
+Vuelta Alvireo,2610,1271,Loma de Junco
+Zafralia,2210,1272,Loma de Junco
+Vuelta Brumiel,2610,1272,Loma de Junco
+Zafralia,2310,1273,Loma de Junco
+Vuelta Celdaro,2610,1273,Loma de Junco
+Zafralia,2410,1274,Loma de Junco
+Vuelta Dunaria,2610,1274,Loma de Junco
+Zafralia,2510,1275,Loma de Junco
+Vuelta Esvante,2610,1275,Loma de Junco
+Zafralia,2610,1276,Loma de Junco
+Vuelta Fornelia,2610,1276,Loma de Junco
+Zafralia,2710,1277,Loma de Junco
+Vuelta Grivanto,2610,1277,Loma de Junco
+Zafralia,2810,1278,Loma de Junco
+Vuelta Hondelia,2610,1278,Loma de Junco
+Zafralia,2910,1279,Loma de Junco
+Vuelta Isvario,2610,1279,Loma de Junco
+Zafralia,3010,1280,Loma de Junco
+Vuelta Jundela,2610,1280,Loma de Junco
+Zafralia,3110,1281,Loma de Junco
+Senda Alvireo,2610,1281,Loma de Junco
+Zafralia,3210,1282,Loma de Junco
+Senda Brumiel,2610,1282,Loma de Junco
+Zafralia,3310,1283,Loma de Junco
+Senda Celdaro,2610,1283,Loma de Junco
+Zafralia,3410,1284,Loma de Junco
+Senda Dunaria,2610,1284,Loma de Junco
+Zafralia,3510,1285,Ribera del Riel
+Senda Esvante,2610,1285,Ribera del Riel
+Zafralia,3610,1286,Ribera del Riel
+Senda Fornelia,2610,1286,Ribera del Riel
+Zafralia,3710,1287,Ribera del Riel
+Senda Grivanto,2610,1287,Ribera del Riel
+Zafralia,3810,1288,Ribera del Riel
+Senda Hondelia,2610,1288,Ribera del Riel
+Zafralia,3910,1289,Ribera del Riel
+Senda Isvario,2610,1289,Ribera del Riel
+Zafralia,4010,1290,Ribera del Riel
+Senda Jundela,2610,1290,Ribera del Riel
+Zafralia,4110,1291,Ribera del Riel
+Paso Alvireo,2610,1291,Ribera del Riel
+Zafralia,4210,1292,Ribera del Riel
+Paso Brumiel,2610,1292,Ribera del Riel
+Zafralia,4310,1293,Ribera del Riel
+Paso Celdaro,2610,1293,Ribera del Riel
+Zafralia,4410,1294,Ribera del Riel
+Paso Dunaria,2610,1294,Ribera del Riel
+Zafralia,4510,1295,Ribera del Riel
+Paso Esvante,2610,1295,Ribera del Riel
+Zafralia,4610,1296,Ribera del Riel
+Paso Fornelia,2610,1296,Ribera del Riel
+Zafralia,4710,1297,Ribera del Riel
+Paso Grivanto,2610,1297,Ribera del Riel
+Zafralia,4810,1298,Ribera del Riel
+Paso Hondelia,2610,1298,Ribera del Riel
+Zafralia,4910,1299,Ribera del Riel
+Paso Isvario,2610,1299,Ribera del Riel
+Zafralia,5010,1300,Ribera del Riel
+Paso Jundela,2610,1300,Ribera del Riel
+Almunela,110,1301,Las Poleas
+Trama Alvireo,2710,1301,Las Poleas
+Almunela,210,1302,Las Poleas
+Trama Brumiel,2710,1302,Las Poleas
+Almunela,310,1303,Las Poleas
+Trama Celdaro,2710,1303,Las Poleas
+Almunela,410,1304,Las Poleas
+Trama Dunaria,2710,1304,Las Poleas
+Almunela,510,1305,Las Poleas
+Trama Esvante,2710,1305,Las Poleas
+Almunela,610,1306,Las Poleas
+Trama Fornelia,2710,1306,Las Poleas
+Almunela,710,1307,Las Poleas
+Trama Grivanto,2710,1307,Las Poleas
+Almunela,810,1308,Las Poleas
+Trama Hondelia,2710,1308,Las Poleas
+Almunela,910,1309,Las Poleas
+Trama Isvario,2710,1309,Las Poleas
+Almunela,1010,1310,Las Poleas
+Trama Jundela,2710,1310,Las Poleas
+Almunela,1110,1311,Las Poleas
+Ronda Alvireo,2710,1311,Las Poleas
+Almunela,1210,1312,Las Poleas
+Ronda Brumiel,2710,1312,Las Poleas
+Almunela,1310,1313,Las Poleas
+Ronda Celdaro,2710,1313,Las Poleas
+Almunela,1410,1314,Las Poleas
+Ronda Dunaria,2710,1314,Las Poleas
+Almunela,1510,1315,Las Poleas
+Ronda Esvante,2710,1315,Las Poleas
+Almunela,1610,1316,Las Poleas
+Ronda Fornelia,2710,1316,Las Poleas
+Almunela,1710,1317,Las Poleas
+Ronda Grivanto,2710,1317,Las Poleas
+Almunela,1810,1318,Loma de Junco
+Ronda Hondelia,2710,1318,Loma de Junco
+Almunela,1910,1319,Loma de Junco
+Ronda Isvario,2710,1319,Loma de Junco
+Almunela,2010,1320,Loma de Junco
+Ronda Jundela,2710,1320,Loma de Junco
+Almunela,2110,1321,Loma de Junco
+Vuelta Alvireo,2710,1321,Loma de Junco
+Almunela,2210,1322,Loma de Junco
+Vuelta Brumiel,2710,1322,Loma de Junco
+Almunela,2310,1323,Loma de Junco
+Vuelta Celdaro,2710,1323,Loma de Junco
+Almunela,2410,1324,Loma de Junco
+Vuelta Dunaria,2710,1324,Loma de Junco
+Almunela,2510,1325,Loma de Junco
+Vuelta Esvante,2710,1325,Loma de Junco
+Almunela,2610,1326,Loma de Junco
+Vuelta Fornelia,2710,1326,Loma de Junco
+Almunela,2710,1327,Loma de Junco
+Vuelta Grivanto,2710,1327,Loma de Junco
+Almunela,2810,1328,Loma de Junco
+Vuelta Hondelia,2710,1328,Loma de Junco
+Almunela,2910,1329,Loma de Junco
+Vuelta Isvario,2710,1329,Loma de Junco
+Almunela,3010,1330,Loma de Junco
+Vuelta Jundela,2710,1330,Loma de Junco
+Almunela,3110,1331,Loma de Junco
+Senda Alvireo,2710,1331,Loma de Junco
+Almunela,3210,1332,Loma de Junco
+Senda Brumiel,2710,1332,Loma de Junco
+Almunela,3310,1333,Loma de Junco
+Senda Celdaro,2710,1333,Loma de Junco
+Almunela,3410,1334,Loma de Junco
+Senda Dunaria,2710,1334,Loma de Junco
+Almunela,3510,1335,Ribera del Riel
+Senda Esvante,2710,1335,Ribera del Riel
+Almunela,3610,1336,Ribera del Riel
+Senda Fornelia,2710,1336,Ribera del Riel
+Almunela,3710,1337,Ribera del Riel
+Senda Grivanto,2710,1337,Ribera del Riel
+Almunela,3810,1338,Ribera del Riel
+Senda Hondelia,2710,1338,Ribera del Riel
+Almunela,3910,1339,Ribera del Riel
+Senda Isvario,2710,1339,Ribera del Riel
+Almunela,4010,1340,Ribera del Riel
+Senda Jundela,2710,1340,Ribera del Riel
+Almunela,4110,1341,Ribera del Riel
+Paso Alvireo,2710,1341,Ribera del Riel
+Almunela,4210,1342,Ribera del Riel
+Paso Brumiel,2710,1342,Ribera del Riel
+Almunela,4310,1343,Ribera del Riel
+Paso Celdaro,2710,1343,Ribera del Riel
+Almunela,4410,1344,Ribera del Riel
+Paso Dunaria,2710,1344,Ribera del Riel
+Almunela,4510,1345,Ribera del Riel
+Paso Esvante,2710,1345,Ribera del Riel
+Almunela,4610,1346,Ribera del Riel
+Paso Fornelia,2710,1346,Ribera del Riel
+Almunela,4710,1347,Ribera del Riel
+Paso Grivanto,2710,1347,Ribera del Riel
+Almunela,4810,1348,Ribera del Riel
+Paso Hondelia,2710,1348,Ribera del Riel
+Almunela,4910,1349,Ribera del Riel
+Paso Isvario,2710,1349,Ribera del Riel
+Almunela,5010,1350,Ribera del Riel
+Paso Jundela,2710,1350,Ribera del Riel
+Brantoria,110,1351,Las Poleas
+Trama Alvireo,2810,1351,Las Poleas
+Brantoria,210,1352,Las Poleas
+Trama Brumiel,2810,1352,Las Poleas
+Brantoria,310,1353,Las Poleas
+Trama Celdaro,2810,1353,Las Poleas
+Brantoria,410,1354,Las Poleas
+Trama Dunaria,2810,1354,Las Poleas
+Brantoria,510,1355,Las Poleas
+Trama Esvante,2810,1355,Las Poleas
+Brantoria,610,1356,Las Poleas
+Trama Fornelia,2810,1356,Las Poleas
+Brantoria,710,1357,Las Poleas
+Trama Grivanto,2810,1357,Las Poleas
+Brantoria,810,1358,Las Poleas
+Trama Hondelia,2810,1358,Las Poleas
+Brantoria,910,1359,Las Poleas
+Trama Isvario,2810,1359,Las Poleas
+Brantoria,1010,1360,Las Poleas
+Trama Jundela,2810,1360,Las Poleas
+Brantoria,1110,1361,Las Poleas
+Ronda Alvireo,2810,1361,Las Poleas
+Brantoria,1210,1362,Las Poleas
+Ronda Brumiel,2810,1362,Las Poleas
+Brantoria,1310,1363,Las Poleas
+Ronda Celdaro,2810,1363,Las Poleas
+Brantoria,1410,1364,Las Poleas
+Ronda Dunaria,2810,1364,Las Poleas
+Brantoria,1510,1365,Las Poleas
+Ronda Esvante,2810,1365,Las Poleas
+Brantoria,1610,1366,Las Poleas
+Ronda Fornelia,2810,1366,Las Poleas
+Brantoria,1710,1367,Las Poleas
+Ronda Grivanto,2810,1367,Las Poleas
+Brantoria,1810,1368,Loma de Junco
+Ronda Hondelia,2810,1368,Loma de Junco
+Brantoria,1910,1369,Loma de Junco
+Ronda Isvario,2810,1369,Loma de Junco
+Brantoria,2010,1370,Loma de Junco
+Ronda Jundela,2810,1370,Loma de Junco
+Brantoria,2110,1371,Loma de Junco
+Vuelta Alvireo,2810,1371,Loma de Junco
+Brantoria,2210,1372,Loma de Junco
+Vuelta Brumiel,2810,1372,Loma de Junco
+Brantoria,2310,1373,Loma de Junco
+Vuelta Celdaro,2810,1373,Loma de Junco
+Brantoria,2410,1374,Loma de Junco
+Vuelta Dunaria,2810,1374,Loma de Junco
+Brantoria,2510,1375,Loma de Junco
+Vuelta Esvante,2810,1375,Loma de Junco
+Brantoria,2610,1376,Loma de Junco
+Vuelta Fornelia,2810,1376,Loma de Junco
+Brantoria,2710,1377,Loma de Junco
+Vuelta Grivanto,2810,1377,Loma de Junco
+Brantoria,2810,1378,Loma de Junco
+Vuelta Hondelia,2810,1378,Loma de Junco
+Brantoria,2910,1379,Loma de Junco
+Vuelta Isvario,2810,1379,Loma de Junco
+Brantoria,3010,1380,Loma de Junco
+Vuelta Jundela,2810,1380,Loma de Junco
+Brantoria,3110,1381,Loma de Junco
+Senda Alvireo,2810,1381,Loma de Junco
+Brantoria,3210,1382,Loma de Junco
+Senda Brumiel,2810,1382,Loma de Junco
+Brantoria,3310,1383,Loma de Junco
+Senda Celdaro,2810,1383,Loma de Junco
+Brantoria,3410,1384,Loma de Junco
+Senda Dunaria,2810,1384,Loma de Junco
+Brantoria,3510,1385,Ribera del Riel
+Senda Esvante,2810,1385,Ribera del Riel
+Brantoria,3610,1386,Ribera del Riel
+Senda Fornelia,2810,1386,Ribera del Riel
+Brantoria,3710,1387,Ribera del Riel
+Senda Grivanto,2810,1387,Ribera del Riel
+Brantoria,3810,1388,Ribera del Riel
+Senda Hondelia,2810,1388,Ribera del Riel
+Brantoria,3910,1389,Ribera del Riel
+Senda Isvario,2810,1389,Ribera del Riel
+Brantoria,4010,1390,Ribera del Riel
+Senda Jundela,2810,1390,Ribera del Riel
+Brantoria,4110,1391,Ribera del Riel
+Paso Alvireo,2810,1391,Ribera del Riel
+Brantoria,4210,1392,Ribera del Riel
+Paso Brumiel,2810,1392,Ribera del Riel
+Brantoria,4310,1393,Ribera del Riel
+Paso Celdaro,2810,1393,Ribera del Riel
+Brantoria,4410,1394,Ribera del Riel
+Paso Dunaria,2810,1394,Ribera del Riel
+Brantoria,4510,1395,Ribera del Riel
+Paso Esvante,2810,1395,Ribera del Riel
+Brantoria,4610,1396,Ribera del Riel
+Paso Fornelia,2810,1396,Ribera del Riel
+Brantoria,4710,1397,Ribera del Riel
+Paso Grivanto,2810,1397,Ribera del Riel
+Brantoria,4810,1398,Ribera del Riel
+Paso Hondelia,2810,1398,Ribera del Riel
+Brantoria,4910,1399,Ribera del Riel
+Paso Isvario,2810,1399,Ribera del Riel
+Brantoria,5010,1400,Ribera del Riel
+Paso Jundela,2810,1400,Ribera del Riel
+Celandria,110,1401,Las Poleas
+Trama Alvireo,2910,1401,Las Poleas
+Celandria,210,1402,Las Poleas
+Trama Brumiel,2910,1402,Las Poleas
+Celandria,310,1403,Las Poleas
+Trama Celdaro,2910,1403,Las Poleas
+Celandria,410,1404,Las Poleas
+Trama Dunaria,2910,1404,Las Poleas
+Celandria,510,1405,Las Poleas
+Trama Esvante,2910,1405,Las Poleas
+Celandria,610,1406,Las Poleas
+Trama Fornelia,2910,1406,Las Poleas
+Celandria,710,1407,Las Poleas
+Trama Grivanto,2910,1407,Las Poleas
+Celandria,810,1408,Las Poleas
+Trama Hondelia,2910,1408,Las Poleas
+Celandria,910,1409,Las Poleas
+Trama Isvario,2910,1409,Las Poleas
+Celandria,1010,1410,Las Poleas
+Trama Jundela,2910,1410,Las Poleas
+Celandria,1110,1411,Las Poleas
+Ronda Alvireo,2910,1411,Las Poleas
+Celandria,1210,1412,Las Poleas
+Ronda Brumiel,2910,1412,Las Poleas
+Celandria,1310,1413,Las Poleas
+Ronda Celdaro,2910,1413,Las Poleas
+Celandria,1410,1414,Las Poleas
+Ronda Dunaria,2910,1414,Las Poleas
+Celandria,1510,1415,Las Poleas
+Ronda Esvante,2910,1415,Las Poleas
+Celandria,1610,1416,Las Poleas
+Ronda Fornelia,2910,1416,Las Poleas
+Celandria,1710,1417,Las Poleas
+Ronda Grivanto,2910,1417,Las Poleas
+Celandria,1810,1418,Loma de Junco
+Ronda Hondelia,2910,1418,Loma de Junco
+Celandria,1910,1419,Loma de Junco
+Ronda Isvario,2910,1419,Loma de Junco
+Celandria,2010,1420,Loma de Junco
+Ronda Jundela,2910,1420,Loma de Junco
+Celandria,2110,1421,Loma de Junco
+Vuelta Alvireo,2910,1421,Loma de Junco
+Celandria,2210,1422,Loma de Junco
+Vuelta Brumiel,2910,1422,Loma de Junco
+Celandria,2310,1423,Loma de Junco
+Vuelta Celdaro,2910,1423,Loma de Junco
+Celandria,2410,1424,Loma de Junco
+Vuelta Dunaria,2910,1424,Loma de Junco
+Celandria,2510,1425,Loma de Junco
+Vuelta Esvante,2910,1425,Loma de Junco
+Celandria,2610,1426,Loma de Junco
+Vuelta Fornelia,2910,1426,Loma de Junco
+Celandria,2710,1427,Loma de Junco
+Vuelta Grivanto,2910,1427,Loma de Junco
+Celandria,2810,1428,Loma de Junco
+Vuelta Hondelia,2910,1428,Loma de Junco
+Celandria,2910,1429,Loma de Junco
+Vuelta Isvario,2910,1429,Loma de Junco
+Celandria,3010,1430,Loma de Junco
+Vuelta Jundela,2910,1430,Loma de Junco
+Celandria,3110,1431,Loma de Junco
+Senda Alvireo,2910,1431,Loma de Junco
+Celandria,3210,1432,Loma de Junco
+Senda Brumiel,2910,1432,Loma de Junco
+Celandria,3310,1433,Loma de Junco
+Senda Celdaro,2910,1433,Loma de Junco
+Celandria,3410,1434,Loma de Junco
+Senda Dunaria,2910,1434,Loma de Junco
+Celandria,3510,1435,Ribera del Riel
+Senda Esvante,2910,1435,Ribera del Riel
+Celandria,3610,1436,Ribera del Riel
+Senda Fornelia,2910,1436,Ribera del Riel
+Celandria,3710,1437,Ribera del Riel
+Senda Grivanto,2910,1437,Ribera del Riel
+Celandria,3810,1438,Ribera del Riel
+Senda Hondelia,2910,1438,Ribera del Riel
+Celandria,3910,1439,Ribera del Riel
+Senda Isvario,2910,1439,Ribera del Riel
+Celandria,4010,1440,Ribera del Riel
+Senda Jundela,2910,1440,Ribera del Riel
+Celandria,4110,1441,Ribera del Riel
+Paso Alvireo,2910,1441,Ribera del Riel
+Celandria,4210,1442,Ribera del Riel
+Paso Brumiel,2910,1442,Ribera del Riel
+Celandria,4310,1443,Ribera del Riel
+Paso Celdaro,2910,1443,Ribera del Riel
+Celandria,4410,1444,Ribera del Riel
+Paso Dunaria,2910,1444,Ribera del Riel
+Celandria,4510,1445,Ribera del Riel
+Paso Esvante,2910,1445,Ribera del Riel
+Celandria,4610,1446,Ribera del Riel
+Paso Fornelia,2910,1446,Ribera del Riel
+Celandria,4710,1447,Ribera del Riel
+Paso Grivanto,2910,1447,Ribera del Riel
+Celandria,4810,1448,Ribera del Riel
+Paso Hondelia,2910,1448,Ribera del Riel
+Celandria,4910,1449,Ribera del Riel
+Paso Isvario,2910,1449,Ribera del Riel
+Celandria,5010,1450,Ribera del Riel
+Paso Jundela,2910,1450,Ribera del Riel
+Dalmora,110,1451,Las Poleas
+Trama Alvireo,3010,1451,Las Poleas
+Dalmora,210,1452,Las Poleas
+Trama Brumiel,3010,1452,Las Poleas
+Dalmora,310,1453,Las Poleas
+Trama Celdaro,3010,1453,Las Poleas
+Dalmora,410,1454,Las Poleas
+Trama Dunaria,3010,1454,Las Poleas
+Dalmora,510,1455,Las Poleas
+Trama Esvante,3010,1455,Las Poleas
+Dalmora,610,1456,Las Poleas
+Trama Fornelia,3010,1456,Las Poleas
+Dalmora,710,1457,Las Poleas
+Trama Grivanto,3010,1457,Las Poleas
+Dalmora,810,1458,Las Poleas
+Trama Hondelia,3010,1458,Las Poleas
+Dalmora,910,1459,Las Poleas
+Trama Isvario,3010,1459,Las Poleas
+Dalmora,1010,1460,Las Poleas
+Trama Jundela,3010,1460,Las Poleas
+Dalmora,1110,1461,Las Poleas
+Ronda Alvireo,3010,1461,Las Poleas
+Dalmora,1210,1462,Las Poleas
+Ronda Brumiel,3010,1462,Las Poleas
+Dalmora,1310,1463,Las Poleas
+Ronda Celdaro,3010,1463,Las Poleas
+Dalmora,1410,1464,Las Poleas
+Ronda Dunaria,3010,1464,Las Poleas
+Dalmora,1510,1465,Las Poleas
+Ronda Esvante,3010,1465,Las Poleas
+Dalmora,1610,1466,Las Poleas
+Ronda Fornelia,3010,1466,Las Poleas
+Dalmora,1710,1467,Las Poleas
+Ronda Grivanto,3010,1467,Las Poleas
+Dalmora,1810,1468,Loma de Junco
+Ronda Hondelia,3010,1468,Loma de Junco
+Dalmora,1910,1469,Loma de Junco
+Ronda Isvario,3010,1469,Loma de Junco
+Dalmora,2010,1470,Loma de Junco
+Ronda Jundela,3010,1470,Loma de Junco
+Dalmora,2110,1471,Loma de Junco
+Vuelta Alvireo,3010,1471,Loma de Junco
+Dalmora,2210,1472,Loma de Junco
+Vuelta Brumiel,3010,1472,Loma de Junco
+Dalmora,2310,1473,Loma de Junco
+Vuelta Celdaro,3010,1473,Loma de Junco
+Dalmora,2410,1474,Loma de Junco
+Vuelta Dunaria,3010,1474,Loma de Junco
+Dalmora,2510,1475,Loma de Junco
+Vuelta Esvante,3010,1475,Loma de Junco
+Dalmora,2610,1476,Loma de Junco
+Vuelta Fornelia,3010,1476,Loma de Junco
+Dalmora,2710,1477,Loma de Junco
+Vuelta Grivanto,3010,1477,Loma de Junco
+Dalmora,2810,1478,Loma de Junco
+Vuelta Hondelia,3010,1478,Loma de Junco
+Dalmora,2910,1479,Loma de Junco
+Vuelta Isvario,3010,1479,Loma de Junco
+Dalmora,3010,1480,Loma de Junco
+Vuelta Jundela,3010,1480,Loma de Junco
+Dalmora,3110,1481,Loma de Junco
+Senda Alvireo,3010,1481,Loma de Junco
+Dalmora,3210,1482,Loma de Junco
+Senda Brumiel,3010,1482,Loma de Junco
+Dalmora,3310,1483,Loma de Junco
+Senda Celdaro,3010,1483,Loma de Junco
+Dalmora,3410,1484,Loma de Junco
+Senda Dunaria,3010,1484,Loma de Junco
+Dalmora,3510,1485,Ribera del Riel
+Senda Esvante,3010,1485,Ribera del Riel
+Dalmora,3610,1486,Ribera del Riel
+Senda Fornelia,3010,1486,Ribera del Riel
+Dalmora,3710,1487,Ribera del Riel
+Senda Grivanto,3010,1487,Ribera del Riel
+Dalmora,3810,1488,Ribera del Riel
+Senda Hondelia,3010,1488,Ribera del Riel
+Dalmora,3910,1489,Ribera del Riel
+Senda Isvario,3010,1489,Ribera del Riel
+Dalmora,4010,1490,Ribera del Riel
+Senda Jundela,3010,1490,Ribera del Riel
+Dalmora,4110,1491,Ribera del Riel
+Paso Alvireo,3010,1491,Ribera del Riel
+Dalmora,4210,1492,Ribera del Riel
+Paso Brumiel,3010,1492,Ribera del Riel
+Dalmora,4310,1493,Ribera del Riel
+Paso Celdaro,3010,1493,Ribera del Riel
+Dalmora,4410,1494,Ribera del Riel
+Paso Dunaria,3010,1494,Ribera del Riel
+Dalmora,4510,1495,Ribera del Riel
+Paso Esvante,3010,1495,Ribera del Riel
+Dalmora,4610,1496,Ribera del Riel
+Paso Fornelia,3010,1496,Ribera del Riel
+Dalmora,4710,1497,Ribera del Riel
+Paso Grivanto,3010,1497,Ribera del Riel
+Dalmora,4810,1498,Ribera del Riel
+Paso Hondelia,3010,1498,Ribera del Riel
+Dalmora,4910,1499,Ribera del Riel
+Paso Isvario,3010,1499,Ribera del Riel
+Dalmora,5010,1500,Ribera del Riel
+Paso Jundela,3010,1500,Ribera del Riel
+Enravia,110,1501,Las Poleas
+Trama Alvireo,3110,1501,Las Poleas
+Enravia,210,1502,Las Poleas
+Trama Brumiel,3110,1502,Las Poleas
+Enravia,310,1503,Las Poleas
+Trama Celdaro,3110,1503,Las Poleas
+Enravia,410,1504,Las Poleas
+Trama Dunaria,3110,1504,Las Poleas
+Enravia,510,1505,Las Poleas
+Trama Esvante,3110,1505,Las Poleas
+Enravia,610,1506,Las Poleas
+Trama Fornelia,3110,1506,Las Poleas
+Enravia,710,1507,Las Poleas
+Trama Grivanto,3110,1507,Las Poleas
+Enravia,810,1508,Las Poleas
+Trama Hondelia,3110,1508,Las Poleas
+Enravia,910,1509,Las Poleas
+Trama Isvario,3110,1509,Las Poleas
+Enravia,1010,1510,Las Poleas
+Trama Jundela,3110,1510,Las Poleas
+Enravia,1110,1511,Las Poleas
+Ronda Alvireo,3110,1511,Las Poleas
+Enravia,1210,1512,Las Poleas
+Ronda Brumiel,3110,1512,Las Poleas
+Enravia,1310,1513,Las Poleas
+Ronda Celdaro,3110,1513,Las Poleas
+Enravia,1410,1514,Las Poleas
+Ronda Dunaria,3110,1514,Las Poleas
+Enravia,1510,1515,Las Poleas
+Ronda Esvante,3110,1515,Las Poleas
+Enravia,1610,1516,Las Poleas
+Ronda Fornelia,3110,1516,Las Poleas
+Enravia,1710,1517,Las Poleas
+Ronda Grivanto,3110,1517,Las Poleas
+Enravia,1810,1518,Loma de Junco
+Ronda Hondelia,3110,1518,Loma de Junco
+Enravia,1910,1519,Loma de Junco
+Ronda Isvario,3110,1519,Loma de Junco
+Enravia,2010,1520,Loma de Junco
+Ronda Jundela,3110,1520,Loma de Junco
+Enravia,2110,1521,Loma de Junco
+Vuelta Alvireo,3110,1521,Loma de Junco
+Enravia,2210,1522,Loma de Junco
+Vuelta Brumiel,3110,1522,Loma de Junco
+Enravia,2310,1523,Loma de Junco
+Vuelta Celdaro,3110,1523,Loma de Junco
+Enravia,2410,1524,Loma de Junco
+Vuelta Dunaria,3110,1524,Loma de Junco
+Enravia,2510,1525,Loma de Junco
+Vuelta Esvante,3110,1525,Loma de Junco
+Enravia,2610,1526,Loma de Junco
+Vuelta Fornelia,3110,1526,Loma de Junco
+Enravia,2710,1527,Loma de Junco
+Vuelta Grivanto,3110,1527,Loma de Junco
+Enravia,2810,1528,Loma de Junco
+Vuelta Hondelia,3110,1528,Loma de Junco
+Enravia,2910,1529,Loma de Junco
+Vuelta Isvario,3110,1529,Loma de Junco
+Enravia,3010,1530,Loma de Junco
+Vuelta Jundela,3110,1530,Loma de Junco
+Enravia,3110,1531,Loma de Junco
+Senda Alvireo,3110,1531,Loma de Junco
+Enravia,3210,1532,Loma de Junco
+Senda Brumiel,3110,1532,Loma de Junco
+Enravia,3310,1533,Loma de Junco
+Senda Celdaro,3110,1533,Loma de Junco
+Enravia,3410,1534,Loma de Junco
+Senda Dunaria,3110,1534,Loma de Junco
+Enravia,3510,1535,Ribera del Riel
+Senda Esvante,3110,1535,Ribera del Riel
+Enravia,3610,1536,Ribera del Riel
+Senda Fornelia,3110,1536,Ribera del Riel
+Enravia,3710,1537,Ribera del Riel
+Senda Grivanto,3110,1537,Ribera del Riel
+Enravia,3810,1538,Ribera del Riel
+Senda Hondelia,3110,1538,Ribera del Riel
+Enravia,3910,1539,Ribera del Riel
+Senda Isvario,3110,1539,Ribera del Riel
+Enravia,4010,1540,Ribera del Riel
+Senda Jundela,3110,1540,Ribera del Riel
+Enravia,4110,1541,Ribera del Riel
+Paso Alvireo,3110,1541,Ribera del Riel
+Enravia,4210,1542,Ribera del Riel
+Paso Brumiel,3110,1542,Ribera del Riel
+Enravia,4310,1543,Ribera del Riel
+Paso Celdaro,3110,1543,Ribera del Riel
+Enravia,4410,1544,Ribera del Riel
+Paso Dunaria,3110,1544,Ribera del Riel
+Enravia,4510,1545,Ribera del Riel
+Paso Esvante,3110,1545,Ribera del Riel
+Enravia,4610,1546,Ribera del Riel
+Paso Fornelia,3110,1546,Ribera del Riel
+Enravia,4710,1547,Ribera del Riel
+Paso Grivanto,3110,1547,Ribera del Riel
+Enravia,4810,1548,Ribera del Riel
+Paso Hondelia,3110,1548,Ribera del Riel
+Enravia,4910,1549,Ribera del Riel
+Paso Isvario,3110,1549,Ribera del Riel
+Enravia,5010,1550,Ribera del Riel
+Paso Jundela,3110,1550,Ribera del Riel
+Fisalia,110,1551,Las Poleas
+Trama Alvireo,3210,1551,Las Poleas
+Fisalia,210,1552,Las Poleas
+Trama Brumiel,3210,1552,Las Poleas
+Fisalia,310,1553,Las Poleas
+Trama Celdaro,3210,1553,Las Poleas
+Fisalia,410,1554,Las Poleas
+Trama Dunaria,3210,1554,Las Poleas
+Fisalia,510,1555,Las Poleas
+Trama Esvante,3210,1555,Las Poleas
+Fisalia,610,1556,Las Poleas
+Trama Fornelia,3210,1556,Las Poleas
+Fisalia,710,1557,Las Poleas
+Trama Grivanto,3210,1557,Las Poleas
+Fisalia,810,1558,Las Poleas
+Trama Hondelia,3210,1558,Las Poleas
+Fisalia,910,1559,Las Poleas
+Trama Isvario,3210,1559,Las Poleas
+Fisalia,1010,1560,Las Poleas
+Trama Jundela,3210,1560,Las Poleas
+Fisalia,1110,1561,Las Poleas
+Ronda Alvireo,3210,1561,Las Poleas
+Fisalia,1210,1562,Las Poleas
+Ronda Brumiel,3210,1562,Las Poleas
+Fisalia,1310,1563,Las Poleas
+Ronda Celdaro,3210,1563,Las Poleas
+Fisalia,1410,1564,Las Poleas
+Ronda Dunaria,3210,1564,Las Poleas
+Fisalia,1510,1565,Las Poleas
+Ronda Esvante,3210,1565,Las Poleas
+Fisalia,1610,1566,Las Poleas
+Ronda Fornelia,3210,1566,Las Poleas
+Fisalia,1710,1567,Las Poleas
+Ronda Grivanto,3210,1567,Las Poleas
+Fisalia,1810,1568,Loma de Junco
+Ronda Hondelia,3210,1568,Loma de Junco
+Fisalia,1910,1569,Loma de Junco
+Ronda Isvario,3210,1569,Loma de Junco
+Fisalia,2010,1570,Loma de Junco
+Ronda Jundela,3210,1570,Loma de Junco
+Fisalia,2110,1571,Loma de Junco
+Vuelta Alvireo,3210,1571,Loma de Junco
+Fisalia,2210,1572,Loma de Junco
+Vuelta Brumiel,3210,1572,Loma de Junco
+Fisalia,2310,1573,Loma de Junco
+Vuelta Celdaro,3210,1573,Loma de Junco
+Fisalia,2410,1574,Loma de Junco
+Vuelta Dunaria,3210,1574,Loma de Junco
+Fisalia,2510,1575,Loma de Junco
+Vuelta Esvante,3210,1575,Loma de Junco
+Fisalia,2610,1576,Loma de Junco
+Vuelta Fornelia,3210,1576,Loma de Junco
+Fisalia,2710,1577,Loma de Junco
+Vuelta Grivanto,3210,1577,Loma de Junco
+Fisalia,2810,1578,Loma de Junco
+Vuelta Hondelia,3210,1578,Loma de Junco
+Fisalia,2910,1579,Loma de Junco
+Vuelta Isvario,3210,1579,Loma de Junco
+Fisalia,3010,1580,Loma de Junco
+Vuelta Jundela,3210,1580,Loma de Junco
+Fisalia,3110,1581,Loma de Junco
+Senda Alvireo,3210,1581,Loma de Junco
+Fisalia,3210,1582,Loma de Junco
+Senda Brumiel,3210,1582,Loma de Junco
+Fisalia,3310,1583,Loma de Junco
+Senda Celdaro,3210,1583,Loma de Junco
+Fisalia,3410,1584,Loma de Junco
+Senda Dunaria,3210,1584,Loma de Junco
+Fisalia,3510,1585,Ribera del Riel
+Senda Esvante,3210,1585,Ribera del Riel
+Fisalia,3610,1586,Ribera del Riel
+Senda Fornelia,3210,1586,Ribera del Riel
+Fisalia,3710,1587,Ribera del Riel
+Senda Grivanto,3210,1587,Ribera del Riel
+Fisalia,3810,1588,Ribera del Riel
+Senda Hondelia,3210,1588,Ribera del Riel
+Fisalia,3910,1589,Ribera del Riel
+Senda Isvario,3210,1589,Ribera del Riel
+Fisalia,4010,1590,Ribera del Riel
+Senda Jundela,3210,1590,Ribera del Riel
+Fisalia,4110,1591,Ribera del Riel
+Paso Alvireo,3210,1591,Ribera del Riel
+Fisalia,4210,1592,Ribera del Riel
+Paso Brumiel,3210,1592,Ribera del Riel
+Fisalia,4310,1593,Ribera del Riel
+Paso Celdaro,3210,1593,Ribera del Riel
+Fisalia,4410,1594,Ribera del Riel
+Paso Dunaria,3210,1594,Ribera del Riel
+Fisalia,4510,1595,Ribera del Riel
+Paso Esvante,3210,1595,Ribera del Riel
+Fisalia,4610,1596,Ribera del Riel
+Paso Fornelia,3210,1596,Ribera del Riel
+Fisalia,4710,1597,Ribera del Riel
+Paso Grivanto,3210,1597,Ribera del Riel
+Fisalia,4810,1598,Ribera del Riel
+Paso Hondelia,3210,1598,Ribera del Riel
+Fisalia,4910,1599,Ribera del Riel
+Paso Isvario,3210,1599,Ribera del Riel
+Fisalia,5010,1600,Ribera del Riel
+Paso Jundela,3210,1600,Ribera del Riel
+Galdoria,110,1601,Las Poleas
+Trama Alvireo,3310,1601,Las Poleas
+Galdoria,210,1602,Las Poleas
+Trama Brumiel,3310,1602,Las Poleas
+Galdoria,310,1603,Las Poleas
+Trama Celdaro,3310,1603,Las Poleas
+Galdoria,410,1604,Las Poleas
+Trama Dunaria,3310,1604,Las Poleas
+Galdoria,510,1605,Las Poleas
+Trama Esvante,3310,1605,Las Poleas
+Galdoria,610,1606,Las Poleas
+Trama Fornelia,3310,1606,Las Poleas
+Galdoria,710,1607,Las Poleas
+Trama Grivanto,3310,1607,Las Poleas
+Galdoria,810,1608,Las Poleas
+Trama Hondelia,3310,1608,Las Poleas
+Galdoria,910,1609,Las Poleas
+Trama Isvario,3310,1609,Las Poleas
+Galdoria,1010,1610,Las Poleas
+Trama Jundela,3310,1610,Las Poleas
+Galdoria,1110,1611,Las Poleas
+Ronda Alvireo,3310,1611,Las Poleas
+Galdoria,1210,1612,Las Poleas
+Ronda Brumiel,3310,1612,Las Poleas
+Galdoria,1310,1613,Las Poleas
+Ronda Celdaro,3310,1613,Las Poleas
+Galdoria,1410,1614,Las Poleas
+Ronda Dunaria,3310,1614,Las Poleas
+Galdoria,1510,1615,Las Poleas
+Ronda Esvante,3310,1615,Las Poleas
+Galdoria,1610,1616,Las Poleas
+Ronda Fornelia,3310,1616,Las Poleas
+Galdoria,1710,1617,Las Poleas
+Ronda Grivanto,3310,1617,Las Poleas
+Galdoria,1810,1618,Loma de Junco
+Ronda Hondelia,3310,1618,Loma de Junco
+Galdoria,1910,1619,Loma de Junco
+Ronda Isvario,3310,1619,Loma de Junco
+Galdoria,2010,1620,Loma de Junco
+Ronda Jundela,3310,1620,Loma de Junco
+Galdoria,2110,1621,Loma de Junco
+Vuelta Alvireo,3310,1621,Loma de Junco
+Galdoria,2210,1622,Loma de Junco
+Vuelta Brumiel,3310,1622,Loma de Junco
+Galdoria,2310,1623,Loma de Junco
+Vuelta Celdaro,3310,1623,Loma de Junco
+Galdoria,2410,1624,Loma de Junco
+Vuelta Dunaria,3310,1624,Loma de Junco
+Galdoria,2510,1625,Loma de Junco
+Vuelta Esvante,3310,1625,Loma de Junco
+Galdoria,2610,1626,Loma de Junco
+Vuelta Fornelia,3310,1626,Loma de Junco
+Galdoria,2710,1627,Loma de Junco
+Vuelta Grivanto,3310,1627,Loma de Junco
+Galdoria,2810,1628,Loma de Junco
+Vuelta Hondelia,3310,1628,Loma de Junco
+Galdoria,2910,1629,Loma de Junco
+Vuelta Isvario,3310,1629,Loma de Junco
+Galdoria,3010,1630,Loma de Junco
+Vuelta Jundela,3310,1630,Loma de Junco
+Galdoria,3110,1631,Loma de Junco
+Senda Alvireo,3310,1631,Loma de Junco
+Galdoria,3210,1632,Loma de Junco
+Senda Brumiel,3310,1632,Loma de Junco
+Galdoria,3310,1633,Loma de Junco
+Senda Celdaro,3310,1633,Loma de Junco
+Galdoria,3410,1634,Loma de Junco
+Senda Dunaria,3310,1634,Loma de Junco
+Galdoria,3510,1635,Ribera del Riel
+Senda Esvante,3310,1635,Ribera del Riel
+Galdoria,3610,1636,Ribera del Riel
+Senda Fornelia,3310,1636,Ribera del Riel
+Galdoria,3710,1637,Ribera del Riel
+Senda Grivanto,3310,1637,Ribera del Riel
+Galdoria,3810,1638,Ribera del Riel
+Senda Hondelia,3310,1638,Ribera del Riel
+Galdoria,3910,1639,Ribera del Riel
+Senda Isvario,3310,1639,Ribera del Riel
+Galdoria,4010,1640,Ribera del Riel
+Senda Jundela,3310,1640,Ribera del Riel
+Galdoria,4110,1641,Ribera del Riel
+Paso Alvireo,3310,1641,Ribera del Riel
+Galdoria,4210,1642,Ribera del Riel
+Paso Brumiel,3310,1642,Ribera del Riel
+Galdoria,4310,1643,Ribera del Riel
+Paso Celdaro,3310,1643,Ribera del Riel
+Galdoria,4410,1644,Ribera del Riel
+Paso Dunaria,3310,1644,Ribera del Riel
+Galdoria,4510,1645,Ribera del Riel
+Paso Esvante,3310,1645,Ribera del Riel
+Galdoria,4610,1646,Ribera del Riel
+Paso Fornelia,3310,1646,Ribera del Riel
+Galdoria,4710,1647,Ribera del Riel
+Paso Grivanto,3310,1647,Ribera del Riel
+Galdoria,4810,1648,Ribera del Riel
+Paso Hondelia,3310,1648,Ribera del Riel
+Galdoria,4910,1649,Ribera del Riel
+Paso Isvario,3310,1649,Ribera del Riel
+Galdoria,5010,1650,Ribera del Riel
+Paso Jundela,3310,1650,Ribera del Riel
+Herlanta,110,1651,Las Poleas
+Trama Alvireo,3410,1651,Las Poleas
+Herlanta,210,1652,Las Poleas
+Trama Brumiel,3410,1652,Las Poleas
+Herlanta,310,1653,Las Poleas
+Trama Celdaro,3410,1653,Las Poleas
+Herlanta,410,1654,Las Poleas
+Trama Dunaria,3410,1654,Las Poleas
+Herlanta,510,1655,Las Poleas
+Trama Esvante,3410,1655,Las Poleas
+Herlanta,610,1656,Las Poleas
+Trama Fornelia,3410,1656,Las Poleas
+Herlanta,710,1657,Las Poleas
+Trama Grivanto,3410,1657,Las Poleas
+Herlanta,810,1658,Las Poleas
+Trama Hondelia,3410,1658,Las Poleas
+Herlanta,910,1659,Las Poleas
+Trama Isvario,3410,1659,Las Poleas
+Herlanta,1010,1660,Las Poleas
+Trama Jundela,3410,1660,Las Poleas
+Herlanta,1110,1661,Las Poleas
+Ronda Alvireo,3410,1661,Las Poleas
+Herlanta,1210,1662,Las Poleas
+Ronda Brumiel,3410,1662,Las Poleas
+Herlanta,1310,1663,Las Poleas
+Ronda Celdaro,3410,1663,Las Poleas
+Herlanta,1410,1664,Las Poleas
+Ronda Dunaria,3410,1664,Las Poleas
+Herlanta,1510,1665,Las Poleas
+Ronda Esvante,3410,1665,Las Poleas
+Herlanta,1610,1666,Las Poleas
+Ronda Fornelia,3410,1666,Las Poleas
+Herlanta,1710,1667,Las Poleas
+Ronda Grivanto,3410,1667,Las Poleas
+Herlanta,1810,1668,Loma de Junco
+Ronda Hondelia,3410,1668,Loma de Junco
+Herlanta,1910,1669,Loma de Junco
+Ronda Isvario,3410,1669,Loma de Junco
+Herlanta,2010,1670,Loma de Junco
+Ronda Jundela,3410,1670,Loma de Junco
+Herlanta,2110,1671,Loma de Junco
+Vuelta Alvireo,3410,1671,Loma de Junco
+Herlanta,2210,1672,Loma de Junco
+Vuelta Brumiel,3410,1672,Loma de Junco
+Herlanta,2310,1673,Loma de Junco
+Vuelta Celdaro,3410,1673,Loma de Junco
+Herlanta,2410,1674,Loma de Junco
+Vuelta Dunaria,3410,1674,Loma de Junco
+Herlanta,2510,1675,Loma de Junco
+Vuelta Esvante,3410,1675,Loma de Junco
+Herlanta,2610,1676,Loma de Junco
+Vuelta Fornelia,3410,1676,Loma de Junco
+Herlanta,2710,1677,Loma de Junco
+Vuelta Grivanto,3410,1677,Loma de Junco
+Herlanta,2810,1678,Loma de Junco
+Vuelta Hondelia,3410,1678,Loma de Junco
+Herlanta,2910,1679,Loma de Junco
+Vuelta Isvario,3410,1679,Loma de Junco
+Herlanta,3010,1680,Loma de Junco
+Vuelta Jundela,3410,1680,Loma de Junco
+Herlanta,3110,1681,Loma de Junco
+Senda Alvireo,3410,1681,Loma de Junco
+Herlanta,3210,1682,Loma de Junco
+Senda Brumiel,3410,1682,Loma de Junco
+Herlanta,3310,1683,Loma de Junco
+Senda Celdaro,3410,1683,Loma de Junco
+Herlanta,3410,1684,Loma de Junco
+Senda Dunaria,3410,1684,Loma de Junco
+Herlanta,3510,1685,Ribera del Riel
+Senda Esvante,3410,1685,Ribera del Riel
+Herlanta,3610,1686,Ribera del Riel
+Senda Fornelia,3410,1686,Ribera del Riel
+Herlanta,3710,1687,Ribera del Riel
+Senda Grivanto,3410,1687,Ribera del Riel
+Herlanta,3810,1688,Ribera del Riel
+Senda Hondelia,3410,1688,Ribera del Riel
+Herlanta,3910,1689,Ribera del Riel
+Senda Isvario,3410,1689,Ribera del Riel
+Herlanta,4010,1690,Ribera del Riel
+Senda Jundela,3410,1690,Ribera del Riel
+Herlanta,4110,1691,Ribera del Riel
+Paso Alvireo,3410,1691,Ribera del Riel
+Herlanta,4210,1692,Ribera del Riel
+Paso Brumiel,3410,1692,Ribera del Riel
+Herlanta,4310,1693,Ribera del Riel
+Paso Celdaro,3410,1693,Ribera del Riel
+Herlanta,4410,1694,Ribera del Riel
+Paso Dunaria,3410,1694,Ribera del Riel
+Herlanta,4510,1695,Ribera del Riel
+Paso Esvante,3410,1695,Ribera del Riel
+Herlanta,4610,1696,Ribera del Riel
+Paso Fornelia,3410,1696,Ribera del Riel
+Herlanta,4710,1697,Ribera del Riel
+Paso Grivanto,3410,1697,Ribera del Riel
+Herlanta,4810,1698,Ribera del Riel
+Paso Hondelia,3410,1698,Ribera del Riel
+Herlanta,4910,1699,Ribera del Riel
+Paso Isvario,3410,1699,Ribera del Riel
+Herlanta,5010,1700,Ribera del Riel
+Paso Jundela,3410,1700,Ribera del Riel
+Irundela,110,1701,Las Poleas
+Trama Alvireo,3510,1701,Las Poleas
+Irundela,210,1702,Las Poleas
+Trama Brumiel,3510,1702,Las Poleas
+Irundela,310,1703,Las Poleas
+Trama Celdaro,3510,1703,Las Poleas
+Irundela,410,1704,Las Poleas
+Trama Dunaria,3510,1704,Las Poleas
+Irundela,510,1705,Las Poleas
+Trama Esvante,3510,1705,Las Poleas
+Irundela,610,1706,Las Poleas
+Trama Fornelia,3510,1706,Las Poleas
+Irundela,710,1707,Las Poleas
+Trama Grivanto,3510,1707,Las Poleas
+Irundela,810,1708,Las Poleas
+Trama Hondelia,3510,1708,Las Poleas
+Irundela,910,1709,Las Poleas
+Trama Isvario,3510,1709,Las Poleas
+Irundela,1010,1710,Las Poleas
+Trama Jundela,3510,1710,Las Poleas
+Irundela,1110,1711,Las Poleas
+Ronda Alvireo,3510,1711,Las Poleas
+Irundela,1210,1712,Las Poleas
+Ronda Brumiel,3510,1712,Las Poleas
+Irundela,1310,1713,Las Poleas
+Ronda Celdaro,3510,1713,Las Poleas
+Irundela,1410,1714,Las Poleas
+Ronda Dunaria,3510,1714,Las Poleas
+Irundela,1510,1715,Las Poleas
+Ronda Esvante,3510,1715,Las Poleas
+Irundela,1610,1716,Las Poleas
+Ronda Fornelia,3510,1716,Las Poleas
+Irundela,1710,1717,Las Poleas
+Ronda Grivanto,3510,1717,Las Poleas
+Irundela,1810,1718,Loma de Junco
+Ronda Hondelia,3510,1718,Loma de Junco
+Irundela,1910,1719,Loma de Junco
+Ronda Isvario,3510,1719,Loma de Junco
+Irundela,2010,1720,Loma de Junco
+Ronda Jundela,3510,1720,Loma de Junco
+Irundela,2110,1721,Loma de Junco
+Vuelta Alvireo,3510,1721,Loma de Junco
+Irundela,2210,1722,Loma de Junco
+Vuelta Brumiel,3510,1722,Loma de Junco
+Irundela,2310,1723,Loma de Junco
+Vuelta Celdaro,3510,1723,Loma de Junco
+Irundela,2410,1724,Loma de Junco
+Vuelta Dunaria,3510,1724,Loma de Junco
+Irundela,2510,1725,Loma de Junco
+Vuelta Esvante,3510,1725,Loma de Junco
+Irundela,2610,1726,Loma de Junco
+Vuelta Fornelia,3510,1726,Loma de Junco
+Irundela,2710,1727,Loma de Junco
+Vuelta Grivanto,3510,1727,Loma de Junco
+Irundela,2810,1728,Loma de Junco
+Vuelta Hondelia,3510,1728,Loma de Junco
+Irundela,2910,1729,Loma de Junco
+Vuelta Isvario,3510,1729,Loma de Junco
+Irundela,3010,1730,Loma de Junco
+Vuelta Jundela,3510,1730,Loma de Junco
+Irundela,3110,1731,Loma de Junco
+Senda Alvireo,3510,1731,Loma de Junco
+Irundela,3210,1732,Loma de Junco
+Senda Brumiel,3510,1732,Loma de Junco
+Irundela,3310,1733,Loma de Junco
+Senda Celdaro,3510,1733,Loma de Junco
+Irundela,3410,1734,Loma de Junco
+Senda Dunaria,3510,1734,Loma de Junco
+Irundela,3510,1735,Ribera del Riel
+Senda Esvante,3510,1735,Ribera del Riel
+Irundela,3610,1736,Ribera del Riel
+Senda Fornelia,3510,1736,Ribera del Riel
+Irundela,3710,1737,Ribera del Riel
+Senda Grivanto,3510,1737,Ribera del Riel
+Irundela,3810,1738,Ribera del Riel
+Senda Hondelia,3510,1738,Ribera del Riel
+Irundela,3910,1739,Ribera del Riel
+Senda Isvario,3510,1739,Ribera del Riel
+Irundela,4010,1740,Ribera del Riel
+Senda Jundela,3510,1740,Ribera del Riel
+Irundela,4110,1741,Ribera del Riel
+Paso Alvireo,3510,1741,Ribera del Riel
+Irundela,4210,1742,Ribera del Riel
+Paso Brumiel,3510,1742,Ribera del Riel
+Irundela,4310,1743,Ribera del Riel
+Paso Celdaro,3510,1743,Ribera del Riel
+Irundela,4410,1744,Ribera del Riel
+Paso Dunaria,3510,1744,Ribera del Riel
+Irundela,4510,1745,Ribera del Riel
+Paso Esvante,3510,1745,Ribera del Riel
+Irundela,4610,1746,Ribera del Riel
+Paso Fornelia,3510,1746,Ribera del Riel
+Irundela,4710,1747,Ribera del Riel
+Paso Grivanto,3510,1747,Ribera del Riel
+Irundela,4810,1748,Ribera del Riel
+Paso Hondelia,3510,1748,Ribera del Riel
+Irundela,4910,1749,Ribera del Riel
+Paso Isvario,3510,1749,Ribera del Riel
+Irundela,5010,1750,Ribera del Riel
+Paso Jundela,3510,1750,Ribera del Riel
+Jasmoria,110,1751,Las Poleas
+Trama Alvireo,3610,1751,Las Poleas
+Jasmoria,210,1752,Las Poleas
+Trama Brumiel,3610,1752,Las Poleas
+Jasmoria,310,1753,Las Poleas
+Trama Celdaro,3610,1753,Las Poleas
+Jasmoria,410,1754,Las Poleas
+Trama Dunaria,3610,1754,Las Poleas
+Jasmoria,510,1755,Las Poleas
+Trama Esvante,3610,1755,Las Poleas
+Jasmoria,610,1756,Las Poleas
+Trama Fornelia,3610,1756,Las Poleas
+Jasmoria,710,1757,Las Poleas
+Trama Grivanto,3610,1757,Las Poleas
+Jasmoria,810,1758,Las Poleas
+Trama Hondelia,3610,1758,Las Poleas
+Jasmoria,910,1759,Las Poleas
+Trama Isvario,3610,1759,Las Poleas
+Jasmoria,1010,1760,Las Poleas
+Trama Jundela,3610,1760,Las Poleas
+Jasmoria,1110,1761,Las Poleas
+Ronda Alvireo,3610,1761,Las Poleas
+Jasmoria,1210,1762,Las Poleas
+Ronda Brumiel,3610,1762,Las Poleas
+Jasmoria,1310,1763,Las Poleas
+Ronda Celdaro,3610,1763,Las Poleas
+Jasmoria,1410,1764,Las Poleas
+Ronda Dunaria,3610,1764,Las Poleas
+Jasmoria,1510,1765,Las Poleas
+Ronda Esvante,3610,1765,Las Poleas
+Jasmoria,1610,1766,Las Poleas
+Ronda Fornelia,3610,1766,Las Poleas
+Jasmoria,1710,1767,Las Poleas
+Ronda Grivanto,3610,1767,Las Poleas
+Jasmoria,1810,1768,Loma de Junco
+Ronda Hondelia,3610,1768,Loma de Junco
+Jasmoria,1910,1769,Loma de Junco
+Ronda Isvario,3610,1769,Loma de Junco
+Jasmoria,2010,1770,Loma de Junco
+Ronda Jundela,3610,1770,Loma de Junco
+Jasmoria,2110,1771,Loma de Junco
+Vuelta Alvireo,3610,1771,Loma de Junco
+Jasmoria,2210,1772,Loma de Junco
+Vuelta Brumiel,3610,1772,Loma de Junco
+Jasmoria,2310,1773,Loma de Junco
+Vuelta Celdaro,3610,1773,Loma de Junco
+Jasmoria,2410,1774,Loma de Junco
+Vuelta Dunaria,3610,1774,Loma de Junco
+Jasmoria,2510,1775,Loma de Junco
+Vuelta Esvante,3610,1775,Loma de Junco
+Jasmoria,2610,1776,Loma de Junco
+Vuelta Fornelia,3610,1776,Loma de Junco
+Jasmoria,2710,1777,Loma de Junco
+Vuelta Grivanto,3610,1777,Loma de Junco
+Jasmoria,2810,1778,Loma de Junco
+Vuelta Hondelia,3610,1778,Loma de Junco
+Jasmoria,2910,1779,Loma de Junco
+Vuelta Isvario,3610,1779,Loma de Junco
+Jasmoria,3010,1780,Loma de Junco
+Vuelta Jundela,3610,1780,Loma de Junco
+Jasmoria,3110,1781,Loma de Junco
+Senda Alvireo,3610,1781,Loma de Junco
+Jasmoria,3210,1782,Loma de Junco
+Senda Brumiel,3610,1782,Loma de Junco
+Jasmoria,3310,1783,Loma de Junco
+Senda Celdaro,3610,1783,Loma de Junco
+Jasmoria,3410,1784,Loma de Junco
+Senda Dunaria,3610,1784,Loma de Junco
+Jasmoria,3510,1785,Ribera del Riel
+Senda Esvante,3610,1785,Ribera del Riel
+Jasmoria,3610,1786,Ribera del Riel
+Senda Fornelia,3610,1786,Ribera del Riel
+Jasmoria,3710,1787,Ribera del Riel
+Senda Grivanto,3610,1787,Ribera del Riel
+Jasmoria,3810,1788,Ribera del Riel
+Senda Hondelia,3610,1788,Ribera del Riel
+Jasmoria,3910,1789,Ribera del Riel
+Senda Isvario,3610,1789,Ribera del Riel
+Jasmoria,4010,1790,Ribera del Riel
+Senda Jundela,3610,1790,Ribera del Riel
+Jasmoria,4110,1791,Ribera del Riel
+Paso Alvireo,3610,1791,Ribera del Riel
+Jasmoria,4210,1792,Ribera del Riel
+Paso Brumiel,3610,1792,Ribera del Riel
+Jasmoria,4310,1793,Ribera del Riel
+Paso Celdaro,3610,1793,Ribera del Riel
+Jasmoria,4410,1794,Ribera del Riel
+Paso Dunaria,3610,1794,Ribera del Riel
+Jasmoria,4510,1795,Ribera del Riel
+Paso Esvante,3610,1795,Ribera del Riel
+Jasmoria,4610,1796,Ribera del Riel
+Paso Fornelia,3610,1796,Ribera del Riel
+Jasmoria,4710,1797,Ribera del Riel
+Paso Grivanto,3610,1797,Ribera del Riel
+Jasmoria,4810,1798,Ribera del Riel
+Paso Hondelia,3610,1798,Ribera del Riel
+Jasmoria,4910,1799,Ribera del Riel
+Paso Isvario,3610,1799,Ribera del Riel
+Jasmoria,5010,1800,Ribera del Riel
+Paso Jundela,3610,1800,Ribera del Riel
+Korlanta,110,1801,Las Poleas
+Trama Alvireo,3710,1801,Las Poleas
+Korlanta,210,1802,Las Poleas
+Trama Brumiel,3710,1802,Las Poleas
+Korlanta,310,1803,Las Poleas
+Trama Celdaro,3710,1803,Las Poleas
+Korlanta,410,1804,Las Poleas
+Trama Dunaria,3710,1804,Las Poleas
+Korlanta,510,1805,Las Poleas
+Trama Esvante,3710,1805,Las Poleas
+Korlanta,610,1806,Las Poleas
+Trama Fornelia,3710,1806,Las Poleas
+Korlanta,710,1807,Las Poleas
+Trama Grivanto,3710,1807,Las Poleas
+Korlanta,810,1808,Las Poleas
+Trama Hondelia,3710,1808,Las Poleas
+Korlanta,910,1809,Las Poleas
+Trama Isvario,3710,1809,Las Poleas
+Korlanta,1010,1810,Las Poleas
+Trama Jundela,3710,1810,Las Poleas
+Korlanta,1110,1811,Las Poleas
+Ronda Alvireo,3710,1811,Las Poleas
+Korlanta,1210,1812,Las Poleas
+Ronda Brumiel,3710,1812,Las Poleas
+Korlanta,1310,1813,Las Poleas
+Ronda Celdaro,3710,1813,Las Poleas
+Korlanta,1410,1814,Las Poleas
+Ronda Dunaria,3710,1814,Las Poleas
+Korlanta,1510,1815,Las Poleas
+Ronda Esvante,3710,1815,Las Poleas
+Korlanta,1610,1816,Las Poleas
+Ronda Fornelia,3710,1816,Las Poleas
+Korlanta,1710,1817,Las Poleas
+Ronda Grivanto,3710,1817,Las Poleas
+Korlanta,1810,1818,Loma de Junco
+Ronda Hondelia,3710,1818,Loma de Junco
+Korlanta,1910,1819,Loma de Junco
+Ronda Isvario,3710,1819,Loma de Junco
+Korlanta,2010,1820,Loma de Junco
+Ronda Jundela,3710,1820,Loma de Junco
+Korlanta,2110,1821,Loma de Junco
+Vuelta Alvireo,3710,1821,Loma de Junco
+Korlanta,2210,1822,Loma de Junco
+Vuelta Brumiel,3710,1822,Loma de Junco
+Korlanta,2310,1823,Loma de Junco
+Vuelta Celdaro,3710,1823,Loma de Junco
+Korlanta,2410,1824,Loma de Junco
+Vuelta Dunaria,3710,1824,Loma de Junco
+Korlanta,2510,1825,Loma de Junco
+Vuelta Esvante,3710,1825,Loma de Junco
+Korlanta,2610,1826,Loma de Junco
+Vuelta Fornelia,3710,1826,Loma de Junco
+Korlanta,2710,1827,Loma de Junco
+Vuelta Grivanto,3710,1827,Loma de Junco
+Korlanta,2810,1828,Loma de Junco
+Vuelta Hondelia,3710,1828,Loma de Junco
+Korlanta,2910,1829,Loma de Junco
+Vuelta Isvario,3710,1829,Loma de Junco
+Korlanta,3010,1830,Loma de Junco
+Vuelta Jundela,3710,1830,Loma de Junco
+Korlanta,3110,1831,Loma de Junco
+Senda Alvireo,3710,1831,Loma de Junco
+Korlanta,3210,1832,Loma de Junco
+Senda Brumiel,3710,1832,Loma de Junco
+Korlanta,3310,1833,Loma de Junco
+Senda Celdaro,3710,1833,Loma de Junco
+Korlanta,3410,1834,Loma de Junco
+Senda Dunaria,3710,1834,Loma de Junco
+Korlanta,3510,1835,Ribera del Riel
+Senda Esvante,3710,1835,Ribera del Riel
+Korlanta,3610,1836,Ribera del Riel
+Senda Fornelia,3710,1836,Ribera del Riel
+Korlanta,3710,1837,Ribera del Riel
+Senda Grivanto,3710,1837,Ribera del Riel
+Korlanta,3810,1838,Ribera del Riel
+Senda Hondelia,3710,1838,Ribera del Riel
+Korlanta,3910,1839,Ribera del Riel
+Senda Isvario,3710,1839,Ribera del Riel
+Korlanta,4010,1840,Ribera del Riel
+Senda Jundela,3710,1840,Ribera del Riel
+Korlanta,4110,1841,Ribera del Riel
+Paso Alvireo,3710,1841,Ribera del Riel
+Korlanta,4210,1842,Ribera del Riel
+Paso Brumiel,3710,1842,Ribera del Riel
+Korlanta,4310,1843,Ribera del Riel
+Paso Celdaro,3710,1843,Ribera del Riel
+Korlanta,4410,1844,Ribera del Riel
+Paso Dunaria,3710,1844,Ribera del Riel
+Korlanta,4510,1845,Ribera del Riel
+Paso Esvante,3710,1845,Ribera del Riel
+Korlanta,4610,1846,Ribera del Riel
+Paso Fornelia,3710,1846,Ribera del Riel
+Korlanta,4710,1847,Ribera del Riel
+Paso Grivanto,3710,1847,Ribera del Riel
+Korlanta,4810,1848,Ribera del Riel
+Paso Hondelia,3710,1848,Ribera del Riel
+Korlanta,4910,1849,Ribera del Riel
+Paso Isvario,3710,1849,Ribera del Riel
+Korlanta,5010,1850,Ribera del Riel
+Paso Jundela,3710,1850,Ribera del Riel
+Lendoria,110,1851,Las Poleas
+Trama Alvireo,3810,1851,Las Poleas
+Lendoria,210,1852,Las Poleas
+Trama Brumiel,3810,1852,Las Poleas
+Lendoria,310,1853,Las Poleas
+Trama Celdaro,3810,1853,Las Poleas
+Lendoria,410,1854,Las Poleas
+Trama Dunaria,3810,1854,Las Poleas
+Lendoria,510,1855,Las Poleas
+Trama Esvante,3810,1855,Las Poleas
+Lendoria,610,1856,Las Poleas
+Trama Fornelia,3810,1856,Las Poleas
+Lendoria,710,1857,Las Poleas
+Trama Grivanto,3810,1857,Las Poleas
+Lendoria,810,1858,Las Poleas
+Trama Hondelia,3810,1858,Las Poleas
+Lendoria,910,1859,Las Poleas
+Trama Isvario,3810,1859,Las Poleas
+Lendoria,1010,1860,Las Poleas
+Trama Jundela,3810,1860,Las Poleas
+Lendoria,1110,1861,Las Poleas
+Ronda Alvireo,3810,1861,Las Poleas
+Lendoria,1210,1862,Las Poleas
+Ronda Brumiel,3810,1862,Las Poleas
+Lendoria,1310,1863,Las Poleas
+Ronda Celdaro,3810,1863,Las Poleas
+Lendoria,1410,1864,Las Poleas
+Ronda Dunaria,3810,1864,Las Poleas
+Lendoria,1510,1865,Las Poleas
+Ronda Esvante,3810,1865,Las Poleas
+Lendoria,1610,1866,Las Poleas
+Ronda Fornelia,3810,1866,Las Poleas
+Lendoria,1710,1867,Las Poleas
+Ronda Grivanto,3810,1867,Las Poleas
+Lendoria,1810,1868,Loma de Junco
+Ronda Hondelia,3810,1868,Loma de Junco
+Lendoria,1910,1869,Loma de Junco
+Ronda Isvario,3810,1869,Loma de Junco
+Lendoria,2010,1870,Loma de Junco
+Ronda Jundela,3810,1870,Loma de Junco
+Lendoria,2110,1871,Loma de Junco
+Vuelta Alvireo,3810,1871,Loma de Junco
+Lendoria,2210,1872,Loma de Junco
+Vuelta Brumiel,3810,1872,Loma de Junco
+Lendoria,2310,1873,Loma de Junco
+Vuelta Celdaro,3810,1873,Loma de Junco
+Lendoria,2410,1874,Loma de Junco
+Vuelta Dunaria,3810,1874,Loma de Junco
+Lendoria,2510,1875,Loma de Junco
+Vuelta Esvante,3810,1875,Loma de Junco
+Lendoria,2610,1876,Loma de Junco
+Vuelta Fornelia,3810,1876,Loma de Junco
+Lendoria,2710,1877,Loma de Junco
+Vuelta Grivanto,3810,1877,Loma de Junco
+Lendoria,2810,1878,Loma de Junco
+Vuelta Hondelia,3810,1878,Loma de Junco
+Lendoria,2910,1879,Loma de Junco
+Vuelta Isvario,3810,1879,Loma de Junco
+Lendoria,3010,1880,Loma de Junco
+Vuelta Jundela,3810,1880,Loma de Junco
+Lendoria,3110,1881,Loma de Junco
+Senda Alvireo,3810,1881,Loma de Junco
+Lendoria,3210,1882,Loma de Junco
+Senda Brumiel,3810,1882,Loma de Junco
+Lendoria,3310,1883,Loma de Junco
+Senda Celdaro,3810,1883,Loma de Junco
+Lendoria,3410,1884,Loma de Junco
+Senda Dunaria,3810,1884,Loma de Junco
+Lendoria,3510,1885,Ribera del Riel
+Senda Esvante,3810,1885,Ribera del Riel
+Lendoria,3610,1886,Ribera del Riel
+Senda Fornelia,3810,1886,Ribera del Riel
+Lendoria,3710,1887,Ribera del Riel
+Senda Grivanto,3810,1887,Ribera del Riel
+Lendoria,3810,1888,Ribera del Riel
+Senda Hondelia,3810,1888,Ribera del Riel
+Lendoria,3910,1889,Ribera del Riel
+Senda Isvario,3810,1889,Ribera del Riel
+Lendoria,4010,1890,Ribera del Riel
+Senda Jundela,3810,1890,Ribera del Riel
+Lendoria,4110,1891,Ribera del Riel
+Paso Alvireo,3810,1891,Ribera del Riel
+Lendoria,4210,1892,Ribera del Riel
+Paso Brumiel,3810,1892,Ribera del Riel
+Lendoria,4310,1893,Ribera del Riel
+Paso Celdaro,3810,1893,Ribera del Riel
+Lendoria,4410,1894,Ribera del Riel
+Paso Dunaria,3810,1894,Ribera del Riel
+Lendoria,4510,1895,Ribera del Riel
+Paso Esvante,3810,1895,Ribera del Riel
+Lendoria,4610,1896,Ribera del Riel
+Paso Fornelia,3810,1896,Ribera del Riel
+Lendoria,4710,1897,Ribera del Riel
+Paso Grivanto,3810,1897,Ribera del Riel
+Lendoria,4810,1898,Ribera del Riel
+Paso Hondelia,3810,1898,Ribera del Riel
+Lendoria,4910,1899,Ribera del Riel
+Paso Isvario,3810,1899,Ribera del Riel
+Lendoria,5010,1900,Ribera del Riel
+Paso Jundela,3810,1900,Ribera del Riel
+Mirlavia,110,1901,Las Poleas
+Trama Alvireo,3910,1901,Las Poleas
+Mirlavia,210,1902,Las Poleas
+Trama Brumiel,3910,1902,Las Poleas
+Mirlavia,310,1903,Las Poleas
+Trama Celdaro,3910,1903,Las Poleas
+Mirlavia,410,1904,Las Poleas
+Trama Dunaria,3910,1904,Las Poleas
+Mirlavia,510,1905,Las Poleas
+Trama Esvante,3910,1905,Las Poleas
+Mirlavia,610,1906,Las Poleas
+Trama Fornelia,3910,1906,Las Poleas
+Mirlavia,710,1907,Las Poleas
+Trama Grivanto,3910,1907,Las Poleas
+Mirlavia,810,1908,Las Poleas
+Trama Hondelia,3910,1908,Las Poleas
+Mirlavia,910,1909,Las Poleas
+Trama Isvario,3910,1909,Las Poleas
+Mirlavia,1010,1910,Las Poleas
+Trama Jundela,3910,1910,Las Poleas
+Mirlavia,1110,1911,Las Poleas
+Ronda Alvireo,3910,1911,Las Poleas
+Mirlavia,1210,1912,Las Poleas
+Ronda Brumiel,3910,1912,Las Poleas
+Mirlavia,1310,1913,Las Poleas
+Ronda Celdaro,3910,1913,Las Poleas
+Mirlavia,1410,1914,Las Poleas
+Ronda Dunaria,3910,1914,Las Poleas
+Mirlavia,1510,1915,Las Poleas
+Ronda Esvante,3910,1915,Las Poleas
+Mirlavia,1610,1916,Las Poleas
+Ronda Fornelia,3910,1916,Las Poleas
+Mirlavia,1710,1917,Las Poleas
+Ronda Grivanto,3910,1917,Las Poleas
+Mirlavia,1810,1918,Loma de Junco
+Ronda Hondelia,3910,1918,Loma de Junco
+Mirlavia,1910,1919,Loma de Junco
+Ronda Isvario,3910,1919,Loma de Junco
+Mirlavia,2010,1920,Loma de Junco
+Ronda Jundela,3910,1920,Loma de Junco
+Mirlavia,2110,1921,Loma de Junco
+Vuelta Alvireo,3910,1921,Loma de Junco
+Mirlavia,2210,1922,Loma de Junco
+Vuelta Brumiel,3910,1922,Loma de Junco
+Mirlavia,2310,1923,Loma de Junco
+Vuelta Celdaro,3910,1923,Loma de Junco
+Mirlavia,2410,1924,Loma de Junco
+Vuelta Dunaria,3910,1924,Loma de Junco
+Mirlavia,2510,1925,Loma de Junco
+Vuelta Esvante,3910,1925,Loma de Junco
+Mirlavia,2610,1926,Loma de Junco
+Vuelta Fornelia,3910,1926,Loma de Junco
+Mirlavia,2710,1927,Loma de Junco
+Vuelta Grivanto,3910,1927,Loma de Junco
+Mirlavia,2810,1928,Loma de Junco
+Vuelta Hondelia,3910,1928,Loma de Junco
+Mirlavia,2910,1929,Loma de Junco
+Vuelta Isvario,3910,1929,Loma de Junco
+Mirlavia,3010,1930,Loma de Junco
+Vuelta Jundela,3910,1930,Loma de Junco
+Mirlavia,3110,1931,Loma de Junco
+Senda Alvireo,3910,1931,Loma de Junco
+Mirlavia,3210,1932,Loma de Junco
+Senda Brumiel,3910,1932,Loma de Junco
+Mirlavia,3310,1933,Loma de Junco
+Senda Celdaro,3910,1933,Loma de Junco
+Mirlavia,3410,1934,Loma de Junco
+Senda Dunaria,3910,1934,Loma de Junco
+Mirlavia,3510,1935,Ribera del Riel
+Senda Esvante,3910,1935,Ribera del Riel
+Mirlavia,3610,1936,Ribera del Riel
+Senda Fornelia,3910,1936,Ribera del Riel
+Mirlavia,3710,1937,Ribera del Riel
+Senda Grivanto,3910,1937,Ribera del Riel
+Mirlavia,3810,1938,Ribera del Riel
+Senda Hondelia,3910,1938,Ribera del Riel
+Mirlavia,3910,1939,Ribera del Riel
+Senda Isvario,3910,1939,Ribera del Riel
+Mirlavia,4010,1940,Ribera del Riel
+Senda Jundela,3910,1940,Ribera del Riel
+Mirlavia,4110,1941,Ribera del Riel
+Paso Alvireo,3910,1941,Ribera del Riel
+Mirlavia,4210,1942,Ribera del Riel
+Paso Brumiel,3910,1942,Ribera del Riel
+Mirlavia,4310,1943,Ribera del Riel
+Paso Celdaro,3910,1943,Ribera del Riel
+Mirlavia,4410,1944,Ribera del Riel
+Paso Dunaria,3910,1944,Ribera del Riel
+Mirlavia,4510,1945,Ribera del Riel
+Paso Esvante,3910,1945,Ribera del Riel
+Mirlavia,4610,1946,Ribera del Riel
+Paso Fornelia,3910,1946,Ribera del Riel
+Mirlavia,4710,1947,Ribera del Riel
+Paso Grivanto,3910,1947,Ribera del Riel
+Mirlavia,4810,1948,Ribera del Riel
+Paso Hondelia,3910,1948,Ribera del Riel
+Mirlavia,4910,1949,Ribera del Riel
+Paso Isvario,3910,1949,Ribera del Riel
+Mirlavia,5010,1950,Ribera del Riel
+Paso Jundela,3910,1950,Ribera del Riel
+Norquenda,110,1951,Las Poleas
+Trama Alvireo,4010,1951,Las Poleas
+Norquenda,210,1952,Las Poleas
+Trama Brumiel,4010,1952,Las Poleas
+Norquenda,310,1953,Las Poleas
+Trama Celdaro,4010,1953,Las Poleas
+Norquenda,410,1954,Las Poleas
+Trama Dunaria,4010,1954,Las Poleas
+Norquenda,510,1955,Las Poleas
+Trama Esvante,4010,1955,Las Poleas
+Norquenda,610,1956,Las Poleas
+Trama Fornelia,4010,1956,Las Poleas
+Norquenda,710,1957,Las Poleas
+Trama Grivanto,4010,1957,Las Poleas
+Norquenda,810,1958,Las Poleas
+Trama Hondelia,4010,1958,Las Poleas
+Norquenda,910,1959,Las Poleas
+Trama Isvario,4010,1959,Las Poleas
+Norquenda,1010,1960,Las Poleas
+Trama Jundela,4010,1960,Las Poleas
+Norquenda,1110,1961,Las Poleas
+Ronda Alvireo,4010,1961,Las Poleas
+Norquenda,1210,1962,Las Poleas
+Ronda Brumiel,4010,1962,Las Poleas
+Norquenda,1310,1963,Las Poleas
+Ronda Celdaro,4010,1963,Las Poleas
+Norquenda,1410,1964,Las Poleas
+Ronda Dunaria,4010,1964,Las Poleas
+Norquenda,1510,1965,Las Poleas
+Ronda Esvante,4010,1965,Las Poleas
+Norquenda,1610,1966,Las Poleas
+Ronda Fornelia,4010,1966,Las Poleas
+Norquenda,1710,1967,Las Poleas
+Ronda Grivanto,4010,1967,Las Poleas
+Norquenda,1810,1968,Loma de Junco
+Ronda Hondelia,4010,1968,Loma de Junco
+Norquenda,1910,1969,Loma de Junco
+Ronda Isvario,4010,1969,Loma de Junco
+Norquenda,2010,1970,Loma de Junco
+Ronda Jundela,4010,1970,Loma de Junco
+Norquenda,2110,1971,Loma de Junco
+Vuelta Alvireo,4010,1971,Loma de Junco
+Norquenda,2210,1972,Loma de Junco
+Vuelta Brumiel,4010,1972,Loma de Junco
+Norquenda,2310,1973,Loma de Junco
+Vuelta Celdaro,4010,1973,Loma de Junco
+Norquenda,2410,1974,Loma de Junco
+Vuelta Dunaria,4010,1974,Loma de Junco
+Norquenda,2510,1975,Loma de Junco
+Vuelta Esvante,4010,1975,Loma de Junco
+Norquenda,2610,1976,Loma de Junco
+Vuelta Fornelia,4010,1976,Loma de Junco
+Norquenda,2710,1977,Loma de Junco
+Vuelta Grivanto,4010,1977,Loma de Junco
+Norquenda,2810,1978,Loma de Junco
+Vuelta Hondelia,4010,1978,Loma de Junco
+Norquenda,2910,1979,Loma de Junco
+Vuelta Isvario,4010,1979,Loma de Junco
+Norquenda,3010,1980,Loma de Junco
+Vuelta Jundela,4010,1980,Loma de Junco
+Norquenda,3110,1981,Loma de Junco
+Senda Alvireo,4010,1981,Loma de Junco
+Norquenda,3210,1982,Loma de Junco
+Senda Brumiel,4010,1982,Loma de Junco
+Norquenda,3310,1983,Loma de Junco
+Senda Celdaro,4010,1983,Loma de Junco
+Norquenda,3410,1984,Loma de Junco
+Senda Dunaria,4010,1984,Loma de Junco
+Norquenda,3510,1985,Ribera del Riel
+Senda Esvante,4010,1985,Ribera del Riel
+Norquenda,3610,1986,Ribera del Riel
+Senda Fornelia,4010,1986,Ribera del Riel
+Norquenda,3710,1987,Ribera del Riel
+Senda Grivanto,4010,1987,Ribera del Riel
+Norquenda,3810,1988,Ribera del Riel
+Senda Hondelia,4010,1988,Ribera del Riel
+Norquenda,3910,1989,Ribera del Riel
+Senda Isvario,4010,1989,Ribera del Riel
+Norquenda,4010,1990,Ribera del Riel
+Senda Jundela,4010,1990,Ribera del Riel
+Norquenda,4110,1991,Ribera del Riel
+Paso Alvireo,4010,1991,Ribera del Riel
+Norquenda,4210,1992,Ribera del Riel
+Paso Brumiel,4010,1992,Ribera del Riel
+Norquenda,4310,1993,Ribera del Riel
+Paso Celdaro,4010,1993,Ribera del Riel
+Norquenda,4410,1994,Ribera del Riel
+Paso Dunaria,4010,1994,Ribera del Riel
+Norquenda,4510,1995,Ribera del Riel
+Paso Esvante,4010,1995,Ribera del Riel
+Norquenda,4610,1996,Ribera del Riel
+Paso Fornelia,4010,1996,Ribera del Riel
+Norquenda,4710,1997,Ribera del Riel
+Paso Grivanto,4010,1997,Ribera del Riel
+Norquenda,4810,1998,Ribera del Riel
+Paso Hondelia,4010,1998,Ribera del Riel
+Norquenda,4910,1999,Ribera del Riel
+Paso Isvario,4010,1999,Ribera del Riel
+Norquenda,5010,2000,Ribera del Riel
+Paso Jundela,4010,2000,Ribera del Riel

@@ -1,0 +1,421 @@
+[
+  {
+    "cliente": "C101",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C101",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C101",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C102",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "RUC-AT",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C102",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C102",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "BAN-KG",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C103",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C103",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C103",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      },
+      {
+        "producto": "HUE-M30",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C104",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C104",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C104",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C105",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "RUC-AT",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C105",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C105",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C106",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "ZAN-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C106",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C106",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "HUE-D12",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C107",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "RUC-AT",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C107",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C107",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "MAN-CJ",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C108",
+    "fecha": "2026-11-05",
+    "estado": "consulta",
+    "items": [],
+    "nota": "Pidió catálogo, no cerró pedido."
+  },
+  {
+    "cliente": "C109",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C109",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C109",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "LEC-CJ",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C110",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "BAN-KG",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C110",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C110",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "ACEL-AT",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C111",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C111",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C111",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "BAT-B5",
+        "cantidad": 3
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C112",
+    "fecha": "2026-11-02",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "NAR-CJ",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C112",
+    "fecha": "2026-11-06",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "HUE-M30",
+        "cantidad": 1
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C112",
+    "fecha": "2026-11-10",
+    "estado": "entregado",
+    "items": [
+      {
+        "producto": "TOM-CJ",
+        "cantidad": 2
+      }
+    ],
+    "nota": ""
+  },
+  {
+    "cliente": "C103",
+    "fecha": "2026-11-13",
+    "estado": "cancelado",
+    "items": [
+      {
+        "producto": "PAP-B5",
+        "cantidad": 4
+      }
+    ],
+    "nota": "Canceló antes de preparar."
+  }
+]

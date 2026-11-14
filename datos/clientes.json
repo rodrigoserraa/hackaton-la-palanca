@@ -1,0 +1,139 @@
+[
+  {
+    "cliente": "C101",
+    "nombre": "Mica",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Aleruma",
+        "altura": 510,
+        "nodo": 5
+      }
+    ]
+  },
+  {
+    "cliente": "C102",
+    "nombre": "Nico",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Brisalia",
+        "altura": 810,
+        "nodo": 58
+      }
+    ]
+  },
+  {
+    "cliente": "C103",
+    "nombre": "Marta",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Cuarveta",
+        "altura": 1110,
+        "nodo": 111
+      }
+    ]
+  },
+  {
+    "cliente": "C104",
+    "nombre": "Fede",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Dorsavia",
+        "altura": 1410,
+        "nodo": 164
+      }
+    ]
+  },
+  {
+    "cliente": "C105",
+    "nombre": "Luli",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Espiruna",
+        "altura": 1710,
+        "nodo": 217
+      }
+    ]
+  },
+  {
+    "cliente": "C106",
+    "nombre": "Beto",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Brisalia",
+        "altura": 610,
+        "nodo": 56
+      },
+      {
+        "calle": "Brisalia",
+        "altura": 1910,
+        "nodo": 69
+      }
+    ]
+  },
+  {
+    "cliente": "C107",
+    "nombre": "Ana",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Aleruma",
+        "altura": 2310,
+        "nodo": 23
+      }
+    ]
+  },
+  {
+    "cliente": "C108",
+    "nombre": "Ceci",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Cuarveta",
+        "altura": 2610,
+        "nodo": 126
+      }
+    ]
+  },
+  {
+    "cliente": "C109",
+    "nombre": "Tato",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Dorsavia",
+        "altura": 2910,
+        "nodo": 179
+      }
+    ]
+  },
+  {
+    "cliente": "C110",
+    "nombre": "Noe",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Espiruna",
+        "altura": 3210,
+        "nodo": 232
+      }
+    ]
+  },
+  {
+    "cliente": "C111",
+    "nombre": "Pato",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Brisalia",
+        "altura": 3510,
+        "nodo": 85
+      }
+    ]
+  },
+  {
+    "cliente": "C112",
+    "nombre": "Ro",
+    "domicilios_de_contacto": [
+      {
+        "calle": "Cuarveta",
+        "altura": 3810,
+        "nodo": 138
+      }
+    ]
+  }
+]

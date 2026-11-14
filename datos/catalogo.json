@@ -1,0 +1,98 @@
+[
+  {
+    "producto": "TOM-CJ",
+    "descripcion": "Tomate redondo",
+    "unidad": "cajón",
+    "kg": 20.0,
+    "m3": 0.04,
+    "fraccionable": false
+  },
+  {
+    "producto": "PAP-B5",
+    "descripcion": "Papa blanca",
+    "unidad": "bolsa de 5 kg",
+    "kg": 5.0,
+    "m3": 0.01,
+    "fraccionable": false
+  },
+  {
+    "producto": "BAT-B5",
+    "descripcion": "Batata",
+    "unidad": "bolsa de 5 kg",
+    "kg": 5.0,
+    "m3": 0.01,
+    "fraccionable": false
+  },
+  {
+    "producto": "ZAN-CJ",
+    "descripcion": "Zanahoria",
+    "unidad": "cajón",
+    "kg": 10.0,
+    "m3": 0.03,
+    "fraccionable": false
+  },
+  {
+    "producto": "LEC-CJ",
+    "descripcion": "Lechuga",
+    "unidad": "cajón",
+    "kg": 8.0,
+    "m3": 0.12,
+    "fraccionable": false
+  },
+  {
+    "producto": "ACEL-AT",
+    "descripcion": "Acelga",
+    "unidad": "atado",
+    "kg": 0.6,
+    "m3": 0.006,
+    "fraccionable": false
+  },
+  {
+    "producto": "RUC-AT",
+    "descripcion": "Rúcula",
+    "unidad": "atado",
+    "kg": 0.25,
+    "m3": 0.004,
+    "fraccionable": false
+  },
+  {
+    "producto": "HUE-M30",
+    "descripcion": "Huevos",
+    "unidad": "maple de 30",
+    "kg": 1.8,
+    "m3": 0.012,
+    "fraccionable": false
+  },
+  {
+    "producto": "HUE-D12",
+    "descripcion": "Huevos",
+    "unidad": "docena",
+    "kg": 0.72,
+    "m3": 0.0048,
+    "fraccionable": true
+  },
+  {
+    "producto": "BAN-KG",
+    "descripcion": "Banana",
+    "unidad": "kg",
+    "kg": 1.0,
+    "m3": 0.002,
+    "fraccionable": true
+  },
+  {
+    "producto": "MAN-CJ",
+    "descripcion": "Manzana",
+    "unidad": "cajón",
+    "kg": 18.0,
+    "m3": 0.045,
+    "fraccionable": false
+  },
+  {
+    "producto": "NAR-CJ",
+    "descripcion": "Naranja",
+    "unidad": "cajón",
+    "kg": 15.0,
+    "m3": 0.04,
+    "fraccionable": false
+  }
+]
